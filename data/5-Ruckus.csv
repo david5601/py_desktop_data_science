@@ -1,0 +1,1013 @@
+Hostname,Device Type,OS Vendor,Model Name,IP Address,MAC,WLAN (SSID),AP Name,AP MAC,Traffic (Session),RSSI,SNR,Radio Type,VLAN,VNI,CPE MAC,User Name,Packets dropped,Session start time
+aid-flo-09079283,Smartphone,Android,Android,172.18.44.49/::,14:DD:A9:48:30:8B,svnet,NE Hallway,94:BF:C4:31:33:A0,384509,-53,43,a/n,216,nan,nan,nan,0,6/26/2024 6:36
+aid-flo-09239ac7,Smartphone,Android,Android,172.18.40.13/::,14:DD:A9:48:36:E1,svnet,RuckusAP,94:BF:C4:31:2B:B0,345952,-54,42,g/n,214,nan,nan,nan,0,6/25/2024 13:42
+aid-flo-0a07c225,Smartphone,Android,Android,172.18.32.6/::,30:5A:3A:8D:99:97,svnet,Roll Call,1C:3A:60:03:7E:A0,8587,-65,31,g/n,210,nan,nan,nan,0,6/26/2024 6:21
+aid-flo-0a083a6d,Smartphone,Android,Android,172.18.40.28/::,30:5A:3A:8D:9F:43,svnet,NE Hallway,94:BF:C4:31:33:A0,8401945783,-57,39,a/n,214,nan,nan,nan,22,5/28/2024 11:39
+aid-flo-0a634611,Smartphone,Android,Android,172.18.62.17/::,30:5A:3A:8D:66:DB,svnet,WAP38_Library,94:BF:C4:31:33:A0,712589,-69,27,g/n,225,nan,nan,nan,0,6/25/2024 18:51
+aid-flo-0a73bd10,Smartphone,Android,Android,172.18.56.13/::,14:DD:A9:49:E9:03,svnet,WAP_240A-3,4C:B1:CD:36:C1:50,322330,-73,23,a/n,222,nan,nan,nan,0,6/26/2024 6:33
+aid-flo-0b052bc2,Smartphone,Android,Android,172.18.60.45/::,14:DD:A9:49:58:9B,svnet,WAP28_60 Bed-4,4C:B1:CD:36:DC:70,539851,-65,31,g/n,224,nan,nan,nan,0,6/14/2024 9:19
+aid-jp6-002000b5,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.48.7/::,0A:05:61:B1:C0:28,svnet,RuckusAP,94:BF:C4:31:2B:B0,475310,-62,34,g/n,218,nan,nan,nan,0,6/23/2024 21:43
+aid-jp6-0050ed8e,Smartphone,Android,Android,172.18.40.25/::,0A:05:61:B1:98:10,svnet,WAP_240C-3,4C:B1:CD:36:63:E0,375285,-59,37,g/n,214,nan,nan,nan,0,6/24/2024 23:09
+aid-jp6-006559a9,Smartphone,Android,Android,172.18.34.23/::,0A:06:5C:13:7C:41,svnet,WAP28_60 Bed-4,4C:B1:CD:36:DC:70,48263008,-62,34,g/n,211,nan,nan,nan,155,6/25/2024 19:51
+aid-jp6-00668d3d,Smartphone,Android,Android,172.18.54.9/::,0A:04:67:B3:74:40,svnet,RuckusAP,94:BF:C4:31:2B:B0,142566,-69,27,g/n,221,nan,nan,nan,0,6/25/2024 20:20
+aid-jp6-0088a7d9,Smartphone,Android,Android,172.18.52.25/::,0A:05:9F:F1:7C:17,svnet,WAP_240C-1,4C:B1:CD:36:9A:30,2595982,-47,49,g/n,220,nan,nan,nan,0,6/21/2024 12:15
+aid-jp6-00e976c6,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.42.6/::,0A:04:67:A2:44:1E,svnet,WAP36_FHU,4C:B1:CD:36:9A:30,319793094,-71,25,g/n,215,nan,nan,nan,0,6/25/2024 7:45
+aid-jp6-01027d9a,Smartphone,Android,Android,172.18.56.43/::,0A:04:67:A2:30:AB,svnet,WAP28_60 Bed-4,4C:B1:CD:36:DC:70,63711590,-70,26,g/n,222,nan,nan,nan,0,6/26/2024 2:27
+aid-jp6-014f7b8a,Unknown,Unknown,Android,172.18.56.44/::,0A:04:67:52:68:48,svnet,WAP27_60 Bed-3,94:BF:C4:31:32:30,234367,-72,24,g/n,222,nan,nan,nan,1,6/25/2024 22:41
+aid-jp6-017877f8,Unknown,Unknown,Android,172.18.32.36/::,0A:06:D6:A2:48:DF,svnet,WAP_240C-2,4C:B1:CD:36:DC:00,112194573,-47,49,g/n,210,nan,nan,nan,14,6/25/2024 7:33
+aid-jp6-0219c6d1,Smartphone,Android,Android,172.18.62.20/::,0A:04:67:A1:D0:F0,svnet,WAP_240A-3,4C:B1:CD:36:DC:00,2309970,-55,41,g/n,225,nan,nan,nan,0,6/25/2024 22:56
+aid-jp6-021f8260,Smartphone,Android,Android,172.18.62.30/::,0A:06:5A:02:C8:AB,svnet,WAP15_240D-3,4C:B1:CD:36:AA:D0,493300,-64,32,g/n,225,nan,nan,nan,7,6/24/2024 8:00
+aid-jp6-026d2654,Smartphone,Android,Android,172.18.44.15/::,0A:04:2A:64:6C:6F,svnet,WAP13_240D-1,4C:B1:CD:36:B1:F0,301285,-70,26,g/n,216,nan,nan,nan,31,6/24/2024 9:00
+aid-jp6-026f23e5,Unknown,Unknown,Unknown,172.18.56.52/::,0A:06:5C:12:94:DF,svnet,80Upper UAP2,1C:3A:60:03:7E:A0,142433,-66,30,g/n,222,nan,nan,nan,1,6/25/2024 19:18
+aid-jp6-02c4f360,Smartphone,Android,Android,172.18.36.46/::,0A:05:62:41:2C:96,svnet,WAP22_120B-2,1C:3A:60:03:7E:A0,2423868,-68,28,g/n,212,nan,nan,nan,3,6/25/2024 22:23
+aid-jp6-03264aaf,Smartphone,Android,Android,172.18.32.43/::,0A:05:62:43:40:62,svnet,WAP22_120B-2,4C:B1:CD:36:AB:90,154306,-59,37,g/n,210,nan,nan,nan,4,6/25/2024 22:21
+aid-jp6-04224fe4,Unknown,Unknown,Android,172.18.58.39/::,0A:05:62:13:98:27,svnet,RuckusAP,84:23:88:23:FD:80,2277290,-58,38,a/n,223,nan,nan,nan,0,6/25/2024 20:39
+aid-jp6-04546f33,Smartphone,Android,Android,172.18.50.7/::,0A:04:67:A2:C0:84,svnet,RuckusAP,20:58:69:01:BA:10,2668320,-68,28,g/n,219,nan,nan,nan,0,6/25/2024 21:09
+aid-jp6-0481368c,Unknown,Unknown,Android,172.18.56.27/::,0A:06:5B:84:5C:5E,svnet,WAP27_60 Bed-3,4C:B1:CD:36:DC:70,344761,-51,45,g/n,222,nan,nan,nan,0,6/25/2024 23:20
+aid-jp6-04b17878,Smartphone,Android,Android,172.18.32.26/::,0A:04:67:40:C0:E0,svnet,WAP_240C-3,4C:B1:CD:36:9A:30,2665956,-60,36,g/n,210,nan,nan,nan,0,6/24/2024 23:24
+aid-jp6-04b5618c,Smartphone,Android,Android,172.18.40.11/::,0A:04:66:73:84:A8,svnet,RuckusAP,94:BF:C4:31:2B:B0,2580692,-63,33,g/n,214,nan,nan,nan,2,6/25/2024 21:08
+aid-jp6-0521792c,Smartphone,Android,Android,172.18.44.18/::,0A:05:62:42:90:71,svnet,WAP_240B-3,4C:B1:CD:36:EE:20,50981257,-63,33,g/n,216,nan,nan,nan,147,6/24/2024 9:22
+aid-jp6-054d9cab,Smartphone,Android,Android,172.18.44.69/::,0A:05:9F:F2:70:57,svnet,WAP22_120B-2,4C:B1:CD:36:AB:90,766001,-69,27,g/n,216,nan,nan,nan,0,6/26/2024 0:21
+aid-jp6-058bd2e0,Smartphone,Android,Android,172.18.46.83/::,0A:04:67:A2:98:85,svnet,WAP_240B-2,1C:3A:60:03:7E:A0,2292386,-71,25,g/n,217,nan,nan,nan,4,6/25/2024 22:24
+aid-jp6-059209a0,Smartphone,Android,Android,172.18.46.37/::,0A:04:67:C3:B0:AA,svnet,80 Upper U-AP1,C8:08:73:32:90:B0,11219011,-67,29,a/n,217,nan,nan,nan,0,6/25/2024 20:06
+aid-jp6-05a3b905,Smartphone,Android,Android,172.18.60.22/::,0A:07:16:82:90:BF,svnet,WAP_240B-3,4C:B1:CD:36:9A:40,15278721,-73,23,g/n,224,nan,nan,nan,16,6/23/2024 21:36
+aid-jp6-070299d2,Smartphone,Android,Android,172.18.60.38/::,0A:04:27:F1:60:5B,svnet,80 Upper U-AP1,84:23:88:23:FD:80,2992657,-54,42,a/n,224,nan,nan,nan,0,6/25/2024 21:06
+aid-jp6-07059340,Unknown,Unknown,Unknown,172.18.60.11/::,0A:04:67:B3:40:BC,svnet,RuckusAP,94:BF:C4:31:2B:B0,20913,-52,44,g/n,224,nan,nan,nan,0,6/25/2024 21:22
+aid-jp6-0719a138,Smartphone,Android,Android,172.18.48.58/::,0A:05:62:73:90:CC,svnet,WAP14_240D-2,4C:B1:CD:36:B1:F0,516912,-59,37,g/n,218,nan,nan,nan,0,6/25/2024 22:41
+aid-jp6-0724103a,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.56.35/::,0A:05:61:D3:5D:03,svnet,WAP_240A-1,4C:B1:CD:36:AB:60,0,0,0,g/n,222,nan,nan,nan,0,6/26/2024 4:38
+aid-jp6-07a8ea91,Smartphone,Android,Android,172.18.56.7/::,0A:06:D6:81:1C:29,svnet,WAP2_Central Control Rm,20:58:69:0A:7A:D0,9272209,-42,54,g/n,222,nan,nan,nan,0,6/22/2024 18:41
+aid-jp6-07b5aef1,Smartphone,Android,Android,172.18.44.33/::,0A:06:98:52:B0:AE,svnet,WAP21_120B-1,4C:B1:CD:36:ED:70,242636,-60,36,g/n,216,nan,nan,nan,0,6/25/2024 7:50
+aid-jp6-07bff378,Smartphone,Android,Android,172.18.38.37/::,0A:07:16:81:70:C8,svnet,WAP_240A-2,4C:B1:CD:36:C1:50,2369065,-62,34,g/n,213,nan,nan,nan,3,6/25/2024 23:36
+aid-jp6-07d12798,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.48.9/::,0A:06:D6:92:E8:54,svnet,RuckusAP,94:BF:C4:31:2B:B0,2128924,-56,40,g/n,218,nan,nan,nan,1,6/25/2024 7:47
+aid-jp6-083c9659,Smartphone,Android,Android,172.18.36.16/::,0A:05:9F:F3:64:5C,svnet,WAP27_60 Bed-3,4C:B1:CD:36:DC:00,123922,-51,45,g/n,212,nan,nan,nan,0,6/23/2024 23:04
+aid-jp6-0883ce1b,Smartphone,Android,Android,172.18.36.17/::,0A:06:D6:91:18:37,svnet,WAP_240A-3,4C:B1:CD:36:AB:60,0,0,0,g/n,212,nan,nan,nan,0,6/25/2024 22:00
+aid-jp6-08bde14a,Smartphone,Android,Android,172.18.46.74/::,0A:04:67:53:D0:F3,svnet,WAP_240A-3,4C:B1:CD:36:AB:60,203092,-64,32,g/n,217,nan,nan,nan,0,6/17/2024 7:32
+aid-jp6-09b8eda4,Unknown,Unknown,Unknown,172.18.60.60/::,0A:05:61:D3:58:FC,svnet,WAP31_80 Lower 2,1C:3A:60:06:D3:C0,6318729,-40,56,g/n,224,nan,nan,nan,5,6/25/2024 15:56
+aid-jp6-09cf75c6,Smartphone,Android,Android,172.18.50.48/::,0A:04:67:81:58:3E,svnet,80 Upper U-AP1,84:23:88:23:FD:80,34529574,-56,40,a/n,219,nan,nan,nan,0,6/25/2024 21:00
+aid-jp6-09d8a7eb,Unknown,Unknown,Unknown,172.18.32.18/::,0A:05:61:B0:28:76,svnet,WAP_240A-3,4C:B1:CD:36:AB:60,358939,-64,32,a/n,210,nan,nan,nan,0,6/25/2024 22:24
+aid-jp6-0a015b42,Smartphone,Android,Android,172.18.40.32/::,0A:06:D6:93:90:DA,svnet,WAP21_120B-1,4C:B1:CD:36:AB:90,326881,-62,34,g/n,214,nan,nan,nan,0,6/26/2024 0:14
+aid-jp6-0a5c9cec,Smartphone,Android,Android,172.18.32.8/::,0A:06:D6:83:E8:55,svnet,WAP14_240D-2,4C:B1:CD:36:B1:F0,278681210,-64,32,g/n,210,nan,nan,nan,0,6/25/2024 22:02
+aid-jp6-0a6d2ceb,Smartphone,Android,Android,172.18.52.6/::,0A:06:59:12:9C:74,svnet,WAP2_Central Control Rm,20:58:69:0A:7A:D0,234013,-47,49,g/n,220,nan,nan,nan,0,6/24/2024 15:47
+aid-jp6-0ab28739,Unknown,Unknown,Unknown,172.18.60.52/::,0A:05:61:E3:A8:84,svnet,WAP27_60 Bed-3,4C:B1:CD:36:B8:50,11940,-65,31,a/n,224,nan,nan,nan,0,6/24/2024 8:40
+aid-jp6-0ac3af2a,Smartphone,Android,Android,172.18.54.27/::,0A:06:5B:63:88:A6,svnet,WAP15_240D-3,1C:3A:60:03:7E:A0,3426843,-61,35,g/n,221,nan,nan,nan,6,6/24/2024 9:39
+aid-jp6-0b1a6dee,Unknown,Unknown,Unknown,172.18.42.73/::,0A:05:9E:01:14:AF,svnet,WAP28_60 Bed-4,4C:B1:CD:36:DC:70,5948922,-68,28,g/n,215,nan,nan,nan,0,6/25/2024 20:01
+aid-jp6-0b68c702,Smartphone,Android,Android,172.18.32.19/::,0A:06:D6:91:78:E5,svnet,WAP15_240D-3,4C:B1:CD:36:B1:F0,355770,-51,45,g/n,210,nan,nan,nan,0,6/24/2024 8:59
+aid-jp6-0c1a14ce,Smartphone,Android,Android,172.18.56.9/::,0A:04:67:42:E0:75,svnet,WAP2_Central Control Rm,20:58:69:0A:7A:D0,8053284,-45,51,g/n,222,nan,nan,nan,0,6/11/2024 8:08
+aid-jp6-0c3e24a5,Unknown,Unknown,Unknown,172.18.42.27/::,0A:04:67:B3:A8:83,svnet,WAP_240A-3,4C:B1:CD:36:AB:60,13885,-51,45,a/n,215,nan,nan,nan,0,6/16/2024 20:48
+aid-jp6-0c3f9d2b,Smartphone,Android,Android,172.18.48.7/::,0A:04:65:A2:10:B0,svnet,WAP2_Central Control Rm,20:58:69:0A:7A:D0,87781,-55,41,g/n,218,nan,nan,nan,0,6/20/2024 5:21
+aid-jp6-0c8e3108,Smartphone,Android,Android,172.18.42.60/::,0A:04:67:B2:98:AA,svnet,Roll Call,1C:3A:60:03:7E:A0,233491,-67,29,g/n,215,nan,nan,nan,3,6/24/2024 7:53
+aid-jp6-0c904b36,Smartphone,Android,Android,172.18.36.36/::,0A:05:61:D0:B4:55,svnet,WAP_240C-2,4C:B1:CD:36:B1:50,1644020,-74,22,g/n,212,nan,nan,nan,0,6/25/2024 22:05
+aid-jp6-0ce3cc53,Smartphone,Android,Android,172.18.54.53/::,0A:06:5A:80:E8:8A,svnet,WAP22_120B-2,4C:B1:CD:36:ED:70,2231074,-63,33,g/n,221,nan,nan,nan,32,6/25/2024 21:44
+aid-jp6-0d019d34,Smartphone,Android,Android,172.18.60.11/::,0A:06:98:50:BC:C4,svnet,WAP_240A-1,4C:B1:CD:36:DC:00,1423011,-66,30,g/n,224,nan,nan,nan,10,6/21/2024 12:28
+aid-jp6-0d3bede1,Unknown,Unknown,Android,172.18.40.56/::,0A:05:61:E2:34:37,svnet,WAP_240A-2,4C:B1:CD:36:C1:50,169656504,-70,26,a/n,214,nan,nan,nan,1615,6/26/2024 1:38
+aid-jp6-0d767c5e,Smartphone,Android,Android,172.18.52.31/::,0A:04:67:50:68:90,svnet,WAP_240B-3,1C:3A:60:03:7E:A0,48773863,-67,29,g/n,220,nan,nan,nan,16,6/26/2024 4:30
+aid-jp6-0e27f7d4,Unknown,Unknown,Android,172.18.34.15/::,0A:04:67:A2:D0:9E,svnet,WAP_240C-3,4C:B1:CD:36:9A:30,272412,-54,42,g/n,211,nan,nan,nan,0,6/23/2024 19:46
+aid-jp6-0e85f249,Smartphone,Android,Android,172.18.52.51/::,0A:06:59:10:C0:73,svnet,80 Upper U-AP1,C8:08:73:32:90:B0,30182360,-61,35,a/n,220,nan,nan,nan,0,6/25/2024 15:24
+aid-jp6-0eb1beca,Smartphone,Android,Android,172.18.52.47/::,0A:05:62:11:E8:3C,svnet,WAP28_60 Bed-4,4C:B1:CD:36:DC:70,21205717,-64,32,g/n,220,nan,nan,nan,0,6/25/2024 20:49
+aid-jp6-0ee2ffeb,Unknown,Unknown,Unknown,172.18.62.27/::,0A:05:62:32:40:50,svnet,WAP_240A-3,4C:B1:CD:36:AB:60,3283847,-54,42,a/n,225,nan,nan,nan,0,6/25/2024 23:01
+aid-jp6-0f2af102,Smartphone,Android,Android,172.18.54.25/::,0A:06:5A:00:64:DE,svnet,WAP_240A-2,4C:B1:CD:36:AB:60,2034683,-64,32,g/n,221,nan,nan,nan,2,6/25/2024 22:38
+aid-jp6-0f8e8be2,Smartphone,Android,Android,172.18.46.64/::,0A:05:9F:F2:B4:48,svnet,WAP27_60 Bed-3,4C:B1:CD:36:B8:50,285763,-66,30,g/n,217,nan,nan,nan,1,6/26/2024 4:29
+aid-jp6-0fe2a2e2,Smartphone,Android,Android,172.18.46.23/::,0A:06:D6:92:34:53,svnet,WAP_240B-2,4C:B1:CD:36:EE:20,2224161,-39,57,g/n,217,nan,nan,nan,0,6/25/2024 21:27
+aid-jp6-100c3686,Smartphone,Android,Android,172.18.34.29/::,0A:06:5A:83:60:88,svnet,WAP27_60 Bed-3,4C:B1:CD:36:DC:70,216571,-70,26,g/n,211,nan,nan,nan,0,6/25/2024 23:22
+aid-jp6-1019eade,Smartphone,Android,Android,172.18.44.19/::,0A:04:65:A4:18:3B,svnet,WAP14_240D-2,4C:B1:CD:36:B2:40,956693,-72,24,g/n,216,nan,nan,nan,32,6/25/2024 7:54
+aid-jp6-102c4310,Smartphone,Android,Android,172.18.34.25/::,0A:06:D6:80:DC:4F,svnet,WAP_240A-1,4C:B1:CD:36:AB:60,415455,-57,39,g/n,211,nan,nan,nan,16,6/19/2024 9:11
+aid-jp6-1058ca53,Smartphone,Android,Android,172.18.50.9/::,0A:06:5B:83:A0:CC,svnet,WAP2_Central Control Rm,20:58:69:0A:7A:D0,20605454,-49,47,g/n,219,nan,nan,nan,0,6/26/2024 6:33
+aid-jp6-10b3be88,Smartphone,Android,Android,172.18.46.18/::,0A:05:61:B4:70:69,svnet,WAP15_240D-3,4C:B1:CD:36:B1:F0,3458451,-48,48,g/n,217,nan,nan,nan,30,6/24/2024 7:50
+aid-jp6-10cdb841,Smartphone,Android,Android,172.18.44.58/::,0A:06:D6:91:FC:92,svnet,WAP27_60 Bed-3,4C:B1:CD:36:B8:50,4007148,-46,50,g/n,216,nan,nan,nan,0,6/20/2024 20:55
+aid-jp6-10dbf4c9,Smartphone,Android,Android,172.18.38.66/::,0A:06:5A:02:34:AD,svnet,WAP27_60 Bed-3,4C:B1:CD:36:DC:70,6912535,-65,31,g/n,213,nan,nan,nan,0,6/25/2024 7:52
+aid-jp6-1174d678,Smartphone,Android,Android,172.18.38.17/::,0A:04:67:A2:B8:A5,svnet,WAP28_60 Bed-4,4C:B1:CD:36:B8:50,163261402,-52,44,g/n,213,nan,nan,nan,0,6/25/2024 21:30
+aid-jp6-1211e11a,Smartphone,Android,Android,172.18.60.46/::,0A:05:9F:F2:18:0D,svnet,WAP27_60 Bed-3,4C:B1:CD:36:DC:70,73787,-70,26,a/n,224,nan,nan,nan,0,6/25/2024 7:47
+aid-jp6-12304458,Smartphone,Android,Android,172.18.52.26/::,0A:06:D6:92:C0:6E,svnet,WAP27_60 Bed-3,1C:3A:60:03:7E:A0,4743193,-72,24,g/n,220,nan,nan,nan,21,6/25/2024 20:52
+aid-jp6-12b6de92,Smartphone,Android,Android,172.18.48.13/::,0A:04:67:B0:98:BB,svnet,WAP_240B-3,4C:B1:CD:36:EE:20,2142012,-57,39,g/n,218,nan,nan,nan,0,6/25/2024 22:05
+aid-jp6-1300048b,Smartphone,Android,Android,172.18.36.14/::,0A:05:61:B3:60:76,svnet,RuckusAP,94:BF:C4:31:2B:B0,2548812,-56,40,g/n,212,nan,nan,nan,0,6/25/2024 21:02
+aid-jp6-136704fa,Smartphone,Android,Android,172.18.32.54/::,0A:05:61:B3:F8:76,svnet,WAP_240A-2,4C:B1:CD:36:AB:60,64879,-73,23,g/n,210,nan,nan,nan,0,6/25/2024 22:03
+aid-jp6-1385bc2e,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.52.21/::,0A:06:5B:74:28:85,svnet,WAP_240B-1,4C:B1:CD:36:BE:C0,7918790,-51,45,g/n,220,nan,nan,nan,277,6/14/2024 8:46
+aid-jp6-13f260fe,Smartphone,Android,Android,172.18.42.49/::,0A:04:67:A2:BC:54,svnet,WAP_240A-2,4C:B1:CD:36:C1:50,10482875,-80,16,a/n,215,nan,nan,nan,224,6/25/2024 22:22
+aid-jp6-142af542,Smartphone,Android,Android,172.18.44.68/::,0A:04:65:A4:00:AC,svnet,WAP22_120B-2,4C:B1:CD:36:ED:70,38445418,-47,49,g/n,216,nan,nan,nan,16,6/25/2024 23:04
+aid-jp6-14724df0,Unknown,Unknown,Android,172.18.54.13/::,0A:06:98:51:58:9B,svnet,WAP22_120B-2,4C:B1:CD:36:AB:90,148351,-59,37,g/n,221,nan,nan,nan,0,6/26/2024 0:27
+aid-jp6-14a857a0,Smartphone,Android,Android,172.18.48.38/::,0A:06:D6:93:1C:E2,svnet,WAP_240C-3,4C:B1:CD:36:9A:30,510692,-67,29,a/n,218,nan,nan,nan,0,6/25/2024 7:33
+aid-jp6-15bede50,Smartphone,Android,Android,172.18.48.49/::,0A:05:60:F2:C8:69,svnet,WAP28_60 Bed-4,4C:B1:CD:36:B8:50,2102263,-49,47,g/n,218,nan,nan,nan,0,6/23/2024 12:13
+aid-jp6-15c634a5,Unknown,Unknown,Unknown,172.18.36.25/::,0A:05:9F:F2:74:24,svnet,WAP_240C-1,4C:B1:CD:36:63:E0,435168,-68,28,a/n,212,nan,nan,nan,0,6/13/2024 7:58
+aid-jp6-15e110aa,Smartphone,Android,Android,172.18.52.59/::,0A:04:67:13:C8:2D,svnet,WAP_240B-1,1C:3A:60:03:7E:A0,10476,-75,21,g/n,220,nan,nan,nan,0,6/26/2024 6:06
+aid-jp6-15f516f1,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.34.35/::,0A:04:67:B2:5C:34,svnet,WAP21_120B-1,4C:B1:CD:36:AB:90,51195528,-68,28,g/n,211,nan,nan,nan,70,6/25/2024 21:18
+aid-jp6-168bbbf6,Smartphone,Android,Android,172.18.38.44/::,0A:04:67:81:C4:40,svnet,WAP31_80 Lower 1,1C:3A:60:03:4E:90,785173,-63,33,a/n,213,nan,nan,nan,0,6/25/2024 16:33
+aid-jp6-16ab6640,Smartphone,Android,Android,172.18.34.6/::,0A:04:67:C2:FC:64,svnet,RuckusAP,94:BF:C4:31:2B:B0,2147139,-58,38,g/n,211,nan,nan,nan,0,6/25/2024 20:56
+aid-jp6-16d90f84,Unknown,Unknown,Android,172.18.34.26/::,0A:06:D6:F0:CD:03,svnet,WAP14_240D-2,4C:B1:CD:36:B2:40,3218644,-51,45,g/n,211,nan,nan,nan,61,6/26/2024 5:52
+aid-jp6-16e0adb2,Smartphone,Android,Android,172.18.32.39/::,0A:05:61:B0:84:69,svnet,80Upper UAP2,94:BF:C4:31:32:30,207934,-81,15,a/n,210,nan,nan,nan,2,6/24/2024 14:01
+aid-jp6-170c231b,Smartphone,Android,Android,172.18.38.67/::,0A:05:62:51:94:80,svnet,WAP_240C-3,1C:3A:60:03:7E:A0,47747,-74,22,a/n,213,nan,nan,nan,2,6/24/2024 20:25
+aid-jp6-1729e963,Smartphone,Android,Android,172.18.60.55/::,0A:06:98:52:20:9C,svnet,WAP27_60 Bed-3,4C:B1:CD:36:DC:70,323056331,-71,25,g/n,224,nan,nan,nan,32,6/24/2024 23:47
+aid-jp6-175765b0,Unknown,Unknown,Unknown,172.18.32.50/::,0A:04:66:64:78:94,svnet,WAP36_FHU,94:BF:C4:31:32:30,267020,-71,25,g/n,210,nan,nan,nan,5,6/14/2024 7:38
+aid-jp6-17968f3d,Smartphone,Android,Android,172.18.46.29/::,0A:04:67:B2:54:97,svnet,WAP31_80 Lower 1,1C:3A:60:03:4E:90,2189359,-55,41,a/n,217,nan,nan,nan,0,6/24/2024 22:16
+aid-jp6-17a7c25e,Smartphone,Android,Android,172.18.32.21/::,0A:06:D6:A2:D8:7A,svnet,WAP_240A-3,4C:B1:CD:36:C1:50,150140803,-60,36,g/n,210,nan,nan,nan,376,6/26/2024 6:27
+aid-jp6-180750cb,Smartphone,Android,Android,172.18.40.75/::,0A:05:62:12:B0:5A,svnet,WAP28_60 Bed-4,4C:B1:CD:36:B8:50,70737,-58,38,g/n,214,nan,nan,nan,0,6/25/2024 16:20
+aid-jp6-1828f59c,Smartphone,Android,Android,172.18.56.7/::,0A:06:D6:92:20:2F,svnet,RuckusAP,94:BF:C4:31:2B:B0,2207586,-60,36,g/n,222,nan,nan,nan,2,6/25/2024 21:07
+aid-jp6-18465f33,Unknown,Unknown,Android,172.18.44.49/::,0A:06:D6:F1:2C:88,svnet,WAP15_240D-3,4C:B1:CD:36:BE:C0,14129,-67,29,g/n,216,nan,nan,nan,0,6/14/2024 8:24
+aid-jp6-18a8f6be,Smartphone,Android,Android,172.18.58.63/::,0A:06:5A:03:E0:C1,svnet,WAP22_120B-2,4C:B1:CD:36:ED:70,17713199,-74,22,g/n,223,nan,nan,nan,1,6/25/2024 21:36
+aid-jp6-19258ff3,Unknown,Unknown,Unknown,172.18.34.47/::,0A:04:67:A1:54:F9,svnet,WAP27_60 Bed-3,1C:3A:60:03:7E:A0,17168,-64,32,g/n,211,nan,nan,nan,0,6/25/2024 22:34
+aid-jp6-196d0311,Unknown,Unknown,Android,172.18.48.40/::,0A:04:67:13:6C:EC,svnet,WAP28_60 Bed-4,1C:3A:60:03:7E:A0,110897,-75,21,a/n,218,nan,nan,nan,0,6/25/2024 21:49
+aid-jp6-196e4700,Smartphone,Android,Android,172.18.56.9/::,0A:06:5A:02:14:FA,svnet,RuckusAP,94:BF:C4:31:2B:B0,2261461,-50,46,g/n,222,nan,nan,nan,1,6/25/2024 17:55
+aid-jp6-1982e819,Smartphone,Android,Android,172.18.32.7/::,0A:05:61:D2:B0:A4,svnet,WAP2_Central Control Rm,20:58:69:0A:7A:D0,4065413,-51,45,g/n,210,nan,nan,nan,0,6/22/2024 18:41
+aid-jp6-19cd0b31,Smartphone,Android,Android,172.18.58.35/::,0A:05:9F:F1:E4:DA,svnet,80 Upper U-AP1,C8:08:73:32:90:B0,54206,-54,42,a/n,223,nan,nan,nan,0,6/23/2024 22:58
+aid-jp6-19d73fbf,Smartphone,Android,Android,172.18.34.22/::,0A:06:5B:62:C8:BC,svnet,WAP15_240D-3,4C:B1:CD:36:9A:30,3097544,-48,48,g/n,211,nan,nan,nan,0,6/19/2024 8:33
+aid-jp6-1a2e2f3c,Smartphone,Android,Android,172.18.44.39/::,0A:06:5B:72:28:88,svnet,WAP27_60 Bed-3,4C:B1:CD:36:AB:90,764883,-54,42,a/n,216,nan,nan,nan,0,6/24/2024 22:24
+aid-jp6-1a323fce,Smartphone,Android,Android,172.18.38.16/::,0A:04:67:A1:70:2D,svnet,WAP_240A-1,4C:B1:CD:36:DC:00,82176,-58,38,g/n,213,nan,nan,nan,0,6/25/2024 23:02
+aid-jp6-1abaa313,Unknown,Unknown,Android,172.18.52.12/::,0A:06:D6:F0:A4:A8,svnet,RuckusAP,94:BF:C4:31:2B:B0,1829902,-55,41,g/n,220,nan,nan,nan,1,6/24/2024 20:26
+aid-jp6-1ad6ff8a,Smartphone,Android,Android,172.18.36.18/::,0A:04:67:51:BC:CF,svnet,WAP13_240D-1,4C:B1:CD:36:B1:F0,84330,-57,39,g/n,212,nan,nan,nan,0,6/14/2024 9:16
+aid-jp6-1b09b1ea,Smartphone,Android,Android,172.18.38.18/::,0A:05:61:B0:FC:6D,svnet,WAP31_80 Lower 2,1C:3A:60:06:D3:C0,309272,-42,54,g/n,213,nan,nan,nan,0,6/25/2024 22:38
+aid-jp6-1b5b05bc,Smartphone,Android,Android,172.18.54.10/::,0A:06:5C:12:80:3E,svnet,RuckusAP,20:58:69:01:B8:70,nan,nan,nan,nan,221,nan,nan,nan,nan,6/25/2024 21:55
+aid-jp6-1baab3f4,Unknown,Unknown,Unknown,172.18.60.49/::,0A:05:9F:F3:74:18,svnet,WAP27_60 Bed-3,4C:B1:CD:36:B8:50,16896,-45,51,g/n,224,nan,nan,nan,0,6/23/2024 20:45
+aid-jp6-1bbd54d9,Smartphone,Android,Android,172.18.36.20/::,0A:04:67:51:A0:32,svnet,WAP21_120B-1,4C:B1:CD:36:ED:70,215896,-76,20,a/n,212,nan,nan,nan,0,6/26/2024 2:30
+aid-jp6-1bbd7f3b,Smartphone,Android,Android,172.18.42.32/::,0A:05:9E:02:44:EE,svnet,WAP_240B-1,4C:B1:CD:36:9A:40,1823116,-59,37,g/n,215,nan,nan,nan,4,6/25/2024 21:14
+aid-jp6-1c2d9244,Unknown,Unknown,Unknown,172.18.48.33/::,0A:04:66:61:DC:C3,svnet,WAP_240A-3,4C:B1:CD:36:DC:00,95477,-56,40,g/n,218,nan,nan,nan,0,6/26/2024 3:38
+aid-jp6-1c83f09c,Smartphone,Android,Android,172.18.46.10/::,0A:04:67:A2:2C:6D,svnet,WAP_240B-2,4C:B1:CD:36:BE:C0,11996107,-74,22,g/n,217,nan,nan,nan,55,6/25/2024 22:28
+aid-jp6-1c9889e1,Smartphone,Android,Android,172.18.40.24/::,0A:04:67:B2:69:12,svnet,WAP_240A-2,84:23:88:23:FD:80,5113417,-48,48,g/n,214,nan,nan,nan,0,6/25/2024 22:14
+aid-jp6-1d0984f8,Smartphone,Android,Android,172.18.58.16/::,0A:06:D6:91:A0:54,svnet,WAP22_120B-2,4C:B1:CD:36:AB:90,333168,-44,52,g/n,223,nan,nan,nan,0,6/25/2024 21:47
+aid-jp6-1de2a6e0,Smartphone,Android,Android,172.18.44.9/::,0A:05:62:43:38:D2,svnet,WAP_240C-2,4C:B1:CD:36:B1:50,2620840,-63,33,g/n,216,nan,nan,nan,3,6/13/2024 8:34
+aid-jp6-1ebdc1ef,Smartphone,Android,Android,172.18.40.15/::,0A:04:67:A0:4C:83,svnet,80Upper UAP2,1C:3A:60:03:7E:A0,2533101,-66,30,g/n,214,nan,nan,nan,11,6/25/2024 18:54
+aid-jp6-1f08ed1a,Smartphone,Android,Android,172.18.42.47/::,0A:04:67:B0:A4:B2,svnet,WAP_240C-3,4C:B1:CD:36:9A:30,2366114,-51,45,g/n,215,nan,nan,nan,0,6/25/2024 22:43
+aid-jp6-1f956a49,Smartphone,Android,Android,172.18.50.25/::,0A:06:98:50:D4:4C,svnet,Roll Call,4C:B1:CD:36:AB:60,31679344,-59,37,a/n,219,nan,nan,nan,253,6/26/2024 6:38
+aid-jp6-1ff3fa3a,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.38.73/::,0A:04:67:B0:50:71,svnet,80 Upper U-AP1,84:23:88:23:FD:80,4783728,-52,44,a/n,213,nan,nan,nan,0,6/25/2024 18:18
+aid-jp6-215c3453,Smartphone,Android,Android,172.18.62.33/::,0A:06:D6:A4:A8:8B,svnet,WAP_240C-2,4C:B1:CD:36:9A:30,1763791,-66,30,g/n,225,nan,nan,nan,0,6/25/2024 22:52
+aid-jp6-21817ea0,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.36.37/::,0A:05:9F:F2:14:27,svnet,WAP_240A-2,4C:B1:CD:36:C1:50,295445,-43,53,a/n,212,nan,nan,nan,0,6/16/2024 22:48
+aid-jp6-22670511,Smartphone,Android,Android,172.18.34.55/::,0A:05:62:13:B0:C3,svnet,WAP22_120B-2,4C:B1:CD:36:ED:70,1892918,-46,50,g/n,211,nan,nan,nan,39,6/25/2024 20:37
+aid-jp6-226d6fd7,Smartphone,Android,Android,172.18.56.10/::,0A:06:D6:F3:A8:51,svnet,WAP13_240D-1,4C:B1:CD:36:B1:F0,99840606,-45,51,g/n,222,nan,nan,nan,44,6/24/2024 8:53
+aid-jp6-233e2a47,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.56.10/::,0A:04:67:A1:30:8A,svnet,RuckusAP,20:58:69:01:A5:D0,9816879,-43,53,g/n,222,nan,nan,nan,0,6/23/2024 14:07
+aid-jp6-238d86e5,Unknown,Unknown,Android,172.18.36.21/::,0A:05:61:C2:B8:16,svnet,WAP_240B-1,4C:B1:CD:36:BE:C0,107233898,-42,54,g/n,212,nan,nan,nan,139,6/23/2024 20:33
+aid-jp6-23908dd2,Smartphone,Android,Android,172.18.48.51/::,0A:04:67:50:98:8B,svnet,WAP31_80 Lower 2,1C:3A:60:03:4E:90,36887118,-46,50,g/n,218,nan,nan,nan,0,6/25/2024 23:04
+aid-jp6-2399ed69,Smartphone,Android,Android,172.18.62.38/::,0A:06:5A:81:74:8A,svnet,WAP27_60 Bed-3,4C:B1:CD:36:B8:50,1381287,-55,41,g/n,225,nan,nan,nan,0,6/25/2024 23:44
+aid-jp6-23b012c9,Unknown,Unknown,Generic_Android wv/Android 8.1.0,172.18.46.7/::,0A:06:5C:11:44:FE,svnet,WAP_240B-1,4C:B1:CD:36:B2:40,3948153,-67,29,g/n,217,nan,nan,nan,13,6/24/2024 8:27
+aid-jp6-23cb7c87,Smartphone,Android,Android,172.18.54.44/::,0A:05:9F:F1:04:29,svnet,WAP_240A-3,4C:B1:CD:36:C1:50,19125,-61,35,a/n,221,nan,nan,nan,0,6/25/2024 22:22
+aid-jp6-23dca8d7,Unknown,Unknown,Unknown,172.18.62.40/::,0A:06:59:12:48:4E,svnet,80 Upper U-AP1,84:23:88:23:FD:80,474418,-42,54,g/n,225,nan,nan,nan,0,6/24/2024 22:31
+aid-jp6-240ae4db,Smartphone,Android,Android,172.18.34.50/::,0A:05:61:D3:19:0F,svnet,80 Upper U-AP1,84:23:88:23:FD:80,2959421,-67,29,a/n,211,nan,nan,nan,0,6/22/2024 12:12
+aid-jp6-24324343,Smartphone,Android,Android,172.18.42.66/::,0A:05:9F:F2:A8:5C,svnet,WAP_240A-3,4C:B1:CD:36:DC:00,865683,-75,21,g/n,215,nan,nan,nan,15,6/26/2024 6:36
+aid-jp6-24456db5,Smartphone,Android,Android,172.18.40.37/::,0A:05:9E:B3:04:4F,svnet,WAP28_60 Bed-4,1C:3A:60:03:7E:A0,249745,-71,25,a/n,214,nan,nan,nan,0,6/25/2024 20:16
+aid-jp6-2454badf,Smartphone,Android,Android,172.18.44.29/::,0A:05:61:B3:E8:75,svnet,WAP_240B-3,4C:B1:CD:36:9A:40,550472,-60,36,g/n,216,nan,nan,nan,0,6/25/2024 23:06
+aid-jp6-24874d01,Smartphone,Android,Android,172.18.32.10/::,0A:04:67:B3:20:CF,svnet,WAP_240B-3,4C:B1:CD:36:EE:20,2016593,-64,32,g/n,210,nan,nan,nan,0,6/25/2024 22:00
+aid-jp6-24acebc1,Unknown,Unknown,Android,172.18.48.42/::,0A:06:98:51:C0:4B,svnet,WAP_240A-2,4C:B1:CD:36:DC:00,27198,-69,27,g/n,218,nan,nan,nan,3,6/25/2024 22:40
+aid-jp6-2506ff7c,Smartphone,Android,Android,172.18.36.48/::,0A:06:98:53:B8:5A,svnet,80Upper UAP2,1C:3A:60:03:7E:A0,10990,-74,22,g/n,212,nan,nan,nan,0,6/23/2024 22:24
+aid-jp6-25271cb1,Smartphone,Android,Android,172.18.50.6/::,0A:06:5A:81:F8:44,svnet,WAP2_Central Control Rm,20:58:69:0A:7A:D0,4292612,-58,38,g/n,219,nan,nan,nan,0,6/18/2024 7:39
+aid-jp6-253cc126,Smartphone,Android,Android,172.18.40.58/::,0A:05:62:12:6C:AC,svnet,Roll Call,94:BF:C4:31:32:30,351822,-70,26,g/n,214,nan,nan,nan,1,6/21/2024 15:39
+aid-jp6-259145b1,Smartphone,Android,Android,172.18.58.22/::,0A:04:67:B3:D8:45,svnet,WAP_240C-1,4C:B1:CD:36:9A:30,1335385,-65,31,g/n,223,nan,nan,nan,0,6/24/2024 21:46
+aid-jp6-2594c155,Smartphone,Android,Android,172.18.36.24/::,0A:05:62:70:D8:C8,svnet,WAP_240A-2,4C:B1:CD:36:DC:00,13753127,-56,40,g/n,212,nan,nan,nan,11,6/25/2024 22:18
+aid-jp6-25e56301,Smartphone,Android,Android,172.18.46.78/::,0A:06:5B:63:64:2B,svnet,Roll Call,1C:3A:60:03:7E:A0,43574988,-69,27,g/n,217,nan,nan,nan,16,6/25/2024 6:12
+aid-jp6-261aa25f,Smartphone,Android,Android,172.18.38.63/::,0A:05:61:D1:70:63,svnet,WAP_240C-3,94:BF:C4:31:32:30,404789,-72,24,g/n,213,nan,nan,nan,2,6/25/2024 23:34
+aid-jp6-264814ca,Unknown,Unknown,Unknown,172.18.46.68/::,0A:06:5A:84:00:47,svnet,WAP31_80 Lower 1,1C:3A:60:03:4E:90,478299,-41,55,g/n,217,nan,nan,nan,0,6/25/2024 0:02
+aid-jp6-26499728,Smartphone,Android,Android,172.18.38.68/::,0A:05:61:B0:BC:76,svnet,WAP22_120B-2,1C:3A:60:03:7E:A0,38871,-75,21,nan,213,nan,nan,nan,0,6/24/2024 9:24
+aid-jp6-277fb052,Smartphone,Android,Android,172.18.50.37/::,0A:05:9F:F1:98:3A,svnet,80 Upper U-AP1,84:23:88:23:FD:80,274280518,-65,31,a/n,219,nan,nan,nan,3,6/24/2024 20:10
+aid-jp6-27a4c62c,Smartphone,Android,Android,172.18.48.67/::,0A:05:62:53:30:73,svnet,WAP_240B-1,4C:B1:CD:36:9A:40,1972558,-59,37,g/n,218,nan,nan,nan,0,6/25/2024 22:38
+aid-jp6-27a7896c,Smartphone,Android,Android,172.18.50.52/::,0A:04:66:63:90:2F,svnet,WAP14_240D-2,4C:B1:CD:36:B2:40,22538251,-60,36,g/n,219,nan,nan,nan,0,6/25/2024 7:49
+aid-jp6-27ab6a19,Smartphone,Android,Android,172.18.40.7/::,0A:06:5A:82:08:96,svnet,RuckusAP,20:58:69:01:A5:D0,183778,-46,50,g/n,214,nan,nan,nan,0,6/23/2024 17:26
+aid-jp6-27bf177e,Smartphone,Android,Android,172.18.34.32/::,0A:04:67:B2:10:DF,svnet,WAP_240C-2,4C:B1:CD:36:B1:50,25231478,-66,30,g/n,211,nan,nan,nan,232,6/24/2024 9:40
+aid-jp6-27df5e96,Unknown,Unknown,Unknown,172.18.46.40/::,0A:05:9F:F2:B0:16,svnet,Roll Call,1C:3A:60:03:7E:A0,1763383,-49,47,g/n,217,nan,nan,nan,4,6/14/2024 3:14
+aid-jp6-282eb79a,Smartphone,Android,Android,172.18.60.6/::,0A:06:5C:12:B4:39,svnet,WAP_240B-2,4C:B1:CD:36:EE:20,1549466,-52,44,g/n,224,nan,nan,nan,3,6/25/2024 22:00
+aid-jp6-283a9a24,Smartphone,Android,Android,172.18.54.31/::,0A:06:D6:F2:14:53,svnet,WAP28_60 Bed-4,4C:B1:CD:36:DC:70,83160,-66,30,g/n,221,nan,nan,nan,1,6/25/2024 11:04
+aid-jp6-284bc15f,Smartphone,Android,Android,172.18.40.44/::,0A:04:67:43:84:91,svnet,WAP_240B-2,4C:B1:CD:36:9A:40,11094144,-62,34,g/n,214,nan,nan,nan,0,6/24/2024 8:46
+aid-jp6-287ecd0b,Smartphone,Android,Android,172.18.38.39/::,0A:05:9F:F1:30:39,svnet,WAP_240B-3,4C:B1:CD:36:EE:20,358859,-69,27,a/n,213,nan,nan,nan,0,6/25/2024 22:04
+aid-jp6-28bd5818,Smartphone,Android,Android,172.18.50.43/::,0A:05:61:D1:94:AF,svnet,WAP31_80 Lower 2,1C:3A:60:03:4E:90,335456,-43,53,g/n,219,nan,nan,nan,0,6/24/2024 9:21
+aid-jp6-28e6276b,Smartphone,Android,Android,172.18.54.8/::,0A:06:5C:11:61:0E,svnet,80 Upper U-AP1,84:23:88:23:FD:80,99947,-57,39,a/n,221,nan,nan,nan,0,6/13/2024 8:48
+aid-jp6-29143c93,Smartphone,Android,Android,172.18.46.20/::,0A:06:D6:A1:BC:7A,svnet,WAP_240A-3,4C:B1:CD:36:AB:60,990041,-55,41,g/n,217,nan,nan,nan,0,6/25/2024 22:00
+aid-jp6-29429ada,Smartphone,Android,Android,172.18.48.32/::,0A:05:61:C1:B8:C6,svnet,WAP15_240D-3,4C:B1:CD:36:B1:F0,2545729,-52,44,g/n,218,nan,nan,nan,8,6/21/2024 12:43
+aid-jp6-295913a0,Smartphone,Android,Android,172.18.54.34/::,0A:05:62:14:5C:9F,svnet,WAP_240A-2,4C:B1:CD:36:DC:00,1342485,-63,33,g/n,221,nan,nan,nan,16,6/25/2024 22:50
+aid-jp6-29d0ab28,Smartphone,Android,Android,172.18.52.77/::,0A:06:D6:92:B4:0C,svnet,WAP27_60 Bed-3,4C:B1:CD:36:DC:70,2982588,-70,26,g/n,220,nan,nan,nan,1,6/25/2024 22:31
+aid-jp6-2a087ce7,Unknown,Unknown,Android,172.18.36.26/::,0A:06:5B:62:28:A0,svnet,WAP_240B-1,4C:B1:CD:36:EE:20,2058224,-33,63,g/n,212,nan,nan,nan,0,6/21/2024 11:29
+aid-jp6-2a13d085,Smartphone,Android,Android,172.18.34.46/::,0A:05:9F:F2:20:4D,svnet,WAP_240A-2,4C:B1:CD:36:AB:60,388604,-69,27,g/n,211,nan,nan,nan,9,6/25/2024 22:00
+aid-jp6-2aa4e69e,Smartphone,Android,Android,172.18.52.14/::,0A:07:16:83:B4:A7,svnet,80 Upper U-AP1,84:23:88:23:FD:80,6670094,-67,29,a/n,220,nan,nan,nan,0,6/24/2024 15:01
+aid-jp6-2ab520ea,Smartphone,Android,Android,172.18.62.11/::,0A:04:67:53:04:EF,svnet,RuckusAP,20:58:69:01:A0:70,125079915,-39,57,g/n,225,nan,nan,nan,0,6/21/2024 9:55
+aid-jp6-2b2b94cb,Unknown,Unknown,Unknown,172.18.34.53/::,0A:06:D6:81:A8:72,svnet,WAP_240C-2,1C:3A:60:03:7E:A0,173013,-62,34,g/n,211,nan,nan,nan,5,6/25/2024 23:29
+aid-jp6-2b3592e2,Smartphone,Android,Android,172.18.48.52/::,0A:04:67:42:40:78,svnet,WAP15_240D-3,4C:B1:CD:36:9A:40,14567,-72,24,g/n,218,nan,nan,nan,0,6/24/2024 8:47
+aid-jp6-2be2ed94,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.54.10/::,0A:06:5A:02:D0:DD,svnet,WAP22_120B-2,4C:B1:CD:36:ED:70,1663086,-68,28,g/n,221,nan,nan,nan,25,6/16/2024 19:34
+aid-jp6-2c34686f,Unknown,Unknown,Unknown,172.18.58.15/::,0A:04:67:A3:68:EF,svnet,RuckusAP,94:BF:C4:31:2B:B0,2760588,-62,34,g/n,223,nan,nan,nan,0,6/25/2024 18:58
+aid-jp6-2cd8fd43,Unknown,Unknown,Android,172.18.34.40/::,0A:06:98:52:F8:27,svnet,WAP27_60 Bed-3,4C:B1:CD:36:B8:50,1720825,-49,47,g/n,211,nan,nan,nan,0,6/25/2024 18:16
+aid-jp6-2d45c8d8,Smartphone,Android,Android,172.18.42.33/::,0A:04:67:50:E4:68,svnet,WAP_240A-3,4C:B1:CD:36:AB:60,102323252,-59,37,g/n,215,nan,nan,nan,356,6/25/2024 22:41
+aid-jp6-2d6aae6c,Smartphone,Android,Android,172.18.32.42/::,0A:06:5B:80:BC:58,svnet,WAP_240A-2,1C:3A:60:03:7E:A0,450681,-62,34,g/n,210,nan,nan,nan,0,6/24/2024 21:21
+aid-jp6-2d793886,Smartphone,Android,Android,172.18.52.33/::,0A:06:5C:13:39:10,svnet,WAP_240B-1,4C:B1:CD:36:9A:40,269016,-47,49,g/n,220,nan,nan,nan,0,6/24/2024 23:53
+aid-jp6-2e1891f2,Smartphone,Android,Android,172.18.46.6/::,0A:06:D6:80:EC:54,svnet,WAP14_240D-2,4C:B1:CD:36:AA:D0,574736,-57,39,g/n,217,nan,nan,nan,0,6/24/2024 8:21
+aid-jp6-2e49a24c,Smartphone,Android,Android,172.18.50.47/::,0A:06:D6:90:C0:ED,svnet,WAP22_120B-2,4C:B1:CD:36:AB:90,553577,-63,33,g/n,219,nan,nan,nan,11,6/25/2024 22:55
+aid-jp6-2e9dd672,Smartphone,Android,Android,172.18.32.59/::,0A:05:61:D4:A0:8C,svnet,WAP_240C-2,1C:3A:60:03:7E:A0,49184115,-65,31,g/n,210,nan,nan,nan,60,6/25/2024 22:15
+aid-jp6-2f0e122a,Smartphone,Android,Android,172.18.58.8/::,0A:06:5B:61:A8:A1,svnet,RuckusAP,94:BF:C4:31:2B:B0,2086409,-60,36,g/n,223,nan,nan,nan,0,6/25/2024 21:30
+aid-jp6-2f2d3975,Smartphone,Android,Android,172.18.58.33/::,0A:04:67:A2:00:7B,svnet,WAP_240C-1,4C:B1:CD:36:63:E0,2281607,-64,32,g/n,223,nan,nan,nan,16,6/24/2024 20:27
+aid-jp6-2f43ed46,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.48.41/::,0A:04:67:13:34:8F,svnet,WAP15_240D-3,4C:B1:CD:36:BE:C0,126478,-45,51,g/n,218,nan,nan,nan,0,6/25/2024 7:27
+aid-jp6-2f9b62b7,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.48.6/::,0A:06:D6:A4:50:DF,svnet,RuckusAP,94:BF:C4:31:2B:B0,2363270,-51,45,g/n,218,nan,nan,nan,1,6/24/2024 9:31
+aid-jp6-2fbc0b0a,Smartphone,Android,Android,172.18.32.22/::,0A:04:2A:64:74:70,svnet,WAP14_240D-2,4C:B1:CD:36:9A:40,228876,-75,21,a/n,210,nan,nan,nan,0,6/21/2024 12:42
+aid-jp6-30aa0659,Smartphone,Android,Android,172.18.36.6/::,0A:05:61:B3:14:73,svnet,WAP21_120B-1,4C:B1:CD:36:AB:90,2159765,-56,40,g/n,212,nan,nan,nan,36,6/25/2024 7:46
+aid-jp6-3100561a,Smartphone,Android,Android,172.18.44.28/::,0A:06:5A:81:D4:74,svnet,WAP15_240D-3,4C:B1:CD:36:AA:D0,527122,-60,36,g/n,216,nan,nan,nan,0,6/25/2024 22:01
+aid-jp6-314d34e5,Smartphone,Android,Android,172.18.34.27/::,0A:06:D6:91:3C:88,svnet,WAP_240B-2,4C:B1:CD:36:BE:C0,2270141,-38,58,g/n,211,nan,nan,nan,0,6/20/2024 11:20
+aid-jp6-31847000,Smartphone,Android,Android,172.18.52.13/::,0A:04:67:A3:40:7F,svnet,RuckusAP,20:58:69:01:BA:10,2361514,-72,24,g/n,220,nan,nan,nan,0,6/25/2024 20:02
+aid-jp6-31f9d3f8,Smartphone,Android,Android,172.18.40.30/::,0A:04:67:B3:78:65,svnet,WAP14_240D-2,4C:B1:CD:36:B2:40,3079859,-53,43,g/n,214,nan,nan,nan,60,6/25/2024 7:23
+aid-jp6-32113706,Unknown,Unknown,Unknown,172.18.52.23/::,0A:05:62:44:10:D7,svnet,RuckusAP,4C:B1:CD:36:9A:40,18411071,-53,43,g/n,220,nan,nan,nan,0,6/23/2024 21:22
+aid-jp6-32725c23,Smartphone,Android,Android,172.18.56.32/::,0A:04:66:63:B4:A1,svnet,WAP_240B-1,4C:B1:CD:36:BE:C0,1394549,-47,49,g/n,222,nan,nan,nan,8,6/12/2024 20:44
+aid-jp6-32794ead,Smartphone,Android,Android,172.18.38.79/::,0A:06:D6:A1:04:E2,svnet,WAP_240C-3,4C:B1:CD:36:B1:50,374598,-37,59,g/n,213,nan,nan,nan,0,6/24/2024 23:11
+aid-jp6-329c1fc4,Smartphone,Android,Android,172.18.36.11/::,0A:06:5C:10:54:6A,svnet,WAP_240B-3,4C:B1:CD:36:9A:40,842051,-61,35,g/n,212,nan,nan,nan,23,6/25/2024 22:05
+aid-jp6-32f6c252,Smartphone,Android,Android,172.18.50.21/::,0A:06:5B:63:A0:61,svnet,WAP13_240D-1,4C:B1:CD:36:AA:D0,16199378,-57,39,g/n,219,nan,nan,nan,104,6/25/2024 22:02
+aid-jp6-3306af43,Smartphone,Android,Android,172.18.34.65/::,0A:06:5A:04:24:E1,svnet,WAP15_240D-3,4C:B1:CD:36:EE:20,23071,-66,30,g/n,211,nan,nan,nan,0,6/25/2024 7:36
+aid-jp6-3452fd6f,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.46.9/::,0A:06:5A:82:6C:49,svnet,RuckusAP,94:BF:C4:31:2B:B0,4143809,-59,37,g/n,217,nan,nan,nan,1,6/23/2024 19:31
+aid-jp6-34699155,Unknown,Unknown,Android,172.18.54.11/::,0A:05:62:11:68:1A,svnet,WAP_240B-2,4C:B1:CD:36:EE:20,145993,-57,39,g/n,221,nan,nan,nan,0,6/25/2024 21:10
+aid-jp6-34b0e444,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.32.49/::,0A:06:5B:70:58:81,svnet,WAP_240B-3,4C:B1:CD:36:EE:20,59458180,-67,29,g/n,210,nan,nan,nan,0,6/25/2024 22:25
+aid-jp6-34e31798,Unknown,Unknown,Unknown,172.18.32.6/::,0A:05:62:71:98:25,svnet,WAP2_Central Control Rm,20:58:69:0A:7A:D0,686547,-47,49,g/n,210,nan,nan,nan,0,6/25/2024 0:50
+aid-jp6-35f27eb0,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.54.52/::,0A:04:67:C2:F5:13,svnet,WAP_240C-3,4C:B1:CD:36:9A:30,194654699,-45,51,g/n,221,nan,nan,nan,73,6/24/2024 18:42
+aid-jp6-362f3ceb,Smartphone,Android,Android,172.18.56.50/::,0A:04:67:B4:B4:8F,svnet,WAP_240C-3,4C:B1:CD:36:DC:00,2539235,-48,48,g/n,222,nan,nan,nan,2,6/26/2024 6:42
+aid-jp6-3640228b,Unknown,Unknown,Unknown,172.18.52.11/::,0A:06:D6:91:B4:B4,svnet,RuckusAP,94:BF:C4:31:2B:B0,25698968,-64,32,g/n,220,nan,nan,nan,0,6/25/2024 20:37
+aid-jp6-36658080,Smartphone,Android,Android,172.18.52.54/::,0A:05:61:B0:F0:75,svnet,WAP_240A-3,4C:B1:CD:36:C1:50,1629180,-66,30,g/n,220,nan,nan,nan,19,6/25/2024 22:34
+aid-jp6-369b37cf,Unknown,Unknown,Unknown,172.18.46.77/::,0A:05:61:D1:44:F5,svnet,WAP28_60 Bed-4,1C:3A:60:03:7E:A0,4113,-71,25,g/n,217,nan,nan,nan,0,6/25/2024 20:59
+aid-jp6-36a54e0f,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.40.35/::,0A:04:67:C1:94:38,svnet,WAP_240A-2,4C:B1:CD:36:DC:00,380500272,-57,39,g/n,214,nan,nan,nan,20,6/25/2024 22:33
+aid-jp6-36adc9b3,Smartphone,Android,Android,172.18.44.20/::,0A:06:5B:73:2C:82,svnet,WAP28_60 Bed-4,1C:3A:60:03:7E:A0,496229,-60,36,g/n,216,nan,nan,nan,0,6/25/2024 18:44
+aid-jp6-36b4220c,Unknown,Unknown,Unknown,172.18.38.62/::,0A:05:60:10:EC:9C,svnet,WAP31_80 Lower 2,1C:3A:60:06:D3:C0,421232,-55,41,a/n,213,nan,nan,nan,0,6/26/2024 2:02
+aid-jp6-37336b34,Smartphone,Android,Android,172.18.54.21/::,0A:05:62:71:C0:2B,svnet,WAP21_120B-1,4C:B1:CD:36:ED:70,1257882,-48,48,g/n,221,nan,nan,nan,0,6/25/2024 19:27
+aid-jp6-375b12cc,Unknown,Unknown,Android,172.18.50.50/::,0A:04:67:41:45:17,svnet,Roll Call,1C:3A:60:03:7E:A0,468880,-66,30,g/n,219,nan,nan,nan,2,6/13/2024 7:17
+aid-jp6-37a4899d,Unknown,Unknown,Unknown,172.18.50.38/::,0A:06:98:51:48:C0,svnet,Roll Call,4C:B1:CD:36:B8:50,1519063,-40,56,g/n,219,nan,nan,nan,0,6/26/2024 6:35
+aid-jp6-3801c1c1,Smartphone,Android,Android,172.18.52.44/::,0A:06:5A:04:10:BE,svnet,WAP_240A-3,4C:B1:CD:36:DC:00,2247600,-50,46,g/n,220,nan,nan,nan,0,6/25/2024 22:21
+aid-jp6-3833f26e,Smartphone,Android,Android,172.18.32.32/::,0A:05:62:10:84:BD,svnet,WAP_240B-1,4C:B1:CD:36:9A:40,2197151,-68,28,g/n,210,nan,nan,nan,16,6/25/2024 22:25
+aid-jp6-38ac9c81,Smartphone,Android,Android,172.18.62.29/::,0A:05:61:F3:48:2E,svnet,WAP_240C-2,4C:B1:CD:36:AB:60,4567159,-67,29,a/n,225,nan,nan,nan,0,6/24/2024 23:26
+aid-jp6-38c1c8b4,Smartphone,Android,Android,172.18.60.12/::,00:08:22:71:76:51,svnet,RuckusAP,94:BF:C4:31:2B:B0,2379758,-54,42,g/n,224,nan,nan,nan,2,6/24/2024 20:51
+aid-jp6-38cb043e,Smartphone,Android,Android,172.18.62.64/::,0A:05:61:E2:BC:10,svnet,80 Upper U-AP1,C8:08:73:32:90:B0,2198959,-40,56,g/n,225,nan,nan,nan,0,6/23/2024 11:10
+aid-jp6-39103254,Smartphone,Android,Android,172.18.60.14/::,0A:06:5A:83:F8:7A,svnet,RuckusAP,20:58:69:01:A0:70,249315481,-53,43,g/n,224,nan,nan,nan,0,6/24/2024 9:36
+aid-jp6-392753ac,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.42.43/::,0A:04:67:A2:08:B1,svnet,WAP_240B-2,4C:B1:CD:36:BE:C0,11198217,-56,40,g/n,215,nan,nan,nan,84,6/25/2024 22:25
+aid-jp6-3932f17d,Smartphone,Android,Android,172.18.48.27/::,0A:06:5A:80:70:79,svnet,WAP_240B-2,4C:B1:CD:36:EE:20,499099,-67,29,g/n,218,nan,nan,nan,2,6/25/2024 22:05
+aid-jp6-395af8ba,Smartphone,Android,Android,172.18.52.30/::,0A:06:98:51:48:3F,svnet,WAP15_240D-3,4C:B1:CD:36:AA:D0,1658496,-78,18,a/n,220,nan,nan,nan,429,6/24/2024 23:46
+aid-jp6-395f8245,Smartphone,Android,Android,172.18.56.8/::,0A:06:D6:F3:8C:26,svnet,RuckusAP,94:BF:C4:31:2B:B0,595160,-59,37,g/n,222,nan,nan,nan,0,6/20/2024 10:18
+aid-jp6-3b30a398,Unknown,Unknown,Unknown,172.18.60.19/::,0A:06:5A:80:D0:76,svnet,WAP_240B-1,4C:B1:CD:36:C1:50,3442378,-57,39,g/n,224,nan,nan,nan,2,6/26/2024 6:07
+aid-jp6-3b42ddf1,Smartphone,Android,Android,172.18.46.30/::,0A:04:65:A3:F4:C9,svnet,WAP31_80 Lower 1,1C:3A:60:06:D3:C0,1744501,-36,60,g/n,217,nan,nan,nan,0,6/25/2024 6:07
+aid-jp6-3bc87e3c,Smartphone,Android,Android,172.18.62.14/::,0A:05:62:40:FC:62,svnet,WAP_240B-2,4C:B1:CD:36:EE:20,2103270,-39,57,g/n,225,nan,nan,nan,0,6/25/2024 21:31
+aid-jp6-3bcade8e,Smartphone,Android,Android,172.18.62.63/::,0A:04:67:53:0C:D3,svnet,WAP_240C-3,1C:3A:60:03:7E:A0,2661377,-71,25,g/n,225,nan,nan,nan,10,6/23/2024 23:04
+aid-jp6-3bd3c1ef,Unknown,Unknown,Unknown,172.18.60.48/::,0A:04:65:A2:A8:3B,svnet,WAP13_240D-1,4C:B1:CD:36:9A:30,1257008,-53,43,a/n,224,nan,nan,nan,0,6/24/2024 6:30
+aid-jp6-3c0fbcec,Smartphone,Android,Android,172.18.56.11/::,0A:04:2A:64:8C:6D,svnet,WAP_240A-3,4C:B1:CD:36:AB:60,63962,-60,36,g/n,222,nan,nan,nan,5,6/25/2024 21:37
+aid-jp6-3c55ccfc,Smartphone,Android,Android,172.18.56.59/::,0A:06:5B:71:D0:8B,svnet,WAP14_240D-2,1C:3A:60:03:7E:A0,714612,-68,28,g/n,222,nan,nan,nan,2,6/24/2024 21:20
+aid-jp6-3c767a53,Smartphone,Android,Android,172.18.44.8/::,0A:07:16:81:B8:A5,svnet,WAP21_120B-1,4C:B1:CD:36:AB:90,2651075,-58,38,g/n,216,nan,nan,nan,0,6/25/2024 20:36
+aid-jp6-3d84b791,Smartphone,Android,Android,172.18.42.51/::,0A:05:9F:F1:EC:2D,svnet,WAP14_240D-2,4C:B1:CD:36:B1:F0,33460,-60,36,g/n,215,nan,nan,nan,0,6/23/2024 13:56
+aid-jp6-3da5016e,Smartphone,Android,Android,172.18.36.62/::,0A:06:5B:71:58:22,svnet,WAP22_120B-2,4C:B1:CD:36:ED:70,1798418,-51,45,g/n,212,nan,nan,nan,0,6/25/2024 22:50
+aid-jp6-3da758b5,Smartphone,Android,Android,172.18.60.47/::,0A:05:61:C3:90:66,svnet,WAP_240B-2,1C:3A:60:03:7E:A0,19627,-74,22,a/n,224,nan,nan,nan,0,6/26/2024 6:14
+aid-jp6-3dad7ca1,Smartphone,Android,Android,172.18.46.11/::,0A:06:98:51:41:14,svnet,WAP_240A-1,4C:B1:CD:36:AB:60,1790,-70,26,a/n,217,nan,nan,nan,0,6/25/2024 22:49
+aid-jp6-3def7bb3,Smartphone,Android,Android,172.18.50.24/::,0A:05:9F:F4:00:59,svnet,WAP14_240D-2,4C:B1:CD:36:EE:20,203623,-63,33,g/n,219,nan,nan,nan,39,6/24/2024 8:53
+aid-jp6-3e3f6def,Smartphone,Android,Android,172.18.36.15/::,0A:05:60:F4:58:CD,svnet,RuckusAP,94:BF:C4:31:2B:B0,2162699,-67,29,g/n,212,nan,nan,nan,1,6/25/2024 19:27
+aid-jp6-3ea9d385,Smartphone,Android,Android,172.18.62.24/::,0A:04:67:13:3C:84,svnet,WAP31_80 Lower 2,1C:3A:60:03:4E:90,409580,-57,39,a/n,225,nan,nan,nan,0,6/25/2024 22:35
+aid-jp6-3eaa922f,Smartphone,Android,Android,172.18.60.29/::,0A:04:67:51:6C:D8,svnet,WAP_240C-3,1C:3A:60:03:7E:A0,345584,-67,29,g/n,224,nan,nan,nan,1,6/25/2024 23:14
+aid-jp6-3eb9e80f,Smartphone,Android,Android,172.18.38.19/::,0A:06:5C:13:C8:3C,svnet,WAP27_60 Bed-3,4C:B1:CD:36:DC:70,156263,-43,53,g/n,213,nan,nan,nan,0,6/25/2024 22:42
+aid-jp6-3eee10ae,Smartphone,Android,Android,172.18.44.37/::,0A:05:61:C3:9C:6B,svnet,WAP22_120B-2,4C:B1:CD:36:ED:70,160819384,-60,36,g/n,216,nan,nan,nan,0,6/25/2024 23:57
+aid-jp6-3f02bbe6,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.42.44/::,0A:05:9F:F3:F4:59,svnet,WAP22_120B-2,4C:B1:CD:36:AB:90,81363827,-72,24,a/n,215,nan,nan,nan,0,6/26/2024 0:46
+aid-jp6-3f3d76f8,Smartphone,Android,Android,172.18.52.79/::,0A:05:9E:02:8C:D2,svnet,80 Upper U-AP1,C8:08:73:32:90:B0,63968649,-40,56,g/n,220,nan,nan,nan,7,6/24/2024 8:47
+aid-jp6-3f621015,Smartphone,Android,Android,172.18.34.44/::,0A:04:67:C2:2D:02,svnet,Roll Call,4C:B1:CD:36:AB:90,2079600,-71,25,g/n,211,nan,nan,nan,2,6/25/2024 14:03
+aid-jp6-3fbe8496,Smartphone,Android,Android,172.18.48.12/::,0A:06:59:14:34:69,svnet,RuckusAP,94:BF:C4:31:2B:B0,2272073,-52,44,g/n,218,nan,nan,nan,0,6/23/2024 20:50
+aid-jp6-3fe48e4b,Smartphone,Android,Android,172.18.54.43/::,0A:04:67:A1:3D:05,svnet,80Upper UAP2,84:23:88:23:FD:80,19884999,-40,56,g/n,221,nan,nan,nan,0,6/23/2024 22:27
+aid-jp6-40469c1d,Smartphone,Android,Android,172.18.34.12/::,0A:05:62:00:98:A0,svnet,WAP14_240D-2,4C:B1:CD:36:B2:40,286275,-58,38,g/n,211,nan,nan,nan,16,6/25/2024 7:53
+aid-jp6-40d74eba,Smartphone,Android,Android,172.18.38.52/::,0A:06:5A:82:A0:87,svnet,WAP22_120B-2,4C:B1:CD:36:ED:70,1994466,-68,28,g/n,213,nan,nan,nan,39,6/25/2024 22:47
+aid-jp6-40e5bc76,Unknown,Unknown,Unknown,172.18.38.35/::,0A:06:98:52:A4:AF,svnet,WAP21_120B-1,4C:B1:CD:36:ED:70,434673,-62,34,g/n,213,nan,nan,nan,0,6/24/2024 8:46
+aid-jp6-40f3467b,Smartphone,Android,Android,172.18.38.42/::,0A:06:5B:72:00:24,svnet,WAP36_FHU,4C:B1:CD:36:63:E0,136994,-61,35,g/n,213,nan,nan,nan,0,6/24/2024 8:29
+aid-jp6-41a3bf55,Unknown,Unknown,Unknown,172.18.60.45/::,0A:05:62:73:69:14,svnet,WAP28_60 Bed-4,4C:B1:CD:36:DC:70,5810132,-58,38,g/n,224,nan,nan,nan,3,6/25/2024 17:30
+aid-jp6-41c15853,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.48.11/::,0A:04:67:11:E0:8C,svnet,RuckusAP,94:BF:C4:31:2B:B0,2490809,-67,29,g/n,218,nan,nan,nan,1,6/25/2024 17:28
+aid-jp6-41c71f63,Smartphone,Android,Android,172.18.48.69/::,0A:04:67:A3:6D:09,svnet,WAP15_240D-3,1C:3A:60:03:7E:A0,233318,-66,30,g/n,218,nan,nan,nan,2,6/25/2024 7:47
+aid-jp6-41dd3b73,Smartphone,Android,Android,172.18.60.6/::,0A:04:66:63:8C:46,svnet,RuckusAP,94:BF:C4:31:2B:B0,2537411,-49,47,g/n,224,nan,nan,nan,1,6/25/2024 20:47
+aid-jp6-41f360fa,Smartphone,Android,Android,172.18.56.28/::,0A:04:65:A0:3C:AB,svnet,WAP37_Infirmary,94:BF:C4:31:2D:30,18582011,-55,41,g/n,222,nan,nan,nan,5,6/24/2024 21:19
+aid-jp6-42939c7e,Smartphone,Android,Android,172.18.58.17/::,0A:05:62:30:B4:CC,svnet,WAP21_120B-1,4C:B1:CD:36:AB:90,422332,-61,35,a/n,223,nan,nan,nan,0,6/23/2024 22:56
+aid-jp6-43458d62,Smartphone,Android,Android,172.18.42.35/::,0A:04:67:52:EC:0D,svnet,WAP27_60 Bed-3,4C:B1:CD:36:B8:50,7375862,-32,64,g/n,215,nan,nan,nan,2,6/25/2024 23:18
+aid-jp6-4366f483,Smartphone,Android,Android,172.18.62.46/::,0A:04:67:51:AC:57,svnet,WAP28_60 Bed-4,4C:B1:CD:36:DC:70,124021,-67,29,g/n,225,nan,nan,nan,0,6/25/2024 21:29
+aid-jp6-4370dd8c,Unknown,Unknown,Android,172.18.38.43/::,0A:06:D6:91:41:1A,svnet,WAP28_60 Bed-4,4C:B1:CD:36:B8:50,1972884,-57,39,g/n,213,nan,nan,nan,0,6/25/2024 20:48
+aid-jp6-43be88de,Smartphone,Android,Android,172.18.38.34/::,0A:04:67:B3:14:4B,svnet,WAP_240A-3,4C:B1:CD:36:AB:60,2659420,-67,29,g/n,213,nan,nan,nan,14,6/25/2024 22:17
+aid-jp6-445c4e4b,Smartphone,Android,Android,172.18.34.7/::,0A:06:D6:42:B8:9B,svnet,WAP27_60 Bed-3,4C:B1:CD:36:B8:50,488546,-55,41,g/n,211,nan,nan,nan,0,6/26/2024 3:07
+aid-jp6-4492f72e,Smartphone,Android,Android,172.18.56.7/::,0A:06:D6:A1:40:CF,svnet,WAP_240A-3,4C:B1:CD:36:63:E0,596068,-59,37,g/n,222,nan,nan,nan,0,6/25/2024 22:25
+aid-jp6-44f0fe49,Smartphone,Android,Android,172.18.48.8/::,0A:07:16:80:34:AF,svnet,RuckusAP,20:58:69:01:B8:80,3600476,-50,46,g/n,218,nan,nan,nan,0,6/25/2024 20:54
+aid-jp6-450bf9ce,Smartphone,Android,Android,172.18.54.32/::,0A:06:D6:A3:B0:92,svnet,WAP_240C-3,1C:3A:60:03:7E:A0,144493,-64,32,g/n,221,nan,nan,nan,0,6/25/2024 22:05
+aid-jp6-45aee675,Smartphone,Android,Android,172.18.50.40/::,0A:04:66:63:50:E2,svnet,WAP_240A-2,4C:B1:CD:36:AB:60,7661903,-52,44,g/n,219,nan,nan,nan,189,6/25/2024 21:16
+aid-jp6-45fc4015,Unknown,Unknown,Android,172.18.56.57/::,0A:06:D6:41:45:10,svnet,Roll Call,1C:3A:60:03:7E:A0,1429085,-81,15,a/n,222,nan,nan,nan,38,6/24/2024 8:24
+aid-jp6-46406ca2,Smartphone,Android,Android,172.18.36.8/::,0A:04:67:53:44:8C,svnet,RuckusAP,94:BF:C4:31:2B:B0,2185024,-50,46,g/n,212,nan,nan,nan,1,6/12/2024 21:22
+aid-jp6-4643a0c4,Smartphone,Android,Android,172.18.40.52/::,0A:06:D6:F1:C4:E4,svnet,WAP31_80 Lower 1,1C:3A:60:03:4E:90,405868,-60,36,a/n,214,nan,nan,nan,0,6/26/2024 6:02
+aid-jp6-4670ca0c,Smartphone,Android,Android,172.18.42.12/::,0A:04:65:A2:74:3B,svnet,WAP_240B-1,4C:B1:CD:36:EE:20,1940883,-54,42,g/n,215,nan,nan,nan,0,6/26/2024 0:03
+aid-jp6-468eaf3c,Smartphone,Android,Android,172.18.50.9/::,0A:06:5A:00:60:C5,svnet,WAP27_60 Bed-3,4C:B1:CD:36:DC:70,6786737,-50,46,g/n,219,nan,nan,nan,14,6/25/2024 21:04
+aid-jp6-46f7c5ce,Smartphone,Android,Android,172.18.48.26/::,0A:04:67:44:58:DC,svnet,WAP27_60 Bed-3,4C:B1:CD:36:B8:50,2131359,-45,51,g/n,218,nan,nan,nan,0,6/25/2024 20:14
+aid-jp6-47537f09,Smartphone,Android,Android,172.18.38.49/::,0A:04:66:62:58:AB,svnet,WAP_240C-2,4C:B1:CD:36:B1:50,161872,-66,30,g/n,213,nan,nan,nan,0,6/25/2024 7:16
+aid-jp6-47789aac,Smartphone,Android,Android,172.18.50.6/::,0A:06:D6:80:B0:5F,svnet,WAP21_120B-1,4C:B1:CD:36:ED:70,133515,-54,42,g/n,219,nan,nan,nan,0,6/25/2024 21:52
+aid-jp6-4778e548,Smartphone,Android,Android,172.18.44.6/::,0A:06:5C:10:DC:EE,svnet,WAP13_240D-1,4C:B1:CD:36:B2:40,33443071,-61,35,g/n,216,nan,nan,nan,0,6/23/2024 14:04
+aid-jp6-47b6e458,Smartphone,Android,Android,172.18.42.69/::,0A:05:62:12:98:5E,svnet,WAP21_120B-1,4C:B1:CD:36:ED:70,2757925,-56,40,g/n,215,nan,nan,nan,49,6/23/2024 14:06
+aid-jp6-47e308e5,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.36.39/::,0A:05:61:E1:48:35,svnet,80 Upper U-AP1,84:23:88:23:FD:80,1100221154,-64,32,a/n,212,nan,nan,nan,44,6/25/2024 18:43
+aid-jp6-484888e5,Smartphone,Android,Android,172.18.62.41/::,0A:04:65:A3:6C:3B,svnet,WAP14_240D-2,4C:B1:CD:36:AA:D0,120411,-69,27,g/n,225,nan,nan,nan,0,6/13/2024 8:21
+aid-jp6-485a26c5,Smartphone,Android,Android,172.18.36.29/::,0A:05:62:11:7C:46,svnet,WAP_240A-3,4C:B1:CD:36:DC:00,2891976,-77,19,g/n,212,nan,nan,nan,35,6/26/2024 3:31
+aid-jp6-486aa881,Smartphone,Android,Android,172.18.52.70/::,0A:06:D6:43:00:DD,svnet,WAP27_60 Bed-3,4C:B1:CD:36:B8:50,210870,-59,37,g/n,220,nan,nan,nan,0,6/25/2024 7:42
+aid-jp6-48d90550,Smartphone,Android,Android,172.18.42.36/::,0A:06:98:51:9C:59,svnet,WAP14_240D-2,4C:B1:CD:36:B1:F0,311678,-53,43,g/n,215,nan,nan,nan,3,6/24/2024 22:39
+aid-jp6-48f5d0cd,Smartphone,Android,Android,172.18.60.51/::,0A:04:67:A3:2C:7C,svnet,WAP31_80 Lower 2,1C:3A:60:03:7E:A0,27253,-76,20,g/n,224,nan,nan,nan,0,6/25/2024 18:13
+aid-jp6-494916d4,Smartphone,Android,Android,172.18.38.64/::,0A:05:62:41:A8:D3,svnet,80 Upper U-AP1,1C:3A:60:03:7E:A0,2755703,-68,28,g/n,213,nan,nan,nan,0,6/24/2024 14:45
+aid-jp6-494f73e1,Unknown,Unknown,Android,172.18.62.66/::,0A:06:D6:91:E1:21,svnet,WAP14_240D-2,1C:3A:60:03:7E:A0,72314,-71,25,g/n,225,nan,nan,nan,0,6/25/2024 22:24
+aid-jp6-49ea5e67,Smartphone,Android,Android,172.18.52.27/::,0A:06:D6:F2:C0:64,svnet,WAP13_240D-1,4C:B1:CD:36:B2:40,361385,-53,43,g/n,220,nan,nan,nan,0,6/24/2024 8:53
+aid-jp6-49ef610f,Smartphone,Android,Android,172.18.46.45/::,0A:06:98:51:C8:63,svnet,WAP_240A-3,4C:B1:CD:36:DC:00,2158224,-68,28,g/n,217,nan,nan,nan,5,6/25/2024 22:09
+aid-jp6-4a3fc814,Smartphone,Android,Android,172.18.60.30/::,0A:04:67:A2:48:DB,svnet,WAP_240C-1,1C:3A:60:03:7E:A0,233192,-67,29,g/n,224,nan,nan,nan,0,6/25/2024 7:35
+aid-jp6-4a7fea81,Smartphone,Android,Android,172.18.52.62/::,0A:05:61:D4:40:A3,svnet,WAP27_60 Bed-3,4C:B1:CD:36:B8:50,1425420,-66,30,g/n,220,nan,nan,nan,0,6/25/2024 22:42
+aid-jp6-4b2cc16c,Smartphone,Android,Android,172.18.50.49/::,0A:06:D6:A3:05:17,svnet,WAP31_80 Lower 2,1C:3A:60:03:7E:A0,455965,-67,29,g/n,219,nan,nan,nan,5,6/25/2024 21:19
+aid-jp6-4b54c7e4,Smartphone,Android,Android,172.18.60.47/::,0A:05:61:B3:30:73,svnet,WAP_240C-3,4C:B1:CD:36:B1:50,2065844,-46,50,g/n,224,nan,nan,nan,1,6/24/2024 20:30
+aid-jp6-4b5ad9a5,Smartphone,Android,Android,172.18.50.15/::,0A:05:61:B1:8C:CA,svnet,WAP_240C-3,4C:B1:CD:36:63:E0,465121,-44,52,g/n,219,nan,nan,nan,1,6/25/2024 23:09
+aid-jp6-4bb61d3e,Smartphone,Android,Android,172.18.34.33/::,0A:05:9F:F4:44:59,svnet,WAP14_240D-2,4C:B1:CD:36:9A:40,1305,-65,31,g/n,211,nan,nan,nan,0,6/24/2024 8:25
+aid-jp6-4bc07a0f,Smartphone,Android,Android,172.18.52.61/::,0A:06:D6:81:F4:30,svnet,WAP_240B-3,1C:3A:60:03:7E:A0,2685597,-65,31,g/n,220,nan,nan,nan,9,6/25/2024 23:11
+aid-jp6-4bdc44fa,Smartphone,Android,Android,172.18.48.60/::,0A:06:5A:03:C4:C3,svnet,WAP15_240D-3,4C:B1:CD:36:B1:F0,171001,-65,31,nan,218,nan,nan,nan,0,6/23/2024 13:45
+aid-jp6-4bf0f638,Smartphone,Android,Android,172.18.32.24/::,0A:05:62:43:58:E0,svnet,WAP_240B-2,4C:B1:CD:36:9A:40,9893696,-35,61,g/n,210,nan,nan,nan,1977,6/25/2024 21:55
+aid-jp6-4bf87993,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.44.38/::,0A:04:67:A1:68:7E,svnet,WAP_240A-2,4C:B1:CD:36:C1:50,89568205,-40,56,g/n,216,nan,nan,nan,21,6/25/2024 22:20
+aid-jp6-4c03f61a,Smartphone,Android,Android,172.18.56.48/::,0A:06:5B:70:F4:4C,svnet,WAP28_60 Bed-4,4C:B1:CD:36:DC:70,2194915,-67,29,g/n,222,nan,nan,nan,47,6/24/2024 17:37
+aid-jp6-4c2d9ab4,Unknown,Unknown,Unknown,172.18.40.7/::,0A:04:65:A2:48:AD,svnet,WAP2_Central Control Rm,94:BF:C4:31:1B:D0,20860,-43,53,g/n,214,nan,nan,nan,0,6/20/2024 8:34
+aid-jp6-4cab60e3,Smartphone,Android,Android,172.18.60.44/::,0A:04:66:61:F8:15,svnet,WAP27_60 Bed-3,1C:3A:60:03:4E:90,5014288,-60,36,a/n,224,nan,nan,nan,0,6/25/2024 20:14
+aid-jp6-4cfb38e1,Smartphone,Android,Android,172.18.44.44/::,0A:06:D6:F4:9C:72,svnet,WAP22_120B-2,4C:B1:CD:36:ED:70,168973,-61,35,g/n,216,nan,nan,nan,0,6/25/2024 7:26
+aid-jp6-4dbbca52,Smartphone,Android,Android,172.18.34.61/::,0A:05:62:11:C0:B9,svnet,WAP28_60 Bed-4,4C:B1:CD:36:DC:70,2240039,-60,36,g/n,211,nan,nan,nan,0,6/25/2024 20:28
+aid-jp6-4dc5fc22,Unknown,Unknown,Unknown,172.18.48.34/::,0A:06:5D:01:C4:6A,svnet,WAP_240B-2,4C:B1:CD:36:9A:40,11299301,-75,21,a/n,218,nan,nan,nan,0,6/25/2024 7:45
+aid-jp6-4dc9abba,Smartphone,Android,Android,172.18.40.6/::,0A:06:D6:A0:6C:55,svnet,WAP1_Hall,20:58:69:0A:7A:D0,4800394,-59,37,g/n,214,nan,nan,nan,0,6/26/2024 6:33
+aid-jp6-4dfc821e,Smartphone,Android,Android,172.18.36.35/::,0A:04:67:44:04:FE,svnet,WAP28_60 Bed-4,94:BF:C4:31:32:30,325186,-71,25,g/n,212,nan,nan,nan,8,6/25/2024 20:08
+aid-jp6-4e3ff5c7,Smartphone,Android,Android,172.18.46.50/::,0A:05:9F:F2:A4:17,svnet,WAP_240C-3,4C:B1:CD:36:B1:50,431877,-67,29,g/n,217,nan,nan,nan,2,6/25/2024 23:15
+aid-jp6-4e4079cc,Smartphone,Android,Android,172.18.54.20/::,0A:04:67:B3:EC:77,svnet,80 Upper U-AP1,C8:08:73:32:90:B0,3964250,-54,42,a/n,221,nan,nan,nan,0,6/24/2024 12:17
+aid-jp6-4e67667e,Smartphone,Android,Android,172.18.54.6/::,0A:04:67:A3:30:60,svnet,WAP21_120B-1,4C:B1:CD:36:ED:70,283480,-58,38,g/n,221,nan,nan,nan,0,6/25/2024 20:36
+aid-jp6-4efa9a0b,Smartphone,Android,Android,172.18.62.65/::,0A:06:D6:F2:AC:D8,svnet,WAP_240B-2,4C:B1:CD:36:BE:C0,372373,-46,50,g/n,225,nan,nan,nan,0,6/23/2024 12:16
+aid-jp6-4f0cb734,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.62.61/::,0A:04:67:42:A1:01,svnet,WAP31_80 Lower 2,1C:3A:60:06:D3:C0,2498425,-40,56,g/n,225,nan,nan,nan,0,6/25/2024 18:12
+aid-jp6-4f6dd990,Smartphone,Android,Android,172.18.56.26/::,0A:04:67:A3:EC:43,svnet,WAP27_60 Bed-3,1C:3A:60:03:7E:A0,176148,-71,25,g/n,222,nan,nan,nan,0,6/25/2024 23:22
+aid-jp6-4f871b8c,Unknown,Unknown,Android,172.18.58.26/::,0A:05:9E:03:0D:13,svnet,80Upper UAP2,84:23:88:23:FD:80,174968,-57,39,a/n,223,nan,nan,nan,0,6/24/2024 9:14
+aid-jp6-500b714c,Unknown,Unknown,Unknown,172.18.62.15/::,0A:06:D6:A4:50:94,svnet,WAP_240A-3,4C:B1:CD:36:C1:50,593175,-59,37,g/n,225,nan,nan,nan,0,6/26/2024 4:16
+aid-jp6-5043364f,Smartphone,Android,Android,172.18.40.23/::,0A:06:98:52:B0:63,svnet,Roll Call,1C:3A:60:03:7E:A0,274665,-69,27,g/n,214,nan,nan,nan,0,6/13/2024 8:08
+aid-jp6-50642108,Smartphone,Android,Android,172.18.40.8/::,0A:04:67:B1:E8:AD,svnet,Roll Call,1C:3A:60:03:7E:A0,5342438,-70,26,g/n,214,nan,nan,nan,26,6/21/2024 12:43
+aid-jp6-5114749c,Smartphone,Android,Android,172.18.54.17/::,0A:05:9F:F1:E8:10,svnet,WAP31_80 Lower 1,1C:3A:60:03:4E:90,2401815,-51,45,a/n,221,nan,nan,nan,0,6/25/2024 23:51
+aid-jp6-5177fb35,Smartphone,Android,Android,172.18.58.14/::,0A:05:62:03:24:6E,svnet,WAP_240C-2,4C:B1:CD:36:9A:30,12064066,-51,45,g/n,223,nan,nan,nan,13,6/25/2024 7:37
+aid-jp6-51b87c20,Smartphone,Android,Android,172.18.60.13/::,0A:04:66:62:84:BC,svnet,WAP15_240D-3,4C:B1:CD:36:AA:D0,204629,-58,38,g/n,224,nan,nan,nan,0,6/21/2024 12:38
+aid-jp6-51dad007,Smartphone,Android,Android,172.18.62.32/::,0A:06:5A:82:58:86,svnet,WAP27_60 Bed-3,4C:B1:CD:36:B8:50,2073432,-52,44,g/n,225,nan,nan,nan,0,6/12/2024 22:44
+aid-jp6-522c5585,Unknown,Unknown,Unknown,172.18.40.38/::,0A:05:61:B4:88:74,svnet,WAP14_240D-2,1C:3A:60:03:7E:A0,80775,-60,36,g/n,214,nan,nan,nan,0,6/25/2024 7:54
+aid-jp6-524e4478,Smartphone,Android,Android,172.18.56.66/::,0A:06:D6:F2:A4:7C,svnet,WAP14_240D-2,4C:B1:CD:36:B2:40,6968346,-53,43,g/n,222,nan,nan,nan,15,6/23/2024 12:50
+aid-jp6-527ac776,Smartphone,Android,Android,172.18.48.66/::,0A:06:59:12:74:75,svnet,80 Upper U-AP1,84:23:88:23:FD:80,2289283,-51,45,g/n,218,nan,nan,nan,0,6/25/2024 19:00
+aid-jp6-530489d4,Smartphone,Android,Android,172.18.42.31/::,0A:05:61:B3:0C:67,svnet,WAP_240A-3,4C:B1:CD:36:C1:50,2328135,-74,22,g/n,215,nan,nan,nan,39,6/12/2024 22:45
+aid-jp6-5399d028,Smartphone,Android,Android,172.18.40.39/::,0A:05:62:52:14:76,svnet,WAP_240A-3,4C:B1:CD:36:C1:50,2307597,-62,34,g/n,214,nan,nan,nan,17,6/26/2024 3:29
+aid-jp6-53b6f8f1,Smartphone,Android,Android,172.18.54.26/::,0A:04:66:61:BC:55,svnet,WAP22_120B-2,4C:B1:CD:36:ED:70,540914,-68,28,g/n,221,nan,nan,nan,11,6/21/2024 12:32
+aid-jp6-53c5c12c,Smartphone,Android,Android,172.18.34.42/::,0A:04:2A:63:E8:3B,svnet,WAP15_240D-3,4C:B1:CD:36:B1:F0,25371958,-48,48,g/n,211,nan,nan,nan,40,6/23/2024 13:50
+aid-jp6-542a251c,Smartphone,Android,Android,172.18.34.6/::,0A:05:61:D2:69:15,svnet,WAP2_Central Control Rm,20:58:69:0A:7A:D0,17493635,-45,51,g/n,211,nan,nan,nan,0,6/24/2024 15:47
+aid-jp6-548d7ab5,Smartphone,Android,Android,172.18.38.53/::,0A:05:62:71:D4:CD,svnet,WAP_240B-1,4C:B1:CD:36:BE:C0,1643220,-47,49,g/n,213,nan,nan,nan,0,6/23/2024 8:05
+aid-jp6-553979ff,Unknown,Unknown,Android,172.18.46.31/::,0A:04:67:50:E4:CB,svnet,WAP31_80 Lower 2,1C:3A:60:03:4E:90,2684036,-43,53,g/n,217,nan,nan,nan,0,6/26/2024 1:53
+aid-jp6-55ac6377,Smartphone,Android,Android,172.18.40.26/::,0A:06:5A:03:A4:E0,svnet,WAP14_240D-2,4C:B1:CD:36:AA:D0,2645051,-56,40,g/n,214,nan,nan,nan,64,6/25/2024 22:09
+aid-jp6-55f9729d,Unknown,Unknown,Unknown,172.18.42.63/::,0A:06:5C:10:FC:3F,svnet,WAP14_240D-2,94:BF:C4:31:32:30,82920,-69,27,g/n,215,nan,nan,nan,0,6/23/2024 12:11
+aid-jp6-563530d5,Smartphone,Android,Android,172.18.50.30/::,0A:05:61:E1:D4:68,svnet,WAP_240B-3,4C:B1:CD:36:B2:40,1798900,-59,37,g/n,219,nan,nan,nan,13,6/20/2024 11:16
+aid-jp6-563dd57a,Smartphone,Android,Android,172.18.58.20/::,0A:05:62:72:D8:3B,svnet,WAP22_120B-2,4C:B1:CD:36:AB:90,1573500,-57,39,g/n,223,nan,nan,nan,1,6/25/2024 7:40
+aid-jp6-56914694,Smartphone,Android,Android,172.18.48.31/::,0A:04:26:D3:FC:8E,svnet,WAP22_120B-2,4C:B1:CD:36:ED:70,395922,-57,39,g/n,218,nan,nan,nan,0,6/24/2024 8:26
+aid-jp6-56cf7334,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.62.7/::,0A:06:5C:12:BC:AC,svnet,RuckusAP,94:BF:C4:31:2B:B0,2779072,-55,41,g/n,225,nan,nan,nan,0,6/25/2024 16:26
+aid-jp6-5702304c,Smartphone,Android,Android,172.18.36.53/::,0A:06:D6:93:98:89,svnet,WAP31_80 Lower 1,1C:3A:60:03:4E:90,262438,-50,46,g/n,212,nan,nan,nan,0,6/26/2024 6:01
+aid-jp6-57027382,Unknown,Unknown,Unknown,172.18.36.38/::,0A:04:67:C3:B4:77,svnet,WAP_240A-1,94:BF:C4:31:32:30,286162,-68,28,g/n,212,nan,nan,nan,1,6/25/2024 22:25
+aid-jp6-57282dc5,Smartphone,Android,Android,172.18.62.62/::,0A:05:62:74:90:74,svnet,WAP_240A-2,1C:3A:60:03:7E:A0,358425,-67,29,g/n,225,nan,nan,nan,0,6/25/2024 22:59
+aid-jp6-5777ed99,Smartphone,Android,Android,172.18.56.54/::,0A:05:62:73:2C:33,svnet,WAP21_120B-1,1C:3A:60:03:7E:A0,867587,-68,28,g/n,222,nan,nan,nan,0,6/25/2024 21:21
+aid-jp6-577f5cce,Unknown,Unknown,Unknown,172.18.50.34/::,0A:06:5C:11:68:BF,svnet,80 Upper U-AP1,84:23:88:23:FD:80,3250000,-43,53,g/n,219,nan,nan,nan,0,6/24/2024 19:26
+aid-jp6-57ff44a1,Smartphone,Android,Android,172.18.48.72/::,0A:05:61:B3:40:29,svnet,WAP28_60 Bed-4,4C:B1:CD:36:B8:50,2184261,-42,54,g/n,218,nan,nan,nan,0,6/25/2024 21:50
+aid-jp6-587393d1,Smartphone,Android,Android,172.18.48.7/::,0A:06:5A:83:A4:79,svnet,WAP_240B-2,4C:B1:CD:36:BE:C0,1411448,-66,30,g/n,218,nan,nan,nan,0,6/24/2024 21:08
+aid-jp6-58d1185f,Smartphone,Android,Android,172.18.46.19/::,0A:06:98:52:5C:CC,svnet,WAP_240B-3,4C:B1:CD:36:EE:20,2757743,-38,58,g/n,217,nan,nan,nan,4,6/25/2024 21:22
+aid-jp6-58d47956,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.40.8/::,0A:06:5A:04:4C:E2,svnet,RuckusAP,94:BF:C4:31:2B:B0,2064049,-53,43,g/n,214,nan,nan,nan,0,6/24/2024 16:50
+aid-jp6-58e72c42,Smartphone,Android,Android,172.18.62.9/::,0A:06:D6:A1:50:26,svnet,WAP_240B-2,4C:B1:CD:36:EE:20,2214366,-47,49,g/n,225,nan,nan,nan,0,6/24/2024 8:10
+aid-jp6-5921e027,Smartphone,Android,Android,172.18.62.68/::,0A:06:5A:80:90:94,svnet,80Upper UAP2,C8:08:73:32:90:B0,2141837,-53,43,a/n,225,nan,nan,nan,0,6/17/2024 15:58
+aid-jp6-598b63f2,Smartphone,Android,Android,172.18.52.15/::,0A:06:98:53:98:7F,svnet,WAP14_240D-2,4C:B1:CD:36:AA:D0,292584,-67,29,a/n,220,nan,nan,nan,0,6/14/2024 8:46
+aid-jp6-5a0eca9b,Smartphone,Android,Android,172.18.48.83/::,0A:04:67:A4:30:83,svnet,WAP22_120B-2,1C:3A:60:03:7E:A0,16112190,-69,27,g/n,218,nan,nan,nan,0,6/25/2024 22:49
+aid-jp6-5a68a03b,Unknown,Unknown,Unknown,172.18.32.23/::,0A:06:5A:00:28:A5,svnet,WAP_240B-1,4C:B1:CD:36:BE:C0,558742,-64,32,g/n,210,nan,nan,nan,25,6/25/2024 7:41
+aid-jp6-5a7fbf1d,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.48.54/::,0A:05:9F:F2:30:27,svnet,WAP_240A-2,4C:B1:CD:36:AB:60,47804824,-63,33,a/n,218,nan,nan,nan,0,6/25/2024 22:05
+aid-jp6-5addd18a,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.62.28/::,0A:05:62:53:40:74,svnet,WAP22_120B-2,4C:B1:CD:36:AB:90,185218515,-60,36,g/n,225,nan,nan,nan,15,6/23/2024 12:53
+aid-jp6-5b57c401,Smartphone,Android,Android,172.18.44.22/::,0A:06:5A:80:AC:65,svnet,WAP22_120B-2,4C:B1:CD:36:AB:90,132219509,-47,49,g/n,216,nan,nan,nan,15,6/25/2024 21:18
+aid-jp6-5bb94153,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.36.19/::,0A:04:67:50:7C:72,svnet,WAP31_80 Lower 2,1C:3A:60:06:D3:C0,2458569,-42,54,g/n,212,nan,nan,nan,4,6/23/2024 18:13
+aid-jp6-5bcef920,Unknown,Unknown,Unknown,172.18.42.34/::,0A:06:D6:F2:14:9F,svnet,WAP31_80 Lower 2,1C:3A:60:03:7E:A0,87054,-62,34,g/n,215,nan,nan,nan,0,6/25/2024 18:45
+aid-jp6-5bf8fe7d,Smartphone,Android,Android,172.18.48.48/::,0A:04:67:C1:70:FE,svnet,WAP22_120B-2,4C:B1:CD:36:AB:90,1641528,-58,38,g/n,218,nan,nan,nan,5,6/25/2024 21:36
+aid-jp6-5c046fdb,Unknown,Unknown,Unknown,172.18.60.66/::,0A:05:62:72:00:BE,svnet,WAP27_60 Bed-3,4C:B1:CD:36:B8:50,291321,-54,42,g/n,224,nan,nan,nan,0,6/25/2024 23:13
+aid-jp6-5c088623,Smartphone,Android,Android,172.18.40.16/::,0A:04:67:A3:AC:4D,svnet,WAP_240A-3,4C:B1:CD:36:DC:00,312409,-68,28,g/n,214,nan,nan,nan,4,6/25/2024 22:24
+aid-jp6-5c601484,Smartphone,Android,Android,172.18.38.57/::,0A:06:D6:F2:38:07,svnet,WAP22_120B-2,4C:B1:CD:36:ED:70,141073,-69,27,g/n,213,nan,nan,nan,0,6/14/2024 8:12
+aid-jp6-5cb3d3ac,Smartphone,Android,Android,172.18.46.49/::,0A:05:9F:F1:C8:10,svnet,WAP27_60 Bed-3,4C:B1:CD:36:B8:50,7073,-67,29,a/n,217,nan,nan,nan,0,6/25/2024 7:32
+aid-jp6-5cdaf743,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.38.36/::,0A:04:67:B3:78:C8,svnet,Roll Call,4C:B1:CD:36:EE:20,8150243,-65,31,g/n,213,nan,nan,nan,0,6/25/2024 7:07
+aid-jp6-5d46ada1,Smartphone,Android,Android,172.18.36.16/::,0A:05:9E:B3:B8:57,svnet,RuckusAP,20:58:69:01:A0:70,221005,-46,50,g/n,212,nan,nan,nan,0,6/24/2024 21:14
+aid-jp6-5d83910e,Smartphone,Android,Android,172.18.52.78/::,0A:06:98:52:48:63,svnet,Roll Call,84:23:88:23:FD:80,19746767,-59,37,a/n,220,nan,nan,nan,0,6/20/2024 10:43
+aid-jp6-5d96fe8b,Smartphone,Android,Android,172.18.56.31/::,0A:05:61:D2:40:9A,svnet,WAP_240B-1,1C:3A:60:03:7E:A0,32912,-66,30,g/n,222,nan,nan,nan,0,6/25/2024 22:01
+aid-jp6-5d9e367c,Smartphone,Android,Android,172.18.52.33/::,0A:05:9F:F0:98:57,svnet,WAP_240C-3,4C:B1:CD:36:9A:30,1920125,-68,28,a/n,220,nan,nan,nan,22,6/25/2024 7:09
+aid-jp6-5e061a12,Smartphone,Android,Android,172.18.58.24/::,0A:05:9F:F3:10:5A,svnet,WAP15_240D-3,4C:B1:CD:36:B2:40,183143,-67,29,g/n,223,nan,nan,nan,8,6/24/2024 9:00
+aid-jp6-5e85c2d2,Smartphone,Android,Android,172.18.38.14/::,0A:06:98:54:58:C5,svnet,WAP_240A-3,4C:B1:CD:36:AB:60,65036,-53,43,g/n,213,nan,nan,nan,0,6/25/2024 22:23
+aid-jp6-5ec66892,Smartphone,Android,Android,172.18.36.12/::,0A:06:98:53:BC:64,svnet,RuckusAP,94:BF:C4:31:2B:B0,2426141,-65,31,g/n,212,nan,nan,nan,0,6/25/2024 21:46
+aid-jp6-5f05621f,Smartphone,Android,Android,172.18.50.36/::,0A:06:98:53:80:CE,svnet,WAP21_120B-1,1C:3A:60:03:7E:A0,447797,-65,31,g/n,219,nan,nan,nan,18,6/25/2024 21:34
+aid-jp6-5fdcd3d8,Smartphone,Android,Android,172.18.44.42/::,0A:04:66:62:EC:17,svnet,WAP_240B-3,4C:B1:CD:36:9A:40,2270951,-57,39,g/n,216,nan,nan,nan,1,6/25/2024 22:24
+aid-jp6-5fed295c,Smartphone,Android,Android,172.18.44.17/::,0A:04:67:A3:58:9E,svnet,WAP_240B-2,4C:B1:CD:36:BE:C0,2166367,-48,48,g/n,216,nan,nan,nan,0,6/25/2024 23:12
+aid-jp6-60c3fe3a,Unknown,Unknown,Android,172.18.58.50/::,0A:06:D6:81:68:4F,svnet,WAP27_60 Bed-3,4C:B1:CD:36:DC:70,11301283,-72,24,g/n,223,nan,nan,nan,1,6/25/2024 23:15
+aid-jp6-60cc381f,Smartphone,Android,Android,172.18.42.16/::,0A:04:65:A1:EC:CD,svnet,WAP13_240D-1,4C:B1:CD:36:B1:F0,1266490,-53,43,g/n,215,nan,nan,nan,0,6/26/2024 6:31
+aid-jp6-610ce507,Smartphone,Android,Android,172.18.34.59/::,0A:05:61:B0:E0:6A,svnet,WAP31_80 Lower 1,1C:3A:60:06:D3:C0,2097590,-37,59,g/n,211,nan,nan,nan,8,6/25/2024 22:56
+aid-jp6-6161b9e9,Smartphone,Android,Android,172.18.48.74/::,0A:05:9F:F2:D4:0D,svnet,80Upper UAP2,C8:08:73:32:90:B0,2193045,-53,43,a/n,218,nan,nan,nan,0,6/19/2024 18:17
+aid-jp6-61ad4b7e,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.52.14/::,0A:05:9E:02:30:D4,svnet,RuckusAP,94:BF:C4:31:2B:B0,1691648,-53,43,g/n,220,nan,nan,nan,0,6/26/2024 4:14
+aid-jp6-6264c26b,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.44.43/::,0A:05:62:40:E8:53,svnet,WAP21_120B-1,4C:B1:CD:36:ED:70,261319,-51,45,a/n,216,nan,nan,nan,0,6/23/2024 13:36
+aid-jp6-634ad8d5,Smartphone,Android,Android,172.18.44.14/::,0A:06:98:53:44:54,svnet,80 Upper U-AP1,C8:08:73:32:90:B0,694089,-51,45,a/n,216,nan,nan,nan,0,6/24/2024 21:59
+aid-jp6-637e69d5,Smartphone,Android,Android,172.18.58.10/::,0A:06:98:51:45:16,svnet,WAP_240B-2,4C:B1:CD:36:9A:40,187696,-58,38,g/n,223,nan,nan,nan,0,6/19/2024 8:11
+aid-jp6-644dde60,Unknown,Unknown,Unknown,172.18.44.23/::,0A:05:62:44:5C:9E,svnet,80 Upper U-AP1,84:23:88:23:FD:80,1934099,-61,35,g/n,216,nan,nan,nan,0,6/20/2024 7:29
+aid-jp6-6459ddc7,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.54.57/::,0A:04:67:82:0C:9F,svnet,80Upper UAP2,84:23:88:23:FD:80,53729172,-61,35,a/n,221,nan,nan,nan,0,6/25/2024 18:01
+aid-jp6-64617ec2,Smartphone,Android,Android,172.18.52.24/::,0A:06:5A:82:D8:77,svnet,WAP14_240D-2,4C:B1:CD:36:B2:40,3929534,-55,41,g/n,220,nan,nan,nan,10,6/24/2024 19:28
+aid-jp6-64ade80a,Smartphone,Android,Android,172.18.34.41/::,0A:06:D6:41:B4:9F,svnet,WAP21_120B-1,4C:B1:CD:36:ED:70,8676015,-65,31,g/n,211,nan,nan,nan,16,6/25/2024 21:33
+aid-jp6-64fa2f73,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.52.59/::,0A:04:67:C3:34:37,svnet,WAP27_60 Bed-3,4C:B1:CD:36:B8:50,2487557,-35,61,g/n,220,nan,nan,nan,0,6/25/2024 19:25
+aid-jp6-652a45f0,Smartphone,Android,Android,172.18.46.15/::,0A:05:62:14:48:B8,svnet,RuckusAP,94:BF:C4:31:2B:B0,2737832,-55,41,g/n,217,nan,nan,nan,1,6/25/2024 18:46
+aid-jp6-657c4e89,Smartphone,Android,Android,172.18.34.43/::,0A:04:67:A4:44:A8,svnet,WAP_240B-2,4C:B1:CD:36:EE:20,2361397,-35,61,g/n,211,nan,nan,nan,7,6/25/2024 21:22
+aid-jp6-65ba6816,Smartphone,Android,Android,172.18.42.61/::,0A:04:67:C1:71:10,svnet,WAP_240A-3,4C:B1:CD:36:C1:50,328004,-45,51,g/n,215,nan,nan,nan,0,6/25/2024 22:19
+aid-jp6-65c10b0f,Smartphone,Android,Android,172.18.56.12/::,0A:06:D6:82:4C:8A,svnet,WAP_240B-1,4C:B1:CD:36:EE:20,1054403,-71,25,g/n,222,nan,nan,nan,14,6/24/2024 22:10
+aid-jp6-65dbf12f,Smartphone,Android,Android,172.18.44.32/::,0A:04:67:A4:0C:F8,svnet,80 Upper U-AP1,C8:08:73:32:90:B0,8820950,-32,64,g/n,216,nan,nan,nan,1,6/16/2024 9:39
+aid-jp6-65f3ac1f,Smartphone,Android,Android,172.18.54.23/::,0A:04:67:82:40:3B,svnet,WAP15_240D-3,4C:B1:CD:36:B2:40,1351807,-53,43,g/n,221,nan,nan,nan,7,6/23/2024 22:19
+aid-jp6-66243f0e,Smartphone,Android,Android,172.18.46.25/::,0A:05:60:12:A8:B7,svnet,80 Upper U-AP1,1C:3A:60:03:7E:A0,9686182,-64,32,g/n,217,nan,nan,nan,26,6/21/2024 13:43
+aid-jp6-662c3834,Smartphone,Android,Android,172.18.54.71/::,0A:04:66:63:30:D7,svnet,WAP28_60 Bed-4,4C:B1:CD:36:B8:50,2104952,-60,36,g/n,221,nan,nan,nan,0,6/26/2024 3:57
+aid-jp6-66639666,Smartphone,Android,Android,172.18.38.11/::,0A:06:5B:73:7C:D3,svnet,RuckusAP,94:BF:C4:31:2B:B0,2236797,-52,44,g/n,213,nan,nan,nan,0,6/25/2024 21:21
+aid-jp6-6687c0ea,Smartphone,Android,Android,172.18.36.14/::,0A:04:67:83:A0:6C,svnet,WAP22_120B-2,4C:B1:CD:36:AB:90,21732,-76,20,a/n,212,nan,nan,nan,0,6/26/2024 0:24
+aid-jp6-66a31be4,Unknown,Unknown,Generic_Android wv/Android 8.1.0,172.18.42.64/::,0A:04:67:42:2D:02,svnet,RuckusAP,84:23:88:23:FD:80,40436969,-60,36,a/n,215,nan,nan,nan,0,6/25/2024 16:55
+aid-jp6-673c214d,Smartphone,Android,Android,172.18.60.21/::,0A:06:5A:04:44:C6,svnet,WAP22_120B-2,4C:B1:CD:36:ED:70,116817576,-53,43,g/n,224,nan,nan,nan,23,6/25/2024 18:43
+aid-jp6-675292c2,Smartphone,Android,Android,172.18.40.17/::,0A:06:D6:93:C8:2D,svnet,WAP15_240D-3,4C:B1:CD:36:B1:F0,nan,nan,nan,nan,214,nan,nan,nan,nan,6/24/2024 8:40
+aid-jp6-675689ff,Unknown,Unknown,Android,172.18.48.17/::,0A:05:61:C0:D8:C7,svnet,WAP21_120B-1,4C:B1:CD:36:ED:70,485879,-46,50,g/n,218,nan,nan,nan,4,6/16/2024 21:04
+aid-jp6-67aa66b2,Smartphone,Android,Android,172.18.46.62/::,0A:05:61:D1:A8:67,svnet,WAP28_60 Bed-4,4C:B1:CD:36:B8:50,89548,-51,45,g/n,217,nan,nan,nan,0,6/26/2024 3:38
+aid-jp6-67c61823,Smartphone,Android,Android,172.18.40.34/::,0A:06:59:12:0C:73,svnet,WAP_240C-2,4C:B1:CD:36:B1:50,2064989,-63,33,g/n,214,nan,nan,nan,2,6/24/2024 22:35
+aid-jp6-67ff361d,Smartphone,Android,Android,172.18.58.32/::,0A:06:98:52:80:4F,svnet,WAP_240C-3,4C:B1:CD:36:B1:50,57662,-59,37,g/n,223,nan,nan,nan,0,6/25/2024 22:09
+aid-jp6-685e9b2a,Smartphone,Android,Android,172.18.46.44/::,0A:06:D6:F1:DC:53,svnet,WAP37_Infirmary,1C:3A:60:03:7E:A0,65955,-73,23,a/n,217,nan,nan,nan,0,6/26/2024 4:26
+aid-jp6-686d12e2,Smartphone,Android,Android,172.18.42.52/::,0A:06:5A:82:3C:88,svnet,WAP_240A-3,4C:B1:CD:36:AB:60,38120611,-72,24,a/n,215,nan,nan,nan,235,6/26/2024 6:26
+aid-jp6-687a0371,Smartphone,Android,Android,172.18.62.21/::,0A:05:61:B0:4C:5E,svnet,WAP_240C-3,4C:B1:CD:36:9A:30,2301598,-53,43,g/n,225,nan,nan,nan,0,6/25/2024 23:08
+aid-jp6-68f9edae,Smartphone,Android,Android,172.18.60.50/::,0A:04:67:B1:E0:3F,svnet,WAP27_60 Bed-3,4C:B1:CD:36:DC:70,31973,-71,25,g/n,224,nan,nan,nan,0,6/16/2024 21:34
+aid-jp6-6940dc80,Unknown,Unknown,Unknown,172.18.46.21/::,0A:06:D6:F2:0C:E2,svnet,RuckusAP,84:23:88:23:FD:80,2771557,-57,39,a/n,217,nan,nan,nan,0,6/25/2024 17:46
+aid-jp6-695469eb,Smartphone,Android,Android,172.18.62.35/::,0A:06:5C:13:3C:F9,svnet,WAP27_60 Bed-3,4C:B1:CD:36:B8:50,14510855,-44,52,g/n,225,nan,nan,nan,0,6/25/2024 20:38
+aid-jp6-69fea1e6,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.36.7/::,0A:05:62:44:88:A7,svnet,RuckusAP,94:BF:C4:31:2B:B0,2556794,-68,28,g/n,212,nan,nan,nan,0,6/25/2024 16:17
+aid-jp6-69ffdbdd,Smartphone,Android,Android,172.18.46.44/::,0A:04:67:42:34:4D,svnet,WAP_240A-3,4C:B1:CD:36:C1:50,1391814,-46,50,g/n,217,nan,nan,nan,6,6/25/2024 22:52
+aid-jp6-6a1236a1,Smartphone,Android,Android,172.18.48.22/::,0A:06:5A:02:B0:C3,svnet,WAP_240A-3,4C:B1:CD:36:DC:00,497474,-58,38,g/n,218,nan,nan,nan,11,6/26/2024 4:20
+aid-jp6-6a29f0cc,Smartphone,Android,Android,172.18.44.10/::,0A:06:5C:11:1C:AA,svnet,RuckusAP,94:BF:C4:31:2B:B0,2357156,-43,53,g/n,216,nan,nan,nan,0,6/25/2024 19:37
+aid-jp6-6a48a700,Unknown,Unknown,Unknown,172.18.38.58/::,0A:04:67:42:94:43,svnet,WAP_240C-3,1C:3A:60:03:7E:A0,77079,-66,30,g/n,213,nan,nan,nan,0,6/25/2024 7:39
+aid-jp6-6a6ae156,Smartphone,Android,Android,172.18.48.10/::,0A:04:67:A3:61:05,svnet,RuckusAP,94:BF:C4:31:2B:B0,2188922,-63,33,g/n,218,nan,nan,nan,1,6/25/2024 21:01
+aid-jp6-6a896563,Unknown,Unknown,Unknown,172.18.46.63/::,0A:04:67:B3:AC:AA,svnet,WAP36_FHU,4C:B1:CD:36:B8:50,1308,-64,32,g/n,217,nan,nan,nan,0,6/24/2024 2:34
+aid-jp6-6a9dd507,Smartphone,Android,Android,172.18.54.47/::,0A:05:61:E2:30:21,svnet,WAP22_120B-2,4C:B1:CD:36:ED:70,1360905,-66,30,g/n,221,nan,nan,nan,1,6/25/2024 23:09
+aid-jp6-6aa04479,Smartphone,Android,Android,172.18.32.38/::,0A:04:67:B2:C8:80,svnet,WAP31_80 Lower 2,1C:3A:60:03:4E:90,123378,-56,40,a/n,210,nan,nan,nan,0,6/24/2024 23:07
+aid-jp6-6b054ba9,Smartphone,Android,Android,172.18.42.68/::,0A:05:61:D3:F4:99,svnet,WAP36_FHU,94:BF:C4:31:32:30,897805,-69,27,g/n,215,nan,nan,nan,4,6/26/2024 6:09
+aid-jp6-6b391937,Smartphone,Android,Android,172.18.44.31/::,0A:04:2A:63:00:37,svnet,WAP14_240D-2,1C:3A:60:03:7E:A0,488658,-62,34,g/n,216,nan,nan,nan,0,6/25/2024 7:51
+aid-jp6-6b3d0ef5,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.60.9/::,0A:04:67:B0:B4:69,svnet,RuckusAP,20:58:69:01:B8:70,10211744,-58,38,g/n,224,nan,nan,nan,0,6/25/2024 17:20
+aid-jp6-6bc779cb,Smartphone,Android,Android,172.18.50.45/::,0A:04:67:A2:45:07,svnet,Roll Call,94:BF:C4:31:32:30,264697,-71,25,g/n,219,nan,nan,nan,4,6/24/2024 7:45
+aid-jp6-6bde92c4,Smartphone,Android,Android,172.18.40.63/::,0A:06:5B:73:40:C4,svnet,80 Upper U-AP1,84:23:88:23:FD:80,343208,-50,46,a/n,214,nan,nan,nan,0,6/23/2024 22:12
+aid-jp6-6c15c026,Smartphone,Android,Android,172.18.54.7/::,0A:05:61:E2:70:4E,svnet,WAP_240A-3,4C:B1:CD:36:B1:50,4343382,-54,42,g/n,221,nan,nan,nan,18,6/26/2024 0:56
+aid-jp6-6c36f1fc,Smartphone,Android,Android,172.18.56.33/::,0A:04:67:A3:5C:60,svnet,WAP_240C-2,4C:B1:CD:36:B1:50,358692,-64,32,g/n,222,nan,nan,nan,0,6/25/2024 7:31
+aid-jp6-6c63f76d,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.40.42/::,0A:05:61:B2:94:7D,svnet,WAP22_120B-2,4C:B1:CD:36:ED:70,207582638,-66,30,g/n,214,nan,nan,nan,23,6/23/2024 23:05
+aid-jp6-6c78d74f,Unknown,Unknown,Android,172.18.60.25/::,0A:05:61:D1:24:77,svnet,80Upper UAP2,94:BF:C4:31:32:30,180059,-69,27,g/n,224,nan,nan,nan,4,6/25/2024 19:07
+aid-jp6-6c83d11a,Smartphone,Android,Android,172.18.36.49/::,0A:06:D6:F2:F4:E8,svnet,WAP21_120B-1,4C:B1:CD:36:AB:90,1894324,-63,33,g/n,212,nan,nan,nan,25,6/24/2024 21:02
+aid-jp6-6cebebcb,Smartphone,Android,Android,172.18.34.21/::,0A:04:67:50:AC:EF,svnet,WAP14_240D-2,4C:B1:CD:36:AA:D0,36725,-68,28,g/n,211,nan,nan,nan,0,6/24/2024 9:13
+aid-jp6-6d262528,Smartphone,Android,Android,172.18.42.39/::,0A:06:5A:01:4C:C0,svnet,WAP_240C-3,4C:B1:CD:36:9A:30,2966962,-52,44,g/n,215,nan,nan,nan,0,6/25/2024 22:18
+aid-jp6-6d4c1853,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.62.16/::,0A:04:65:A0:3C:A6,svnet,WAP_240B-3,4C:B1:CD:36:AA:D0,247163,-62,34,g/n,225,nan,nan,nan,2,6/25/2024 22:00
+aid-jp6-6d4e50c1,Smartphone,Android,Android,172.18.54.7/::,0A:06:59:14:38:73,svnet,WAP1_Hall,94:BF:C4:31:1B:D0,13999,-56,40,g/n,221,nan,nan,nan,0,6/17/2024 7:25
+aid-jp6-6d543f11,Smartphone,Android,Android,172.18.48.73/::,0A:04:67:C1:BC:EB,svnet,WAP_240A-2,1C:3A:60:03:7E:A0,1801737,-71,25,g/n,218,nan,nan,nan,1,6/24/2024 7:26
+aid-jp6-6d77605b,Unknown,Unknown,Unknown,172.18.48.64/::,0A:06:D6:90:84:D8,svnet,WAP28_60 Bed-4,4C:B1:CD:36:B8:50,1561903,-38,58,g/n,218,nan,nan,nan,0,6/23/2024 10:21
+aid-jp6-6ec79c8b,Smartphone,Android,Android,172.18.52.16/::,0A:04:67:B2:9C:50,svnet,RuckusAP,94:BF:C4:31:32:30,1217571,-49,47,g/n,220,nan,nan,nan,1,6/25/2024 20:54
+aid-jp6-6f297d13,Smartphone,Android,Android,172.18.40.57/::,0A:06:D6:F2:E4:1B,svnet,WAP_240B-3,4C:B1:CD:36:9A:40,554716,-58,38,g/n,214,nan,nan,nan,0,6/25/2024 22:00
+aid-jp6-6f6a1dde,Smartphone,Android,Android,172.18.44.56/::,0A:04:67:14:68:8B,svnet,WAP14_240D-2,4C:B1:CD:36:AA:D0,166653,-42,54,g/n,216,nan,nan,nan,0,6/24/2024 8:39
+aid-jp6-6f857e10,Smartphone,Android,Android,172.18.36.10/::,0A:05:61:E2:AC:77,svnet,RuckusAP,94:BF:C4:31:2B:B0,nan,nan,nan,nan,212,nan,nan,nan,nan,6/25/2024 17:28
+aid-jp6-6f946127,Unknown,Unknown,Unknown,172.18.34.54/::,0A:06:D6:F2:D0:1E,svnet,WAP36_FHU,84:23:88:23:FD:80,27080607,-58,38,a/n,211,nan,nan,nan,0,6/14/2024 7:15
+aid-jp6-6fb26e58,Unknown,Unknown,Unknown,172.18.58.43/::,0A:06:D6:81:F8:76,svnet,Roll Call,1C:3A:60:03:7E:A0,8268,-60,36,g/n,223,nan,nan,nan,0,6/20/2024 8:57
+aid-jp6-70ba96e2,Smartphone,Android,Android,172.18.60.15/::,0A:06:D6:81:F4:2B,svnet,WAP_240C-3,4C:B1:CD:36:AB:60,41382,-68,28,g/n,224,nan,nan,nan,1,6/25/2024 7:40
+aid-jp6-713752d0,Smartphone,Android,Android,172.18.60.73/::,0A:05:61:C1:B0:67,svnet,WAP27_60 Bed-3,4C:B1:CD:36:B8:50,205668,-59,37,g/n,224,nan,nan,nan,0,6/25/2024 20:13
+aid-jp6-71597421,Smartphone,Android,Android,172.18.38.59/::,0A:05:9F:F2:18:48,svnet,WAP27_60 Bed-3,4C:B1:CD:36:B8:50,2546812,-55,41,a/n,213,nan,nan,nan,0,6/24/2024 7:15
+aid-jp6-71af884d,Unknown,Unknown,Unknown,172.18.36.42/::,0A:06:D6:A3:A4:5D,svnet,WAP_240C-1,1C:3A:60:03:7E:A0,4863,-67,29,g/n,212,nan,nan,nan,0,6/24/2024 9:02
+aid-jp6-71ed0bd0,Unknown,Unknown,Android,172.18.42.58/::,0A:04:2A:61:B0:3D,svnet,Roll Call,1C:3A:60:03:7E:A0,369643,-63,33,g/n,215,nan,nan,nan,0,6/13/2024 7:25
+aid-jp6-71f01375,Smartphone,Android,Android,172.18.52.50/::,0A:04:67:82:10:40,svnet,WAP22_120B-2,4C:B1:CD:36:ED:70,1241078,-71,25,g/n,220,nan,nan,nan,5,6/25/2024 22:21
+aid-jp6-72ccf111,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.48.53/::,0A:04:67:A1:38:49,svnet,WAP31_80 Lower 2,1C:3A:60:06:D3:C0,237695306,-46,50,g/n,218,nan,nan,nan,0,6/23/2024 13:09
+aid-jp6-72e727b7,Smartphone,Android,Android,172.18.40.6/::,0A:06:5A:80:EC:49,svnet,WAP_240A-3,4C:B1:CD:36:DC:00,35034,-59,37,g/n,214,nan,nan,nan,0,6/25/2024 22:21
+aid-jp6-72f99d60,Unknown,Unknown,Unknown,172.18.56.49/::,0A:06:D6:A3:F0:CA,svnet,WAP37_Infirmary,1C:3A:60:03:7E:A0,24324,-64,32,g/n,222,nan,nan,nan,0,6/24/2024 20:16
+aid-jp6-731d8ea3,Smartphone,Android,Android,172.18.42.67/::,0A:04:67:12:34:C1,svnet,WAP31_80 Lower 2,94:BF:C4:31:32:30,500054,-70,26,g/n,215,nan,nan,nan,3,6/26/2024 6:08
+aid-jp6-7331efdd,Smartphone,Android,Android,172.18.48.59/::,0A:06:D6:A0:E4:65,svnet,WAP15_240D-3,4C:B1:CD:36:B2:40,269385090,-58,38,g/n,218,nan,nan,nan,38,6/25/2024 7:22
+aid-jp6-73374665,Smartphone,Android,Android,172.18.42.19/::,0A:04:67:A2:AC:BA,svnet,WAP15_240D-3,4C:B1:CD:36:AA:D0,577275,-70,26,g/n,215,nan,nan,nan,12,6/16/2024 22:02
+aid-jp6-7351b86d,Smartphone,Android,Android,172.18.52.65/::,0A:05:9E:04:44:AB,svnet,WAP37_Infirmary,84:23:88:23:FD:80,2259475,-43,53,g/n,220,nan,nan,nan,0,6/23/2024 22:12
+aid-jp6-73c257e4,Smartphone,Android,Android,172.18.34.6/::,0A:05:9F:F3:40:5C,svnet,WAP22_120B-2,4C:B1:CD:36:AB:90,342664,-40,56,a/n,211,nan,nan,nan,0,6/26/2024 4:06
+aid-jp6-73ee353d,Smartphone,Android,Android,172.18.34.8/::,0A:06:D6:42:60:DB,svnet,WAP_240B-1,4C:B1:CD:36:EE:20,6163893,-45,51,g/n,211,nan,nan,nan,114,6/25/2024 22:06
+aid-jp6-740bc320,Smartphone,Android,Android,172.18.32.6/::,0A:06:D6:83:2C:5F,svnet,RuckusAP,94:BF:C4:31:2B:B0,2458844,-54,42,g/n,210,nan,nan,nan,0,6/22/2024 16:10
+aid-jp6-7419f665,Smartphone,Android,Android,172.18.34.13/::,0A:04:67:B1:D0:C1,svnet,WAP13_240D-1,4C:B1:CD:36:B1:F0,531721,-33,63,g/n,211,nan,nan,nan,14,6/23/2024 8:03
+aid-jp6-74b62c5f,Smartphone,Android,Android,172.18.44.62/::,0A:04:67:C1:4C:74,svnet,WAP28_60 Bed-4,4C:B1:CD:36:B8:50,144116,-56,40,a/n,216,nan,nan,nan,0,6/25/2024 22:30
+aid-jp6-74cba53a,Smartphone,Android,Android,172.18.56.23/::,0A:04:67:B2:74:DD,svnet,WAP27_60 Bed-3,4C:B1:CD:36:B8:50,4304,-56,40,g/n,222,nan,nan,nan,0,6/25/2024 22:30
+aid-jp6-74e2ab98,Smartphone,Android,Android,172.18.32.48/::,0A:07:16:82:20:E3,svnet,WAP_240C-3,4C:B1:CD:36:63:E0,126661,-54,42,a/n,210,nan,nan,nan,0,6/16/2024 21:18
+aid-jp6-7500b2bd,Smartphone,Android,Android,172.18.42.41/::,0A:05:62:61:AC:8F,svnet,Roll Call,4C:B1:CD:36:BE:C0,1600413,-44,52,g/n,215,nan,nan,nan,2,6/26/2024 5:51
+aid-jp6-752e3009,Smartphone,Android,Android,172.18.44.46/::,0A:05:9F:F2:74:57,svnet,WAP_240B-1,4C:B1:CD:36:9A:40,2155102,-52,44,g/n,216,nan,nan,nan,2,6/25/2024 23:01
+aid-jp6-752f48e6,Smartphone,Android,Android,172.18.48.23/::,0A:06:D6:A1:68:7F,svnet,WAP_240A-1,4C:B1:CD:36:9A:30,1720243,-71,25,g/n,218,nan,nan,nan,0,6/24/2024 21:13
+aid-jp6-758541b2,Unknown,Unknown,Unknown,172.18.44.11/::,00:08:22:8F:1B:51,svnet,RuckusAP,94:BF:C4:31:2B:B0,1157474,-69,27,g/n,216,nan,nan,nan,0,6/26/2024 4:25
+aid-jp6-75da21b1,Smartphone,Android,Android,172.18.62.25/::,0A:04:67:A1:4C:4B,svnet,WAP_240A-3,4C:B1:CD:36:DC:00,518898,-56,40,g/n,225,nan,nan,nan,0,6/25/2024 22:13
+aid-jp6-75e0c9bb,Smartphone,Android,Android,172.18.42.32/::,0A:06:D6:A2:68:83,svnet,WAP31_80 Lower 1,94:BF:C4:31:32:30,1010080,-65,31,g/n,215,nan,nan,nan,25,6/24/2024 23:39
+aid-jp6-76545a5d,Unknown,Unknown,Unknown,172.18.32.30/::,0A:04:67:A2:CC:27,svnet,WAP_240B-1,4C:B1:CD:36:BE:C0,7510967,-64,32,g/n,210,nan,nan,nan,372,6/25/2024 7:41
+aid-jp6-76b63a60,Smartphone,Android,Android,172.18.38.32/::,0A:06:5C:12:D0:FF,svnet,WAP22_120B-2,4C:B1:CD:36:AB:90,1951417,-36,60,g/n,213,nan,nan,nan,14,6/25/2024 22:09
+aid-jp6-771f886c,Smartphone,Android,Android,172.18.54.36/::,0A:04:26:B0:F0:DE,svnet,WAP_240A-3,4C:B1:CD:36:AB:60,368211,-56,40,g/n,221,nan,nan,nan,0,6/25/2024 21:17
+aid-jp6-7740c2ed,Unknown,Unknown,Unknown,172.18.56.20/::,0A:06:D6:A4:5C:BC,svnet,WAP_240B-3,4C:B1:CD:36:9A:40,2431958,-59,37,g/n,222,nan,nan,nan,0,6/23/2024 12:12
+aid-jp6-777c4cc9,Smartphone,Android,Android,172.18.56.37/::,0A:05:62:54:54:84,svnet,WAP_240B-1,4C:B1:CD:36:9A:40,3771324,-60,36,g/n,222,nan,nan,nan,97,6/25/2024 22:25
+aid-jp6-782c6dd8,Unknown,Unknown,Android,172.18.56.56/::,0A:04:66:60:F5:09,svnet,Roll Call,1C:3A:60:03:7E:A0,7858004,-67,29,g/n,222,nan,nan,nan,17,6/20/2024 5:14
+aid-jp6-78486727,Smartphone,Android,Android,172.18.44.6/::,0A:04:67:53:C8:D5,svnet,RuckusAP,20:58:69:01:B8:70,147292,-43,53,g/n,216,nan,nan,nan,0,6/24/2024 17:46
+aid-jp6-789269e5,Smartphone,Android,Android,172.18.46.16/::,0A:04:67:A2:D4:3C,svnet,WAP_240B-3,4C:B1:CD:36:EE:20,562693,-46,50,g/n,217,nan,nan,nan,0,6/16/2024 18:06
+aid-jp6-793b77dd,Smartphone,Android,Android,172.18.42.25/::,0A:06:5B:72:14:37,svnet,WAP31_80 Lower 1,1C:3A:60:03:4E:90,434182,-64,32,a/n,215,nan,nan,nan,0,6/25/2024 6:28
+aid-jp6-7982a56c,Smartphone,Android,Android,172.18.34.37/::,0A:05:61:F1:74:24,svnet,WAP31_80 Lower 1,1C:3A:60:03:7E:A0,395494,-63,33,g/n,211,nan,nan,nan,0,6/25/2024 21:19
+aid-jp6-799eb89c,Smartphone,Android,Android,172.18.46.41/::,0A:05:62:71:C8:C8,svnet,WAP36_FHU,94:BF:C4:31:32:30,280047,-72,24,g/n,217,nan,nan,nan,0,6/14/2024 7:18
+aid-jp6-79b29d1d,Smartphone,Android,Android,172.18.62.70/::,0A:04:67:A4:18:B8,svnet,WAP21_120B-1,4C:B1:CD:36:AB:90,15674566,-62,34,g/n,225,nan,nan,nan,0,6/25/2024 20:57
+aid-jp6-79dd51a6,Smartphone,Android,Android,172.18.38.55/::,0A:04:67:11:20:7B,svnet,WAP_240C-3,4C:B1:CD:36:63:E0,838053,-68,28,g/n,213,nan,nan,nan,2,6/23/2024 13:00
+aid-jp6-7a0bcd4a,Smartphone,Android,Android,172.18.62.6/::,0A:04:66:60:90:67,svnet,WAP31_80 Lower 1,1C:3A:60:06:D3:C0,572374,-50,46,a/n,225,nan,nan,nan,0,6/26/2024 6:42
+aid-jp6-7a881a21,Smartphone,Android,Android,172.18.50.11/::,0A:07:16:80:D4:B5,svnet,RuckusAP,20:58:69:01:BA:10,22468627,-37,59,nan,219,nan,nan,nan,0,6/23/2024 21:21
+aid-jp6-7acbed6c,Unknown,Unknown,Android,172.18.56.51/::,0A:05:61:E1:A4:44,svnet,80 Upper U-AP1,84:23:88:23:FD:80,1818751,-55,41,a/n,222,nan,nan,nan,0,6/16/2024 21:14
+aid-jp6-7b33859f,Unknown,Unknown,Unknown,172.18.60.36/::,0A:04:67:A4:AC:AE,svnet,WAP31_80 Lower 2,1C:3A:60:03:7E:A0,8517,-68,28,g/n,224,nan,nan,nan,0,6/23/2024 12:19
+aid-jp6-7b9066ff,Smartphone,Android,Android,172.18.56.19/::,0A:04:67:B2:2C:8E,svnet,WAP31_80 Lower 2,1C:3A:60:06:D3:C0,44427173,-35,61,g/n,222,nan,nan,nan,51,6/25/2024 23:16
+aid-jp6-7cc5a461,Smartphone,Android,Android,172.18.32.57/::,0A:04:67:40:24:AE,svnet,WAP31_80 Lower 2,1C:3A:60:03:4E:90,2145623,-50,46,g/n,210,nan,nan,nan,0,6/25/2024 13:26
+aid-jp6-7d1f28c8,Smartphone,Android,Android,172.18.42.38/::,0A:04:67:C1:68:EA,svnet,WAP14_240D-2,4C:B1:CD:36:EE:20,2321960,-37,59,g/n,215,nan,nan,nan,6,6/25/2024 7:53
+aid-jp6-7d8639b3,Smartphone,Android,Android,172.18.58.46/::,0A:07:16:80:48:CC,svnet,Roll Call,1C:3A:60:03:4E:90,2189490,-48,48,g/n,223,nan,nan,nan,0,6/26/2024 6:27
+aid-jp6-7dad421a,Smartphone,Android,Android,172.18.40.12/::,0A:05:62:44:70:5B,svnet,WAP_240B-2,4C:B1:CD:36:EE:20,2461800,-70,26,a/n,214,nan,nan,nan,2,6/25/2024 22:00
+aid-jp6-7daffc6a,Smartphone,Android,Android,172.18.52.36/::,0A:04:2A:62:D4:6F,svnet,WAP_240B-2,4C:B1:CD:36:EE:20,2246696,-42,54,g/n,220,nan,nan,nan,0,6/21/2024 11:41
+aid-jp6-7e02f0a5,Smartphone,Android,Android,172.18.32.51/::,00:08:22:E4:E1:B9,svnet,WAP36_FHU,1C:3A:60:03:7E:A0,203010,-65,31,g/n,210,nan,nan,nan,0,6/17/2024 7:30
+aid-jp6-7e4b3d98,Smartphone,Android,Android,172.18.32.31/::,0A:05:62:41:AC:A6,svnet,WAP_240B-3,4C:B1:CD:36:EE:20,143134,-63,33,g/n,210,nan,nan,nan,4,6/25/2024 23:02
+aid-jp6-7e5dc315,Smartphone,Android,Android,172.18.42.50/::,0A:05:62:33:00:BA,svnet,WAP_240C-3,4C:B1:CD:36:9A:30,3095455,-54,42,g/n,215,nan,nan,nan,1,6/25/2024 7:18
+aid-jp6-7e9f02cc,Smartphone,Android,Android,172.18.62.42/::,0A:05:9F:F4:3C:48,svnet,WAP_240A-3,4C:B1:CD:36:C1:50,1000894,-64,32,g/n,225,nan,nan,nan,12,6/25/2024 21:25
+aid-jp6-7f739d12,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.50.53/::,0A:04:67:43:BC:62,svnet,RuckusAP,4C:B1:CD:36:DC:70,94717645,-38,58,g/n,219,nan,nan,nan,0,6/25/2024 21:21
+aid-jp6-7fac9b3b,Smartphone,Android,Android,172.18.32.51/::,0A:04:65:A0:DC:EB,svnet,WAP22_120B-2,4C:B1:CD:36:ED:70,18651408,-68,28,g/n,210,nan,nan,nan,11,6/25/2024 23:07
+aid-jp6-80fc6393,Smartphone,Android,Android,172.18.62.6/::,0A:06:5A:00:24:A0,svnet,RuckusAP,94:BF:C4:31:2B:B0,2152223,-64,32,g/n,225,nan,nan,nan,0,6/25/2024 19:22
+aid-jp6-81378529,Smartphone,Android,Android,172.18.36.43/::,0A:06:D6:92:98:B7,svnet,WAP31_80 Lower 2,1C:3A:60:03:7E:A0,75919,-57,39,g/n,212,nan,nan,nan,0,6/26/2024 6:03
+aid-jp6-817a2277,Smartphone,Android,Android,172.18.34.8/::,0A:05:61:D3:84:A1,svnet,RuckusAP,94:BF:C4:31:2B:B0,2757232,-42,54,g/n,211,nan,nan,nan,2,6/24/2024 19:45
+aid-jp6-81b0e5a9,Smartphone,Android,Android,172.18.46.51/::,0A:05:61:D2:C8:0C,svnet,WAP_240B-1,4C:B1:CD:36:EE:20,126715,-47,49,g/n,217,nan,nan,nan,4,6/26/2024 1:42
+aid-jp6-81f46ea4,Smartphone,Android,Android,172.18.48.45/::,0A:06:98:52:F4:50,svnet,WAP15_240D-3,4C:B1:CD:36:B2:40,142518,-70,26,g/n,218,nan,nan,nan,1,6/23/2024 11:57
+aid-jp6-81fe89dc,Smartphone,Android,Android,172.18.44.41/::,0A:07:16:83:08:D1,svnet,WAP13_240D-1,4C:B1:CD:36:B1:F0,1615518,-58,38,g/n,216,nan,nan,nan,1,6/26/2024 0:16
+aid-jp6-8238b9d8,Unknown,Unknown,Unknown,172.18.32.40/::,0A:06:D6:F1:B8:50,svnet,WAP_240B-3,4C:B1:CD:36:BE:C0,44220627,-68,28,g/n,210,nan,nan,nan,2983,6/25/2024 22:01
+aid-jp6-826274db,Unknown,Unknown,Unknown,172.18.36.32/::,0A:05:61:D2:55:1F,svnet,WAP_240B-3,1C:3A:60:03:7E:A0,28570,-64,32,g/n,212,nan,nan,nan,0,6/25/2024 22:04
+aid-jp6-82915420,Smartphone,Android,Android,172.18.58.18/::,0A:05:62:43:30:53,svnet,Roll Call,1C:3A:60:03:7E:A0,11568084,-69,27,g/n,223,nan,nan,nan,43,6/17/2024 6:53
+aid-jp6-82e4a215,Smartphone,Android,Android,172.18.50.27/::,0A:05:60:11:30:BA,svnet,WAP15_240D-3,4C:B1:CD:36:BE:C0,376656,-63,33,nan,219,nan,nan,nan,0,6/24/2024 8:01
+aid-jp6-83781e19,Unknown,Unknown,Android,172.18.34.56/::,0A:06:D6:93:EC:DE,svnet,WAP_240C-3,1C:3A:60:03:7E:A0,239211,-63,33,g/n,211,nan,nan,nan,0,6/24/2024 22:22
+aid-jp6-8382fa50,Unknown,Unknown,Unknown,172.18.58.29/::,0A:04:67:A3:64:C0,svnet,WAP31_80 Lower 2,1C:3A:60:06:D3:C0,5816318,-40,56,g/n,223,nan,nan,nan,3,6/25/2024 12:43
+aid-jp6-83b4b2f5,Smartphone,Android,Android,172.18.42.57/::,0A:06:D6:F1:54:E7,svnet,WAP22_120B-2,4C:B1:CD:36:AB:90,2402253,-56,40,g/n,215,nan,nan,nan,0,6/26/2024 0:51
+aid-jp6-8427ca43,Smartphone,Android,Android,172.18.60.12/::,0A:06:D6:43:E4:E1,svnet,WAP_240B-1,4C:B1:CD:36:EE:20,3122659,-73,23,g/n,224,nan,nan,nan,235,6/24/2024 7:55
+aid-jp6-84586d01,Unknown,Unknown,Unknown,172.18.48.28/::,0A:06:D6:92:AC:3E,svnet,WAP14_240D-2,4C:B1:CD:36:AA:D0,110803,-61,35,g/n,218,nan,nan,nan,0,6/24/2024 9:25
+aid-jp6-84819378,Unknown,Unknown,Unknown,172.18.56.17/::,0A:05:62:12:00:9C,svnet,WAP27_60 Bed-3,4C:B1:CD:36:DC:70,382609,-54,42,g/n,222,nan,nan,nan,0,6/25/2024 21:11
+aid-jp6-852b19bf,Unknown,Unknown,Android,172.18.58.27/::,0A:04:67:B0:44:82,svnet,WAP14_240D-2,4C:B1:CD:36:B1:F0,285995,-57,39,g/n,223,nan,nan,nan,3,6/24/2024 8:00
+aid-jp6-855c98fc,Smartphone,Android,Android,172.18.38.50/::,0A:05:62:41:3C:C8,svnet,80 Upper U-AP1,84:23:88:23:FD:80,4255456,-55,41,a/n,213,nan,nan,nan,0,6/24/2024 8:39
+aid-jp6-85854e3d,Smartphone,Android,Android,172.18.50.31/::,0A:06:5A:81:48:78,svnet,WAP_240B-2,4C:B1:CD:36:9A:40,5756983,-59,37,g/n,219,nan,nan,nan,112,6/25/2024 22:24
+aid-jp6-85d261ed,Smartphone,Android,Android,172.18.56.6/::,0A:06:5A:81:2C:75,svnet,WAP2_Central Control Rm,20:58:69:0A:7A:D0,13974870,-47,49,g/n,222,nan,nan,nan,0,6/9/2024 10:04
+aid-jp6-85e50a9d,Smartphone,Android,Android,172.18.46.52/::,0A:04:66:63:28:D6,svnet,WAP36_FHU,4C:B1:CD:36:DC:70,229664,-52,44,a/n,217,nan,nan,nan,0,6/21/2024 7:07
+aid-jp6-861cdd85,Smartphone,Android,Android,172.18.58.34/::,0A:04:67:41:E4:74,svnet,80 Upper U-AP1,1C:3A:60:03:7E:A0,2872454,-60,36,g/n,223,nan,nan,nan,6,6/24/2024 18:03
+aid-jp6-8637592d,Smartphone,Android,Android,172.18.50.8/::,0A:04:67:53:E0:DC,svnet,WAP15_240D-3,4C:B1:CD:36:B1:F0,41696,-57,39,g/n,219,nan,nan,nan,0,6/24/2024 9:41
+aid-jp6-867a3905,Smartphone,Android,Android,172.18.46.24/::,0A:04:65:A0:60:CB,svnet,WAP_240A-3,4C:B1:CD:36:C1:50,403804,-63,33,g/n,217,nan,nan,nan,0,6/25/2024 22:25
+aid-jp6-86f64d6b,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.32.14/::,0A:06:59:11:EC:4C,svnet,WAP_240C-1,4C:B1:CD:36:B2:40,71150910,-59,37,g/n,210,nan,nan,nan,0,6/26/2024 6:32
+aid-jp6-870b1609,Unknown,Unknown,Android,172.18.54.33/::,0A:05:62:13:30:87,svnet,WAP_240B-2,4C:B1:CD:36:EE:20,2019858,-36,60,g/n,221,nan,nan,nan,0,6/25/2024 22:50
+aid-jp6-8755ff45,Smartphone,Android,Android,172.18.52.28/::,0A:04:67:51:C1:0A,svnet,WAP_240C-3,4C:B1:CD:36:9A:30,2468246,-60,36,g/n,220,nan,nan,nan,3,6/25/2024 0:05
+aid-jp6-87a07d4d,Smartphone,Android,Android,172.18.34.39/::,0A:05:62:10:D4:4C,svnet,WAP36_FHU,4C:B1:CD:36:C1:50,377856,-54,42,g/n,211,nan,nan,nan,0,6/26/2024 5:11
+aid-jp6-88149521,Unknown,Unknown,Unknown,172.18.52.60/::,0A:06:5A:80:74:88,svnet,80 Upper U-AP1,84:23:88:23:FD:80,4669118,-56,40,a/n,220,nan,nan,nan,0,6/25/2024 19:42
+aid-jp6-887656ba,Smartphone,Android,Android,172.18.42.54/::,0A:05:9F:F4:54:5C,svnet,WAP27_60 Bed-3,4C:B1:CD:36:B8:50,1945830,-42,54,a/n,215,nan,nan,nan,0,6/25/2024 23:42
+aid-jp6-88d81e52,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.60.41/::,0A:04:67:B2:68:09,svnet,80 Upper U-AP1,84:23:88:23:FD:80,33289817,-58,38,a/n,224,nan,nan,nan,0,6/24/2024 18:22
+aid-jp6-89ac5a28,Smartphone,Android,Android,172.18.32.10/::,0A:06:98:53:68:5D,svnet,RuckusAP,94:BF:C4:31:2B:B0,2043185,-49,47,g/n,210,nan,nan,nan,3,6/25/2024 20:46
+aid-jp6-89cd161d,Smartphone,Android,Android,172.18.48.56/::,0A:06:5A:03:0C:DF,svnet,WAP_240B-1,4C:B1:CD:36:BE:C0,2194373,-65,31,g/n,218,nan,nan,nan,26,6/25/2024 22:05
+aid-jp6-89de2fec,Smartphone,Android,Android,172.18.42.28/::,0A:05:62:71:84:5E,svnet,WAP_240B-1,4C:B1:CD:36:EE:20,175746179,-69,27,g/n,215,nan,nan,nan,247,6/24/2024 9:32
+aid-jp6-89e615fe,Unknown,Unknown,Android,172.18.52.55/::,0A:04:67:A2:10:8E,svnet,WAP_240B-1,94:BF:C4:31:32:30,3836525,-70,26,g/n,220,nan,nan,nan,46,6/24/2024 8:49
+aid-jp6-8a019572,Unknown,Unknown,Unknown,172.18.50.7/::,0A:05:9F:F3:B4:27,svnet,WAP_240A-2,4C:B1:CD:36:9A:30,901000,-68,28,g/n,219,nan,nan,nan,0,6/25/2024 23:08
+aid-jp6-8a31c65e,Smartphone,Android,Android,172.18.38.47/::,0A:06:59:11:68:69,svnet,WAP21_120B-1,4C:B1:CD:36:AB:90,507094,-64,32,g/n,213,nan,nan,nan,3,6/24/2024 7:27
+aid-jp6-8a6a2484,Smartphone,Android,Android,172.18.36.9/::,0A:05:9F:F2:D4:2D,svnet,WAP31_80 Lower 1,1C:3A:60:03:4E:90,118038,-61,35,a/n,212,nan,nan,nan,0,6/14/2024 9:12
+aid-jp6-8aeb89b8,Smartphone,Android,Android,172.18.46.42/::,0A:06:5A:01:20:FA,svnet,WAP27_60 Bed-3,4C:B1:CD:36:B8:50,18045402,-52,44,g/n,217,nan,nan,nan,0,6/26/2024 5:15
+aid-jp6-8afa9fe1,Smartphone,Android,Android,172.18.58.7/::,0A:06:D6:A0:DC:85,svnet,RuckusAP,94:BF:C4:31:2B:B0,1809956,-73,23,g/n,223,nan,nan,nan,0,6/25/2024 21:13
+aid-jp6-8b1b8262,Unknown,Unknown,Generic_Android wv/Android 8.1.0,172.18.58.49/::,0A:06:D6:92:54:62,svnet,WAP27_60 Bed-3,4C:B1:CD:36:DC:70,2301230,-59,37,g/n,223,nan,nan,nan,0,6/25/2024 23:06
+aid-jp6-8b2ec79f,Smartphone,Android,Android,172.18.40.19/::,0A:04:67:B2:98:26,svnet,WAP31_80 Lower 1,1C:3A:60:06:D3:C0,438586,-53,43,a/n,214,nan,nan,nan,0,6/24/2024 22:18
+aid-jp6-8b4610b4,Smartphone,Android,Android,172.18.36.30/::,0A:06:D6:F2:1C:1F,svnet,WAP21_120B-1,4C:B1:CD:36:EE:20,2509068,-69,27,g/n,212,nan,nan,nan,6,6/25/2024 20:38
+aid-jp6-8b9beef1,Smartphone,Android,Android,172.18.54.22/::,0A:05:62:72:80:38,svnet,WAP_240C-3,4C:B1:CD:36:9A:30,486773,-41,55,g/n,221,nan,nan,nan,0,6/24/2024 23:18
+aid-jp6-8c1933c9,Smartphone,Android,Android,172.18.44.7/::,0A:05:61:E2:44:11,svnet,WAP_240B-3,4C:B1:CD:36:BE:C0,385604,-63,33,g/n,216,nan,nan,nan,5,6/25/2024 22:00
+aid-jp6-8c5d0c82,Smartphone,Android,Android,172.18.56.8/::,0A:06:D6:92:BC:9C,svnet,WAP15_240D-3,4C:B1:CD:36:B2:40,337068,-57,39,g/n,222,nan,nan,nan,0,6/24/2024 22:52
+aid-jp6-8cc65cb1,Smartphone,Android,Android,172.18.60.39/::,0A:05:9F:F3:78:5C,svnet,Roll Call,1C:3A:60:03:7E:A0,17206,-54,42,g/n,224,nan,nan,nan,0,6/21/2024 12:53
+aid-jp6-8d1dedf4,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.56.60/::,0A:04:26:B3:68:DD,svnet,WAP28_60 Bed-4,4C:B1:CD:36:DC:70,8339,-67,29,g/n,222,nan,nan,nan,0,6/12/2024 19:57
+aid-jp6-8d22ab4a,Unknown,Unknown,Unknown,172.18.46.82/::,0A:05:62:74:50:85,svnet,WAP_240A-1,4C:B1:CD:36:DC:00,12775173,-59,37,nan,217,nan,nan,nan,9,6/25/2024 23:08
+aid-jp6-8dda16d7,Smartphone,Android,Android,172.18.54.40/::,0A:04:67:B2:A8:28,svnet,WAP28_60 Bed-4,4C:B1:CD:36:B8:50,374774,-56,40,a/n,221,nan,nan,nan,0,6/24/2024 8:24
+aid-jp6-8e1c1fdd,Smartphone,Android,Android,172.18.40.10/::,0A:04:67:B1:74:B1,svnet,WAP2_Central Control Rm,20:58:69:0A:7A:D0,3321254,-49,47,g/n,214,nan,nan,nan,0,6/24/2024 15:47
+aid-jp6-8e2a1408,Smartphone,Android,Android,172.18.50.35/::,0A:04:67:53:70:73,svnet,80 Upper U-AP1,84:23:88:23:FD:80,2194904,-58,38,a/n,219,nan,nan,nan,0,6/13/2024 2:05
+aid-jp6-8eb3753b,Smartphone,Android,Android,172.18.46.12/::,0A:04:67:44:20:8D,svnet,RuckusAP,94:BF:C4:31:2B:B0,2313098,-73,23,g/n,217,nan,nan,nan,0,6/25/2024 21:33
+aid-jp6-8edbf0f8,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.50.22/::,0A:04:65:A3:C0:CC,svnet,80 Upper U-AP1,84:23:88:23:FD:80,143515315,-51,45,a/n,219,nan,nan,nan,0,6/25/2024 21:26
+aid-jp6-8ee616a3,Smartphone,Android,Android,172.18.46.71/::,0A:04:27:F3:D8:2D,svnet,WAP31_80 Lower 2,1C:3A:60:03:4E:90,3244923,-64,32,a/n,217,nan,nan,nan,0,6/25/2024 23:08
+aid-jp6-8efdc3f1,Smartphone,Android,Android,172.18.34.64/::,0A:04:67:C1:A1:11,svnet,80 Upper U-AP1,C8:08:73:32:90:B0,5501097,-47,49,a/n,211,nan,nan,nan,0,6/24/2024 22:12
+aid-jp6-8f111910,Smartphone,Android,Android,172.18.54.14/::,0A:06:5A:03:3C:9E,svnet,WAP14_240D-2,4C:B1:CD:36:AA:D0,12385993,-63,33,g/n,221,nan,nan,nan,46,6/24/2024 22:31
+aid-jp6-8f47b1e5,Smartphone,Android,Android,172.18.34.48/::,0A:06:98:51:60:41,svnet,WAP31_80 Lower 1,1C:3A:60:06:D3:C0,1658917,-53,43,a/n,211,nan,nan,nan,0,6/25/2024 23:45
+aid-jp6-8f825a72,Smartphone,Android,Android,172.18.40.51/::,0A:05:9F:F3:88:18,svnet,WAP22_120B-2,4C:B1:CD:36:AB:90,44442,-63,33,a/n,214,nan,nan,nan,0,6/25/2024 7:29
+aid-jp6-8f985bf1,Smartphone,Android,Android,172.18.46.9/::,0A:04:67:A2:4C:30,svnet,WAP_240A-3,4C:B1:CD:36:DC:00,330605,-57,39,g/n,217,nan,nan,nan,0,6/25/2024 21:31
+aid-jp6-8fccdabc,Unknown,Unknown,Android,172.18.32.15/::,0A:04:67:12:4C:6F,svnet,WAP27_60 Bed-3,4C:B1:CD:36:B8:50,6098521,-63,33,g/n,210,nan,nan,nan,23,6/25/2024 21:29
+aid-jp6-8ff5da4b,Unknown,Unknown,Android,172.18.38.6/::,0A:06:5B:81:D4:5D,svnet,WAP27_60 Bed-3,4C:B1:CD:36:B8:50,53953,-69,27,g/n,213,nan,nan,nan,0,6/25/2024 23:11
+aid-jp6-903f46f5,Smartphone,Android,Android,172.18.36.33/::,0A:06:D6:50:FC:48,svnet,WAP22_120B-2,4C:B1:CD:36:AB:90,2097135,-41,55,g/n,212,nan,nan,nan,4,6/23/2024 21:27
+aid-jp6-90789d6b,Smartphone,Android,Android,172.18.52.74/::,0A:04:67:42:DC:8E,svnet,WAP21_120B-1,4C:B1:CD:36:ED:70,2730106,-59,37,g/n,220,nan,nan,nan,9,6/25/2024 20:51
+aid-jp6-908729a9,Unknown,Unknown,Unknown,172.18.34.36/::,0A:04:67:B0:7C:D2,svnet,WAP27_60 Bed-3,4C:B1:CD:36:DC:70,2665018,-59,37,g/n,211,nan,nan,nan,0,6/25/2024 20:38
+aid-jp6-909660aa,Smartphone,Android,Android,172.18.62.8/::,0A:04:67:C2:DC:86,svnet,WAP22_120B-2,4C:B1:CD:36:ED:70,1273052,-81,15,a/n,225,nan,nan,nan,377,6/25/2024 23:11
+aid-jp6-90e4f074,Smartphone,Android,Android,172.18.34.57/::,0A:05:61:D2:94:7A,svnet,WAP31_80 Lower 2,1C:3A:60:03:7E:A0,38307,-67,29,g/n,211,nan,nan,nan,0,6/25/2024 20:59
+aid-jp6-911e7e41,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.38.70/::,0A:05:61:B0:F0:51,svnet,WAP21_120B-1,4C:B1:CD:36:ED:70,8255544,-41,55,g/n,213,nan,nan,nan,3,6/25/2024 7:53
+aid-jp6-916d84e5,Smartphone,Android,Android,172.18.38.45/::,0A:06:5C:13:18:DC,svnet,WAP13_240D-1,4C:B1:CD:36:B2:40,120835,-71,25,a/n,213,nan,nan,nan,0,6/23/2024 11:33
+aid-jp6-91703564,Smartphone,Android,Android,172.18.34.20/::,0A:04:67:43:6C:A6,svnet,WAP28_60 Bed-4,4C:B1:CD:36:B8:50,1108172,-70,26,g/n,211,nan,nan,nan,0,6/25/2024 7:49
+aid-jp6-9190be61,Unknown,Unknown,Android,172.18.56.16/::,0A:05:62:74:68:AB,svnet,WAP_240A-3,4C:B1:CD:36:C1:50,22939,-74,22,a/n,222,nan,nan,nan,0,6/25/2024 23:08
+aid-jp6-91a632fa,Smartphone,Android,Android,172.18.48.36/::,0A:04:66:62:70:A6,svnet,WAP31_80 Lower 1,1C:3A:60:03:4E:90,117628,-51,45,a/n,218,nan,nan,nan,0,6/26/2024 6:12
+aid-jp6-91a64732,Unknown,Unknown,Unknown,172.18.42.48/::,0A:04:67:42:70:99,svnet,WAP31_80 Lower 1,1C:3A:60:06:D3:C0,2487289,-44,52,a/n,215,nan,nan,nan,0,6/25/2024 22:25
+aid-jp6-91ef937b,Smartphone,Android,Android,172.18.42.37/::,0A:06:D6:82:18:78,svnet,WAP13_240D-1,4C:B1:CD:36:B2:40,105633,-59,37,g/n,215,nan,nan,nan,0,6/24/2024 9:26
+aid-jp6-9293d427,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.52.42/::,0A:05:62:44:30:74,svnet,80Upper UAP2,84:23:88:23:FD:80,41793524,-55,41,a/n,220,nan,nan,nan,0,6/25/2024 20:32
+aid-jp6-92bb6e37,Smartphone,Android,Android,172.18.38.6/::,0A:06:5C:14:24:CF,svnet,RuckusAP,20:58:69:01:A5:D0,7091841,-46,50,g/n,213,nan,nan,nan,0,6/21/2024 12:32
+aid-jp6-92d48972,Smartphone,Android,Android,172.18.48.24/::,0A:06:D6:F0:B4:72,svnet,WAP_240B-3,4C:B1:CD:36:EE:20,34601152,-75,21,g/n,218,nan,nan,nan,899,6/25/2024 21:14
+aid-jp6-9383efc1,Smartphone,Android,Android,172.18.62.69/::,0A:04:66:73:10:AA,svnet,80 Upper U-AP1,1C:3A:60:03:7E:A0,87308939,-66,30,g/n,225,nan,nan,nan,64,6/25/2024 14:45
+aid-jp6-93b317fd,Smartphone,Android,Android,172.18.38.24/::,0A:06:98:53:90:73,svnet,WAP14_240D-2,4C:B1:CD:36:EE:20,2318720,-56,40,g/n,213,nan,nan,nan,4,6/24/2024 22:21
+aid-jp6-93e4c90a,Smartphone,Android,Android,172.18.48.65/::,0A:05:62:12:B0:0B,svnet,WAP22_120B-2,4C:B1:CD:36:ED:70,2096449,-57,39,g/n,218,nan,nan,nan,13,6/25/2024 0:42
+aid-jp6-94389761,Unknown,Unknown,Unknown,172.18.44.36/::,0A:04:67:54:1C:8C,svnet,WAP_240A-3,94:BF:C4:31:2F:F0,58762244,-76,20,g/n,216,nan,nan,nan,670,6/25/2024 22:24
+aid-jp6-9540a0f5,Unknown,Unknown,Android,172.18.60.43/::,0A:05:62:41:AC:C6,svnet,80 Upper U-AP1,84:23:88:23:FD:80,104269520,-57,39,a/n,224,nan,nan,nan,0,6/19/2024 17:22
+aid-jp6-95f4cd57,Smartphone,Android,Android,172.18.50.29/::,0A:04:67:13:78:25,svnet,WAP21_120B-1,4C:B1:CD:36:ED:70,1949048,-58,38,g/n,219,nan,nan,nan,91,6/25/2024 7:48
+aid-jp6-96038d14,Smartphone,Android,Android,172.18.50.46/::,0A:04:67:A1:38:DA,svnet,WAP28_60 Bed-4,1C:3A:60:03:7E:A0,27333,-65,31,g/n,219,nan,nan,nan,0,6/25/2024 20:34
+aid-jp6-9646d699,Smartphone,Android,Android,172.18.44.48/::,0A:04:67:A3:B8:A8,svnet,WAP_240B-3,1C:3A:60:03:7E:A0,12168353,-68,28,g/n,216,nan,nan,nan,22,6/25/2024 22:25
+aid-jp6-9656f4d0,Smartphone,Android,Android,172.18.62.59/::,0A:05:62:10:D8:AA,svnet,Roll Call,1C:3A:60:03:7E:A0,2476049,-65,31,g/n,225,nan,nan,nan,10,6/25/2024 4:56
+aid-jp6-96593145,Smartphone,Android,Android,172.18.48.30/::,0A:04:67:B1:00:BA,svnet,Roll Call,1C:3A:60:03:7E:A0,6385230,-72,24,g/n,218,nan,nan,nan,0,6/21/2024 12:30
+aid-jp6-96995943,Smartphone,Android,Android,172.18.36.10/::,0A:04:66:62:84:A0,svnet,WAP_240B-1,4C:B1:CD:36:EE:20,11903956,-40,56,g/n,212,nan,nan,nan,143,6/25/2024 23:00
+aid-jp6-96e71e75,Smartphone,Android,Android,172.18.54.38/::,0A:05:61:B4:7C:C8,svnet,WAP22_120B-2,1C:3A:60:03:7E:A0,15193,-77,19,a/n,221,nan,nan,nan,0,6/25/2024 22:54
+aid-jp6-9722cd38,Smartphone,Android,Android,172.18.54.46/::,0A:06:D6:F1:04:CB,svnet,WAP31_80 Lower 1,1C:3A:60:06:D3:C0,2868803,-51,45,a/n,221,nan,nan,nan,0,6/24/2024 22:57
+aid-jp6-97572293,Smartphone,Android,Android,172.18.60.18/::,0A:06:5B:63:18:27,svnet,WAP14_240D-2,4C:B1:CD:36:B2:40,116691,-66,30,g/n,224,nan,nan,nan,0,6/24/2024 9:08
+aid-jp6-97cdc577,Unknown,Unknown,Unknown,172.18.60.10/::,0A:06:D6:90:80:C5,svnet,WAP_240A-2,4C:B1:CD:36:DC:00,171035,-66,30,g/n,224,nan,nan,nan,3,6/26/2024 3:24
+aid-jp6-97ce09f8,Smartphone,Android,Android,172.18.52.44/::,0A:06:98:51:CC:63,svnet,WAP_240C-1,4C:B1:CD:36:9A:30,4048,-68,28,g/n,220,nan,nan,nan,0,6/21/2024 12:47
+aid-jp6-9806eccb,Smartphone,Android,Android,172.18.60.37/::,0A:05:61:D2:28:9B,svnet,WAP_240C-1,4C:B1:CD:36:B1:50,12694865,-46,50,g/n,224,nan,nan,nan,0,6/25/2024 7:54
+aid-jp6-98152ab0,Smartphone,Android,Android,172.18.38.31/::,0A:05:62:54:18:B4,svnet,WAP_240B-1,4C:B1:CD:36:EE:20,0,0,0,a/n,213,nan,nan,nan,0,6/25/2024 23:07
+aid-jp6-989b7afc,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.52.9/::,0A:05:61:B1:BC:78,svnet,WAP_240A-2,4C:B1:CD:36:C1:50,1114696,-59,37,g/n,220,nan,nan,nan,2,6/25/2024 22:22
+aid-jp6-98ed43c5,Smartphone,Android,Android,172.18.54.24/::,0A:06:59:11:1C:72,svnet,80 Upper U-AP1,C8:08:73:32:90:B0,819231,-58,38,a/n,221,nan,nan,nan,0,6/13/2024 18:11
+aid-jp6-99697a4c,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.56.47/::,0A:04:67:14:70:93,svnet,WAP_240C-3,4C:B1:CD:36:B1:50,2080831,-68,28,g/n,222,nan,nan,nan,1,6/25/2024 23:23
+aid-jp6-9999f28b,Smartphone,Android,Android,172.18.60.10/::,0A:04:67:12:C4:27,svnet,RuckusAP,94:BF:C4:31:2B:B0,2565424,-62,34,g/n,224,nan,nan,nan,2,6/25/2024 16:23
+aid-jp6-99ca1860,Smartphone,Android,Android,172.18.50.51/::,0A:05:9F:F1:EC:28,svnet,WAP_240B-1,4C:B1:CD:36:BE:C0,1978884,-67,29,g/n,219,nan,nan,nan,7,6/12/2024 23:44
+aid-jp6-99dbbb56,Smartphone,Android,Android,172.18.48.19/::,0A:06:D6:44:1C:DC,svnet,WAP_240A-2,4C:B1:CD:36:C1:50,569379,-64,32,g/n,218,nan,nan,nan,10,6/25/2024 22:22
+aid-jp6-9aa19352,Smartphone,Android,Android,172.18.44.60/::,0A:05:9F:F2:48:24,svnet,WAP15_240D-3,4C:B1:CD:36:EE:20,2160115,-61,35,g/n,216,nan,nan,nan,0,6/23/2024 12:30
+aid-jp6-9b2ee72a,Smartphone,Android,Android,172.18.50.42/::,0A:04:67:53:51:15,svnet,WAP_240C-3,4C:B1:CD:36:9A:30,2459930,-50,46,g/n,219,nan,nan,nan,0,6/24/2024 21:39
+aid-jp6-9b3bd71d,Unknown,Unknown,Unknown,172.18.46.12/::,0A:04:67:A1:68:2C,svnet,WAP_240C-2,4C:B1:CD:36:AB:60,1297365,-57,39,g/n,217,nan,nan,nan,0,6/24/2024 21:37
+aid-jp6-9bd4842c,Smartphone,Android,Android,172.18.52.8/::,0A:06:5B:81:C0:D3,svnet,WAP_240A-3,4C:B1:CD:36:C1:50,188793,-56,40,g/n,220,nan,nan,nan,0,6/25/2024 22:54
+aid-jp6-9c1ba9a9,Unknown,Unknown,Unknown,172.18.46.72/::,0A:05:61:E3:88:C2,svnet,80 Upper U-AP1,84:23:88:23:FD:80,340141475,-48,48,a/n,217,nan,nan,nan,0,6/24/2024 18:03
+aid-jp6-9c4d063b,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.56.25/::,0A:06:D6:52:F4:46,svnet,WAP_240A-3,4C:B1:CD:36:C1:50,275026846,-66,30,g/n,222,nan,nan,nan,437,6/25/2024 22:32
+aid-jp6-9cb5d9f6,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.58.10/::,0A:05:60:F1:88:A4,svnet,RuckusAP,94:BF:C4:31:2B:B0,2722910,-59,37,g/n,223,nan,nan,nan,0,6/24/2024 9:21
+aid-jp6-9d27f8ca,Smartphone,Android,Android,172.18.60.34/::,0A:05:61:D3:DC:57,svnet,80 Upper U-AP1,C8:08:73:32:90:B0,1210752730,-36,60,g/n,224,nan,nan,nan,51,6/25/2024 10:27
+aid-jp6-9d2e9d6f,Smartphone,Android,Android,172.18.46.90/::,0A:05:61:E1:FC:0E,svnet,WAP36_FHU,84:23:88:23:FD:80,66493854,-45,51,g/n,217,nan,nan,nan,2,6/26/2024 6:09
+aid-jp6-9d9d5714,Unknown,Unknown,Unknown,172.18.48.6/::,0A:05:9F:F3:0C:0D,svnet,WAP15_240D-3,4C:B1:CD:36:AA:D0,nan,nan,nan,nan,218,nan,nan,nan,nan,6/23/2024 13:51
+aid-jp6-9d9f4600,Smartphone,Android,Android,172.18.52.48/::,0A:06:5C:12:F4:2C,svnet,WAP15_240D-3,4C:B1:CD:36:EE:20,3843510,-60,36,g/n,220,nan,nan,nan,54,6/24/2024 8:58
+aid-jp6-9db8a070,Smartphone,Android,Android,172.18.42.20/::,0A:04:67:B4:10:BB,svnet,WAP21_120B-1,4C:B1:CD:36:AB:90,374096,-58,38,g/n,215,nan,nan,nan,0,6/25/2024 20:36
+aid-jp6-9dd36333,Smartphone,Android,Android,172.18.46.76/::,0A:05:61:E2:B4:97,svnet,Roll Call,1C:3A:60:03:7E:A0,84949,-70,26,g/n,217,nan,nan,nan,3,6/21/2024 12:33
+aid-jp6-9e111eb4,Smartphone,Android,Android,172.18.54.8/::,0A:05:61:D4:94:90,svnet,WAP2_Central Control Rm,20:58:69:0A:7A:D0,3873449,-52,44,g/n,221,nan,nan,nan,0,6/12/2024 8:36
+aid-jp6-9e2fd88f,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.48.46/::,0A:06:D6:51:F0:58,svnet,WAP_240B-3,4C:B1:CD:36:EE:20,34744694,-60,36,g/n,218,nan,nan,nan,12,6/25/2024 22:58
+aid-jp6-9e7df83f,Unknown,Unknown,Unknown,172.18.46.8/::,0A:04:67:84:60:90,svnet,WAP27_60 Bed-3,4C:B1:CD:36:DC:70,425225,-73,23,g/n,217,nan,nan,nan,0,6/25/2024 21:29
+aid-jp6-9f365b70,Smartphone,Android,Android,172.18.54.19/::,0A:05:9F:F2:C8:12,svnet,WAP27_60 Bed-3,4C:B1:CD:36:DC:70,2715881,-66,30,g/n,221,nan,nan,nan,0,6/26/2024 0:36
+aid-jp6-9f671f3f,Smartphone,Android,Android,172.18.52.40/::,0A:04:67:A3:50:B1,svnet,WAP_240C-3,4C:B1:CD:36:9A:30,1443372,-68,28,g/n,220,nan,nan,nan,0,6/25/2024 23:25
+aid-jp6-9f7cbc8f,Smartphone,Android,Android,172.18.48.44/::,0A:04:67:B1:04:55,svnet,WAP_240C-2,4C:B1:CD:36:DC:00,390116,-56,40,g/n,218,nan,nan,nan,0,6/26/2024 3:15
+aid-jp6-9ff695e2,Smartphone,Android,Android,172.18.50.19/::,0A:05:62:02:DC:6F,svnet,WAP_240A-3,4C:B1:CD:36:C1:50,2506745,-64,32,g/n,219,nan,nan,nan,8,6/26/2024 0:41
+aid-jp6-a004e002,Smartphone,Android,Android,172.18.46.38/::,0A:04:67:B4:7C:94,svnet,WAP31_80 Lower 2,1C:3A:60:03:4E:90,6945838,-44,52,g/n,217,nan,nan,nan,2,6/25/2024 7:17
+aid-jp6-a019f525,Unknown,Unknown,Android,172.18.38.26/::,0A:04:67:B2:48:EF,svnet,WAP21_120B-1,4C:B1:CD:36:AB:90,273634,-58,38,a/n,213,nan,nan,nan,0,6/25/2024 21:25
+aid-jp6-a0da7957,Smartphone,Android,Android,172.18.46.7/::,0A:06:D6:83:6C:7E,svnet,WAP2_Central Control Rm,20:58:69:0A:7A:D0,4410666,-61,35,g/n,217,nan,nan,nan,0,6/21/2024 9:40
+aid-jp6-a0eae9f1,Smartphone,Android,Android,172.18.50.11/::,0A:04:67:11:50:79,svnet,WAP22_120B-2,4C:B1:CD:36:ED:70,16012,-74,22,g/n,219,nan,nan,nan,0,6/25/2024 0:59
+aid-jp6-a0eea0c9,Smartphone,Android,Android,172.18.38.27/::,0A:06:D6:91:10:2C,svnet,WAP_240B-1,4C:B1:CD:36:BE:C0,254533,-60,36,g/n,213,nan,nan,nan,19,6/26/2024 1:34
+aid-jp6-a13b0822,Smartphone,Android,Android,172.18.36.8/::,0A:05:62:12:FC:F7,svnet,WAP28_60 Bed-4,4C:B1:CD:36:DC:70,2914899,-59,37,g/n,212,nan,nan,nan,13,6/25/2024 13:53
+aid-jp6-a1bd8623,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.36.11/::,0A:05:61:B3:08:10,svnet,RuckusAP,20:58:69:01:A5:D0,74416297,-63,33,g/n,212,nan,nan,nan,0,6/25/2024 16:44
+aid-jp6-a1e53f92,Smartphone,Android,Android,172.18.50.8/::,0A:05:9E:02:AD:1A,svnet,WAP2_Central Control Rm,20:58:69:0A:7A:D0,430047,-41,55,g/n,219,nan,nan,nan,0,6/24/2024 7:19
+aid-jp6-a206aa4d,Smartphone,Android,Android,172.18.60.14/::,0A:04:67:A2:D8:3F,svnet,80Upper UAP2,84:23:88:23:FD:80,22479724,-46,50,g/n,224,nan,nan,nan,3,6/24/2024 19:25
+aid-jp6-a231f195,Smartphone,Android,Android,172.18.38.20/::,0A:05:60:12:40:F7,svnet,WAP_240A-3,4C:B1:CD:36:C1:50,81780127,-62,34,g/n,213,nan,nan,nan,12,6/25/2024 22:25
+aid-jp6-a234bec9,Unknown,Unknown,Unknown,172.18.36.21/::,0A:06:D6:91:A8:4A,svnet,WAP14_240D-2,4C:B1:CD:36:9A:40,368808,-70,26,g/n,212,nan,nan,nan,1,6/24/2024 22:24
+aid-jp6-a31d1da3,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.38.7/::,0A:06:D6:90:60:86,svnet,RuckusAP,94:BF:C4:31:2B:B0,2166512,-52,44,g/n,213,nan,nan,nan,1,6/25/2024 21:23
+aid-jp6-a38a27e7,Smartphone,Android,Android,172.18.52.32/::,0A:05:61:B0:DC:69,svnet,WAP27_60 Bed-3,4C:B1:CD:36:B8:50,380101,-55,41,g/n,220,nan,nan,nan,0,6/25/2024 18:42
+aid-jp6-a3a150a5,Smartphone,Android,Android,172.18.52.19/::,0A:04:67:B4:30:3F,svnet,WAP15_240D-3,4C:B1:CD:36:B2:40,35140018,-62,34,g/n,220,nan,nan,nan,24,6/24/2024 9:08
+aid-jp6-a3b27b31,Unknown,Unknown,Unknown,172.18.58.30/::,0A:04:67:B3:20:16,svnet,WAP_240B-1,1C:3A:60:03:7E:A0,381098,-67,29,g/n,223,nan,nan,nan,1,6/24/2024 9:05
+aid-jp6-a3eec058,Smartphone,Android,Android,172.18.32.52/::,0A:06:D6:F1:F9:22,svnet,WAP27_60 Bed-3,4C:B1:CD:36:B8:50,1616408,-54,42,g/n,210,nan,nan,nan,0,6/20/2024 1:29
+aid-jp6-a3fe3f59,Smartphone,Android,Android,172.18.36.40/::,0A:05:62:60:C4:7F,svnet,WAP28_60 Bed-4,4C:B1:CD:36:DC:70,5179052,-46,50,g/n,212,nan,nan,nan,0,6/20/2024 11:26
+aid-jp6-a417d3a1,Smartphone,Android,Android,172.18.56.14/::,0A:06:5A:81:38:8A,svnet,WAP31_80 Lower 1,C8:08:73:32:90:B0,171457,-48,48,g/n,222,nan,nan,nan,4,6/25/2024 1:40
+aid-jp6-a48ad924,Unknown,Unknown,Unknown,172.18.40.55/::,0A:04:67:A1:D8:72,svnet,WAP_240B-2,1C:3A:60:03:7E:A0,23683,-65,31,g/n,214,nan,nan,nan,0,6/24/2024 18:27
+aid-jp6-a4b1ccb6,Smartphone,Android,Android,172.18.42.70/::,0A:05:62:44:68:78,svnet,WAP_240C-3,1C:3A:60:03:7E:A0,441754,-69,27,g/n,215,nan,nan,nan,0,6/25/2024 7:11
+aid-jp6-a4f9b9df,Smartphone,Android,Android,172.18.46.66/::,0A:04:67:B3:00:FE,svnet,WAP31_80 Lower 2,1C:3A:60:06:D3:C0,18623073,-35,61,g/n,217,nan,nan,nan,8,6/25/2024 18:41
+aid-jp6-a53a527d,Smartphone,Android,Android,172.18.48.25/::,0A:05:61:B3:48:72,svnet,WAP14_240D-2,4C:B1:CD:36:B1:F0,449743,-54,42,g/n,218,nan,nan,nan,23,6/24/2024 20:22
+aid-jp6-a59d81d0,Smartphone,Android,Android,172.18.32.45/::,00:08:22:C2:4F:51,svnet,WAP_240C-2,4C:B1:CD:36:63:E0,138472,-64,32,g/n,210,nan,nan,nan,3,6/24/2024 23:20
+aid-jp6-a61d540f,Smartphone,Android,Android,172.18.50.6/::,0A:05:61:D4:44:BE,svnet,RuckusAP,94:BF:C4:31:2B:B0,2501663,-52,44,g/n,219,nan,nan,nan,1,6/13/2024 20:57
+aid-jp6-a65a61db,Smartphone,Android,Android,172.18.36.6/::,0A:04:67:11:00:84,svnet,RuckusAP,20:58:69:01:B8:70,169507,-50,46,g/n,212,nan,nan,nan,0,6/25/2024 23:17
+aid-jp6-a69ddbca,Smartphone,Android,Android,172.18.44.27/::,0A:04:67:53:6C:7E,svnet,WAP_240A-3,4C:B1:CD:36:9A:30,4851850,-71,25,g/n,216,nan,nan,nan,4,6/24/2024 21:23
+aid-jp6-a6b1b634,Smartphone,Android,Android,172.18.48.63/::,0A:05:9F:F2:30:11,svnet,80Upper UAP2,C8:08:73:32:90:B0,7057908,-46,50,a/n,218,nan,nan,nan,0,6/24/2024 20:19
+aid-jp6-a6b3b8be,Smartphone,Android,Android,172.18.50.33/::,0A:04:65:A1:40:9C,svnet,WAP_240A-2,4C:B1:CD:36:AB:60,2076068,-66,30,g/n,219,nan,nan,nan,36,6/26/2024 0:13
+aid-jp6-a6cf29e9,Smartphone,Android,Android,172.18.58.11/::,0A:06:D6:F3:E9:0A,svnet,WAP_240B-1,4C:B1:CD:36:BE:C0,9352180,-48,48,g/n,223,nan,nan,nan,0,6/25/2024 21:28
+aid-jp6-a7119f04,Smartphone,Android,Android,172.18.54.55/::,0A:04:67:42:28:82,svnet,WAP28_60 Bed-4,4C:B1:CD:36:DC:70,261503507,-59,37,g/n,221,nan,nan,nan,20,6/25/2024 22:47
+aid-jp6-a74ae6dd,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.48.8/::,0A:04:67:B1:2C:EE,svnet,WAP_240C-3,94:BF:C4:31:32:30,163773085,-61,35,g/n,218,nan,nan,nan,61,6/25/2024 7:13
+aid-jp6-a796be32,Smartphone,Android,Android,172.18.38.8/::,0A:06:5A:02:24:DD,svnet,RuckusAP,94:BF:C4:31:2B:B0,2754226,-68,28,g/n,213,nan,nan,nan,0,6/25/2024 21:15
+aid-jp6-a7a32118,Smartphone,Android,Android,172.18.40.7/::,0A:05:61:B2:C4:0C,svnet,WAP13_240D-1,4C:B1:CD:36:B2:40,51918,-79,17,g/n,214,nan,nan,nan,5,6/24/2024 9:43
+aid-jp6-a81cf26c,Smartphone,Android,Android,172.18.36.47/::,0A:04:67:11:30:93,svnet,WAP_240A-2,1C:3A:60:03:7E:A0,2648777,-70,26,g/n,212,nan,nan,nan,0,6/25/2024 22:35
+aid-jp6-a846dfcf,Smartphone,Android,Android,172.18.46.8/::,0A:04:66:62:70:A5,svnet,RuckusAP,94:BF:C4:31:2B:B0,2487740,-56,40,g/n,217,nan,nan,nan,0,6/25/2024 19:54
+aid-jp6-a860ebae,Smartphone,Android,Android,172.18.40.6/::,0A:04:65:A1:70:9C,svnet,RuckusAP,20:58:69:01:BA:10,1982531,-61,35,g/n,214,nan,nan,nan,0,6/25/2024 19:55
+aid-jp6-a862e524,Smartphone,Android,Android,172.18.52.34/::,0A:05:9F:F2:00:11,svnet,WAP_240B-3,4C:B1:CD:36:EE:20,390132,-59,37,a/n,220,nan,nan,nan,0,6/12/2024 23:32
+aid-jp6-a8a0edce,Smartphone,Android,Android,172.18.32.53/::,0A:04:67:B2:EC:27,svnet,WAP28_60 Bed-4,4C:B1:CD:36:DC:70,18064778,-58,38,g/n,210,nan,nan,nan,13,6/25/2024 16:32
+aid-jp6-a9a21d3a,Unknown,Unknown,Android,172.18.62.54/::,0A:04:67:B1:18:7F,svnet,WAP28_60 Bed-4,4C:B1:CD:36:DC:70,21283791,-47,49,g/n,225,nan,nan,nan,19,6/24/2024 8:52
+aid-jp6-a9dd0b78,Smartphone,Android,Android,172.18.62.60/::,0A:04:67:B4:54:4D,svnet,WAP_240C-3,4C:B1:CD:36:B1:50,127421,-58,38,a/n,225,nan,nan,nan,0,6/25/2024 22:04
+aid-jp6-aa1c1e61,Smartphone,Android,Android,172.18.38.17/::,0A:05:9E:B3:D4:B5,svnet,WAP_240C-3,4C:B1:CD:36:B1:50,233700,-58,38,g/n,213,nan,nan,nan,0,6/21/2024 11:23
+aid-jp6-aa4d726b,Smartphone,Android,Android,172.18.56.18/::,0A:04:67:B2:38:CD,svnet,WAP_240A-1,94:BF:C4:31:2D:30,26190745,-55,41,a/n,222,nan,nan,nan,0,6/25/2024 23:37
+aid-jp6-aa9e1d60,Smartphone,Android,Android,172.18.52.17/::,0A:05:61:B3:40:26,svnet,WAP31_80 Lower 1,1C:3A:60:03:4E:90,2381322,-43,53,g/n,220,nan,nan,nan,0,6/22/2024 22:39
+aid-jp6-aaaa4d4f,Smartphone,Android,Android,172.18.58.6/::,0A:05:62:44:0C:A7,svnet,Roll Call,4C:B1:CD:36:EE:20,54193,-57,39,g/n,223,nan,nan,nan,0,6/21/2024 12:36
+aid-jp6-ab6dfb5c,Smartphone,Android,Android,172.18.40.13/::,0A:04:67:A0:C4:3E,svnet,WAP15_240D-3,4C:B1:CD:36:AA:D0,679263,-59,37,g/n,214,nan,nan,nan,1,6/25/2024 22:24
+aid-jp6-ab711175,Smartphone,Android,Android,172.18.46.73/::,0A:05:9F:F2:E8:11,svnet,WAP37_Infirmary,94:BF:C4:31:2D:30,12600691,-34,62,a/n,217,nan,nan,nan,0,6/21/2024 11:53
+aid-jp6-abdbd42f,Smartphone,Android,Android,172.18.56.6/::,0A:06:D6:93:38:87,svnet,RuckusAP,20:58:69:01:B8:80,73491118,-64,32,g/n,222,nan,nan,nan,0,6/21/2024 10:39
+aid-jp6-ac086bbf,Smartphone,Android,Android,172.18.50.12/::,0A:05:9F:F4:30:47,svnet,RuckusAP,94:BF:C4:31:2B:B0,1609281,-57,39,g/n,219,nan,nan,nan,1,6/25/2024 12:06
+aid-jp6-ac2910bf,Smartphone,Android,Android,172.18.52.63/::,0A:05:62:52:74:C5,svnet,WAP_240A-2,4C:B1:CD:36:C1:50,2177080,-62,34,g/n,220,nan,nan,nan,8,6/25/2024 21:13
+aid-jp6-ac5d33e9,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.38.9/::,0A:06:D6:A2:08:7E,svnet,WAP14_240D-2,4C:B1:CD:36:B2:40,121670108,-59,37,g/n,213,nan,nan,nan,0,6/24/2024 8:13
+aid-jp6-ac692e30,Unknown,Unknown,Android,172.18.38.41/::,0A:04:2A:62:3C:70,svnet,Roll Call,1C:3A:60:03:7E:A0,671241,-51,45,g/n,213,nan,nan,nan,0,6/14/2024 7:19
+aid-jp6-aca8d0ec,Unknown,Unknown,Unknown,172.18.48.68/::,0A:04:67:52:4C:F1,svnet,80 Upper U-AP1,1C:3A:60:03:7E:A0,70476,-56,40,g/n,218,nan,nan,nan,0,6/25/2024 18:15
+aid-jp6-accf7052,Smartphone,Android,Android,172.18.52.18/::,0A:04:67:C1:B4:FB,svnet,WAP_240C-2,4C:B1:CD:36:9A:30,469639,-67,29,g/n,220,nan,nan,nan,4,6/25/2024 7:33
+aid-jp6-ad348b83,Unknown,Unknown,Android,172.18.48.20/::,0A:04:65:A2:F8:0B,svnet,WAP28_60 Bed-4,4C:B1:CD:36:DC:70,3098503,-63,33,g/n,218,nan,nan,nan,0,6/26/2024 6:41
+aid-jp6-ad749aaa,Smartphone,Android,Android,172.18.56.40/::,0A:06:98:52:31:04,svnet,WAP21_120B-1,4C:B1:CD:36:ED:70,1879739,-65,31,g/n,222,nan,nan,nan,24,6/26/2024 3:51
+aid-jp6-ad8e66ee,Smartphone,Android,Android,172.18.48.18/::,0A:05:9E:03:B0:4D,svnet,WAP36_FHU,94:BF:C4:31:32:30,11146,-73,23,g/n,218,nan,nan,nan,0,6/14/2024 9:26
+aid-jp6-add19392,Smartphone,Android,Android,172.18.52.84/::,0A:04:2A:62:9C:71,svnet,WAP31_80 Lower 1,1C:3A:60:03:4E:90,82350778,-49,47,a/n,220,nan,nan,nan,0,6/25/2024 17:53
+aid-jp6-ae08ffed,Smartphone,Android,Android,172.18.40.36/::,0A:04:2A:64:78:70,svnet,WAP13_240D-1,4C:B1:CD:36:AA:D0,nan,nan,nan,nan,214,nan,nan,nan,nan,6/24/2024 9:02
+aid-jp6-ae71aecd,Smartphone,Android,Android,172.18.50.14/::,0A:04:67:B2:34:76,svnet,WAP_240C-3,4C:B1:CD:36:B1:50,254873,-51,45,g/n,219,nan,nan,nan,0,6/24/2024 23:47
+aid-jp6-aee5333f,Smartphone,Android,Android,172.18.32.11/::,0A:05:9F:F2:54:16,svnet,WAP21_120B-1,4C:B1:CD:36:AB:90,7579799,-62,34,g/n,210,nan,nan,nan,19,6/20/2024 7:32
+aid-jp6-afafc68b,Smartphone,Android,Android,172.18.62.25/::,0A:06:98:53:DC:52,svnet,WAP_240B-3,4C:B1:CD:36:9A:40,15362767,-64,32,g/n,225,nan,nan,nan,187,6/24/2024 21:21
+aid-jp6-afbf2f21,Smartphone,Android,Android,172.18.38.10/::,0A:05:9F:F1:F0:29,svnet,RuckusAP,20:58:69:01:A5:D0,8399610,-45,51,g/n,213,nan,nan,nan,0,6/24/2024 16:42
+aid-jp6-afc766b0,Smartphone,Android,Android,172.18.56.46/::,0A:06:D6:93:EC:D1,svnet,80Upper UAP2,1C:3A:60:03:7E:A0,40544,-75,21,a/n,222,nan,nan,nan,2,6/25/2024 22:05
+aid-jp6-afd5e629,Smartphone,Android,Android,172.18.58.9/::,0A:05:62:44:28:D1,svnet,WAP_240B-2,4C:B1:CD:36:EE:20,2499702,-62,34,g/n,223,nan,nan,nan,0,6/25/2024 22:20
+aid-jp6-afe1f2f8,Smartphone,Android,Android,172.18.58.64/::,0A:06:5A:83:BC:64,svnet,WAP28_60 Bed-4,4C:B1:CD:36:B8:50,22641396,-53,43,g/n,223,nan,nan,nan,0,6/25/2024 20:16
+aid-jp6-afe2fe79,Smartphone,Android,Android,172.18.40.29/::,0A:05:62:13:6C:43,svnet,WAP15_240D-3,4C:B1:CD:36:BE:C0,28308126,-67,29,g/n,214,nan,nan,nan,227,6/25/2024 22:39
+aid-jp6-b00767ff,Smartphone,Android,Android,172.18.48.43/::,0A:05:61:D2:B0:3F,svnet,WAP_240C-3,4C:B1:CD:36:9A:30,486415,-62,34,g/n,218,nan,nan,nan,9,6/24/2024 9:31
+aid-jp6-b02a5826,Smartphone,Android,Android,172.18.38.10/::,0A:05:9F:F2:D4:18,svnet,WAP_240A-3,4C:B1:CD:36:DC:00,145365,-74,22,g/n,213,nan,nan,nan,1,6/25/2024 21:13
+aid-jp6-b03dad97,Smartphone,Android,Android,172.18.38.23/::,0A:04:67:B1:2C:B7,svnet,80 Upper U-AP1,94:BF:C4:31:32:30,610930,-76,20,g/n,213,nan,nan,nan,5,6/25/2024 19:12
+aid-jp6-b0c8b83e,Smartphone,Android,Android,172.18.52.68/::,0A:05:62:14:44:61,svnet,WAP31_80 Lower 1,1C:3A:60:06:D3:C0,2478349,-34,62,g/n,220,nan,nan,nan,0,6/25/2024 21:46
+aid-jp6-b0cd41e9,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.46.43/::,0A:04:67:84:60:92,svnet,WAP13_240D-1,4C:B1:CD:36:B1:F0,235969,-60,36,g/n,217,nan,nan,nan,5,6/23/2024 11:14
+aid-jp6-b1110a66,Smartphone,Android,Android,172.18.36.12/::,0A:05:62:44:50:61,svnet,WAP13_240D-1,4C:B1:CD:36:B2:40,584,-65,31,g/n,212,nan,nan,nan,0,6/23/2024 13:42
+aid-jp6-b112f74b,Smartphone,Android,Android,172.18.60.39/::,0A:05:61:D2:AD:0D,svnet,WAP13_240D-1,4C:B1:CD:36:B1:F0,349240,-66,30,g/n,224,nan,nan,nan,0,6/24/2024 7:54
+aid-jp6-b1366ad3,Smartphone,Android,Android,172.18.40.10/::,0A:06:5A:83:D4:77,svnet,RuckusAP,94:BF:C4:31:2B:B0,3235279,-58,38,g/n,214,nan,nan,nan,0,6/25/2024 21:27
+aid-jp6-b1b4d7f9,Smartphone,Android,Android,172.18.50.59/::,0A:06:5B:61:8C:2D,svnet,WAP21_120B-1,4C:B1:CD:36:ED:70,549445,-62,34,g/n,219,nan,nan,nan,0,6/25/2024 23:06
+aid-jp6-b1bd5de0,Smartphone,Android,Android,172.18.62.67/::,0A:07:16:83:1C:AB,svnet,WAP14_240D-2,1C:3A:60:03:7E:A0,10474078,-68,28,g/n,225,nan,nan,nan,39,6/23/2024 13:30
+aid-jp6-b2352832,Smartphone,Android,Android,172.18.52.9/::,0A:05:60:F3:14:61,svnet,RuckusAP,20:58:69:01:B8:80,9307855,-34,62,g/n,220,nan,nan,nan,0,6/21/2024 9:56
+aid-jp6-b27d2e70,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.46.11/::,0A:05:62:11:FC:C3,svnet,RuckusAP,94:BF:C4:31:2B:B0,2225696,-52,44,g/n,217,nan,nan,nan,2,6/25/2024 21:17
+aid-jp6-b298474a,Smartphone,Android,Android,172.18.46.39/::,0A:06:D6:A1:14:63,svnet,Roll Call,1C:3A:60:03:7E:A0,13441,-75,21,g/n,217,nan,nan,nan,0,6/21/2024 12:29
+aid-jp6-b2fdac4b,Unknown,Unknown,Unknown,172.18.52.76/::,0A:06:5B:82:24:47,svnet,WAP21_120B-1,4C:B1:CD:36:ED:70,5081477,-56,40,g/n,220,nan,nan,nan,5,6/25/2024 20:56
+aid-jp6-b314f108,Smartphone,Android,Android,172.18.62.45/::,0A:04:67:B3:14:FC,svnet,80 Upper U-AP1,84:23:88:23:FD:80,1968748,-50,46,a/n,225,nan,nan,nan,0,6/25/2024 18:13
+aid-jp6-b331b8be,Smartphone,Android,Android,172.18.58.13/::,0A:06:5B:82:50:CC,svnet,WAP14_240D-2,4C:B1:CD:36:AA:D0,684819,-55,41,g/n,223,nan,nan,nan,0,6/24/2024 7:53
+aid-jp6-b35c06c2,Smartphone,Android,Android,172.18.60.35/::,0A:06:D6:A4:84:61,svnet,WAP28_60 Bed-4,4C:B1:CD:36:DC:70,2772885,-53,43,g/n,224,nan,nan,nan,1,6/20/2024 11:34
+aid-jp6-b35e4108,Smartphone,Android,Android,172.18.52.12/::,0A:04:66:61:24:33,svnet,WAP15_240D-3,4C:B1:CD:36:B1:F0,261286,-56,40,g/n,220,nan,nan,nan,0,6/23/2024 13:51
+aid-jp6-b3adedbe,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.50.12/::,0A:04:67:13:08:27,svnet,WAP22_120B-2,4C:B1:CD:36:ED:70,168198789,-37,59,g/n,219,nan,nan,nan,16,6/25/2024 21:17
+aid-jp6-b3afa194,Smartphone,Android,Android,172.18.60.33/::,0A:05:62:73:D0:D5,svnet,WAP_240B-1,4C:B1:CD:36:DC:70,674573,-43,53,g/n,224,nan,nan,nan,0,6/25/2024 23:21
+aid-jp6-b3bc8d8f,Unknown,Unknown,Android,172.18.58.54/::,0A:04:67:A3:B4:AD,svnet,WAP_240A-2,4C:B1:CD:36:C1:50,300891,-62,34,g/n,223,nan,nan,nan,0,6/25/2024 22:25
+aid-jp6-b3c27ac0,Smartphone,Android,Android,172.18.52.56/::,0A:05:61:B4:84:6C,svnet,80 Upper U-AP1,84:23:88:23:FD:80,11234451,-47,49,g/n,220,nan,nan,nan,0,6/25/2024 18:33
+aid-jp6-b3c2c404,Smartphone,Android,Android,172.18.46.14/::,0A:04:67:A3:0C:EB,svnet,RuckusAP,20:58:69:01:A0:B0,13493187,-63,33,g/n,217,nan,nan,nan,0,6/25/2024 7:33
+aid-jp6-b3d967af,Smartphone,Android,Android,172.18.52.6/::,0A:04:67:A1:C4:42,svnet,WAP_240C-3,4C:B1:CD:36:9A:30,432847,-64,32,a/n,220,nan,nan,nan,0,6/25/2024 7:33
+aid-jp6-b3d98742,Unknown,Unknown,Unknown,172.18.46.35/::,0A:06:5B:73:00:6D,svnet,WAP28_60 Bed-4,4C:B1:CD:36:B8:50,1892541,-57,39,g/n,217,nan,nan,nan,0,6/26/2024 6:07
+aid-jp6-b3e7267b,Smartphone,Android,Android,172.18.32.37/::,0A:05:62:50:C4:81,svnet,WAP_240C-2,4C:B1:CD:36:B1:50,1500508,-53,43,g/n,210,nan,nan,nan,0,6/25/2024 0:53
+aid-jp6-b417fbf1,Smartphone,Android,Android,172.18.50.64/::,0A:04:67:B1:14:40,svnet,WAP21_120B-1,4C:B1:CD:36:AB:90,54534937,-63,33,g/n,219,nan,nan,nan,0,6/25/2024 20:45
+aid-jp6-b44b6a09,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.46.6/::,0A:05:9E:03:40:AA,svnet,RuckusAP,94:BF:C4:31:2B:B0,2680391,-61,35,g/n,217,nan,nan,nan,0,6/25/2024 20:05
+aid-jp6-b44b96ce,Smartphone,Android,Android,172.18.44.57/::,0A:05:9F:F2:AC:2B,svnet,WAP_240A-2,4C:B1:CD:36:DC:00,1567427,-65,31,a/n,216,nan,nan,nan,1,6/25/2024 23:43
+aid-jp6-b47383ae,Smartphone,Android,Android,172.18.38.8/::,0A:04:66:63:68:27,svnet,Roll Call,1C:3A:60:03:4E:90,1065332,-36,60,g/n,213,nan,nan,nan,0,6/26/2024 0:24
+aid-jp6-b4c16e82,Unknown,Unknown,Android,172.18.46.65/::,0A:07:16:83:FD:05,svnet,WAP_240B-1,1C:3A:60:03:7E:A0,11961,-64,32,g/n,217,nan,nan,nan,0,6/25/2024 22:25
+aid-jp6-b531d2f6,Unknown,Unknown,Android,172.18.54.9/::,0A:05:62:30:70:BC,svnet,WAP_240B-1,4C:B1:CD:36:BE:C0,19593,-59,37,g/n,221,nan,nan,nan,0,6/24/2024 21:50
+aid-jp6-b5479878,Smartphone,Android,Android,172.18.32.47/::,0A:06:D6:A3:9C:2F,svnet,WAP_240B-3,4C:B1:CD:36:9A:40,2232367,-42,54,g/n,210,nan,nan,nan,7,6/25/2024 22:00
+aid-jp6-b55fb18d,Unknown,Unknown,Android,172.18.48.12/::,0A:04:67:A3:04:BB,svnet,WAP28_60 Bed-4,4C:B1:CD:36:DC:70,440363,-68,28,g/n,218,nan,nan,nan,3,6/25/2024 7:38
+aid-jp6-b6074333,Smartphone,Android,Android,172.18.54.18/::,0A:05:62:13:0C:19,svnet,Roll Call,1C:3A:60:03:7E:A0,545249,-66,30,g/n,221,nan,nan,nan,0,6/20/2024 9:49
+aid-jp6-b6f0c7b0,Smartphone,Android,Android,172.18.34.9/::,0A:05:62:11:AC:24,svnet,Roll Call,4C:B1:CD:36:C1:50,2125283,-58,38,g/n,211,nan,nan,nan,1,6/20/2024 9:57
+aid-jp6-b702a603,Smartphone,Android,Android,172.18.34.34/::,0A:06:D6:A3:68:F0,svnet,WAP31_80 Lower 2,1C:3A:60:03:4E:90,367928,-61,35,a/n,211,nan,nan,nan,0,6/26/2024 6:08
+aid-jp6-b75b4ee1,Smartphone,Android,Android,172.18.46.34/::,0A:04:67:10:20:8F,svnet,WAP14_240D-2,4C:B1:CD:36:AA:D0,350572,-59,37,g/n,217,nan,nan,nan,8,6/24/2024 8:42
+aid-jp6-b77c52e7,Smartphone,Android,Android,172.18.58.23/::,0A:04:67:B1:3C:BA,svnet,WAP27_60 Bed-3,4C:B1:CD:36:B8:50,358930,-62,34,g/n,223,nan,nan,nan,0,6/23/2024 14:55
+aid-jp6-b78db5ef,Smartphone,Android,Android,172.18.62.65/::,0A:04:66:64:40:42,svnet,WAP21_120B-1,1C:3A:60:03:7E:A0,30348,-65,31,a/n,225,nan,nan,nan,2,6/25/2024 7:26
+aid-jp6-b7dd9213,Unknown,Unknown,Android,172.18.38.56/::,0A:06:D6:92:E8:0B,svnet,Roll Call,1C:3A:60:03:7E:A0,111276,-61,35,g/n,213,nan,nan,nan,0,6/21/2024 11:52
+aid-jp6-b82e23b1,Smartphone,Android,Android,172.18.52.75/::,0A:04:67:B3:7C:AC,svnet,NE Hallway,94:BF:C4:31:33:A0,62683469,-76,20,g/n,220,nan,nan,nan,3683,6/23/2024 13:48
+aid-jp6-b843df83,Smartphone,Android,Android,172.18.38.65/::,0A:05:61:B0:38:80,svnet,WAP22_120B-2,4C:B1:CD:36:ED:70,4264215,-67,29,a/n,213,nan,nan,nan,41,6/26/2024 6:14
+aid-jp6-b87fd927,Smartphone,Android,Android,172.18.50.20/::,0A:05:62:14:1C:B8,svnet,WAP31_80 Lower 2,1C:3A:60:03:4E:90,327871,-51,45,a/n,219,nan,nan,nan,0,6/26/2024 1:37
+aid-jp6-b8eb855f,Smartphone,Android,Android,172.18.44.45/::,0A:05:9F:F3:20:59,svnet,WAP_240C-3,4C:B1:CD:36:63:E0,412031,-48,48,a/n,216,nan,nan,nan,0,6/24/2024 4:42
+aid-jp6-b8fbfcd5,Smartphone,Android,Android,172.18.46.60/::,0A:04:67:A3:18:AC,svnet,WAP31_80 Lower 1,1C:3A:60:03:4E:90,441914,-48,48,g/n,217,nan,nan,nan,0,6/26/2024 5:49
+aid-jp6-b91927f0,Smartphone,Android,Android,172.18.42.11/::,0A:05:62:74:54:BA,svnet,WAP_240C-1,4C:B1:CD:36:63:E0,243977,-52,44,g/n,215,nan,nan,nan,0,6/25/2024 6:59
+aid-jp6-b9961e3d,Smartphone,Android,Android,172.18.50.10/::,0A:05:9F:F1:14:4D,svnet,RuckusAP,20:58:69:01:BA:10,284245,-56,40,g/n,219,nan,nan,nan,0,6/24/2024 9:36
+aid-jp6-ba4e7d50,Smartphone,Android,Android,172.18.36.44/::,0A:05:61:E3:EC:B4,svnet,WAP13_240D-1,4C:B1:CD:36:B2:40,2722024,-55,41,g/n,212,nan,nan,nan,29,6/23/2024 22:26
+aid-jp6-ba4f6825,Smartphone,Android,Android,172.18.62.56/::,0A:05:9F:F1:3C:DA,svnet,WAP13_240D-1,4C:B1:CD:36:B2:40,94671,-70,26,g/n,225,nan,nan,nan,0,6/24/2024 20:28
+aid-jp6-bb7aac4c,Smartphone,Android,Android,172.18.52.46/::,0A:06:5B:62:18:A9,svnet,WAP28_60 Bed-4,4C:B1:CD:36:B8:50,220130479,-60,36,g/n,220,nan,nan,nan,84,6/25/2024 18:20
+aid-jp6-bba0922d,Smartphone,Android,Android,172.18.38.21/::,0A:06:5B:61:38:7C,svnet,WAP13_240D-1,4C:B1:CD:36:B2:40,38734,-64,32,g/n,213,nan,nan,nan,0,6/25/2024 22:00
+aid-jp6-bbbae953,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.52.7/::,0A:04:67:51:EC:14,svnet,RuckusAP,20:58:69:01:A5:D0,97287,-64,32,g/n,220,nan,nan,nan,0,6/20/2024 11:37
+aid-jp6-bbc02747,Unknown,Unknown,Android,172.18.52.58/::,0A:06:D6:91:4C:DB,svnet,WAP28_60 Bed-4,94:BF:C4:31:32:30,371251,-69,27,g/n,220,nan,nan,nan,4,6/25/2024 22:32
+aid-jp6-bc3cf7e2,Smartphone,Android,Android,172.18.44.40/::,0A:05:62:42:D8:55,svnet,WAP13_240D-1,4C:B1:CD:36:BE:C0,169473,-73,23,g/n,216,nan,nan,nan,0,6/24/2024 9:01
+aid-jp6-bc698889,Smartphone,Android,Android,172.18.56.6/::,0A:05:62:72:F4:5F,svnet,WAP15_240D-3,4C:B1:CD:36:AA:D0,2330535,-60,36,g/n,222,nan,nan,nan,135,6/23/2024 12:56
+aid-jp6-bc7add73,Smartphone,Android,Android,172.18.48.39/::,0A:05:61:B3:88:7D,svnet,80Upper UAP2,4C:B1:CD:36:B1:50,2016934,-50,46,g/n,218,nan,nan,nan,0,6/25/2024 21:07
+aid-jp6-bca30bfb,Unknown,Unknown,Android,172.18.50.13/::,0A:05:62:14:50:AE,svnet,WAP31_80 Lower 2,1C:3A:60:06:D3:C0,31086914,-55,41,a/n,219,nan,nan,nan,0,6/13/2024 8:53
+aid-jp6-bcd23853,Smartphone,Android,Android,172.18.38.25/::,0A:06:5A:83:50:3E,svnet,WAP14_240D-2,4C:B1:CD:36:B1:F0,612344,-66,30,g/n,213,nan,nan,nan,12,6/24/2024 9:14
+aid-jp6-bcf637b3,Smartphone,Android,Android,172.18.40.22/::,0A:04:67:B4:80:CF,svnet,Roll Call,1C:3A:60:03:7E:A0,121877,-69,27,g/n,214,nan,nan,nan,0,6/13/2024 8:04
+aid-jp6-bdb6dbe2,Smartphone,Android,Android,172.18.56.50/::,0A:06:D6:91:FC:FC,svnet,WAP27_60 Bed-3,1C:3A:60:03:7E:A0,209124,-64,32,g/n,222,nan,nan,nan,0,6/25/2024 21:27
+aid-jp6-be62262d,Smartphone,Android,Android,172.18.42.60/::,0A:06:D6:F0:F8:CB,svnet,WAP_240A-3,4C:B1:CD:36:AB:60,27215,-74,22,a/n,215,nan,nan,nan,0,6/16/2024 20:46
+aid-jp6-beb64f01,Unknown,Unknown,Unknown,172.18.62.44/::,0A:05:9F:F3:F8:59,svnet,WAP_240A-2,4C:B1:CD:36:DC:00,202748,-57,39,g/n,225,nan,nan,nan,0,6/24/2024 6:34
+aid-jp6-becd9add,Smartphone,Android,Android,172.18.38.48/::,0A:06:D6:43:2C:A4,svnet,80Upper UAP2,C8:08:73:32:90:B0,2210066,-54,42,a/n,213,nan,nan,nan,0,6/23/2024 22:23
+aid-jp6-bf0141b0,Smartphone,Android,Android,172.18.50.23/::,0A:06:98:53:41:0F,svnet,WAP_240C-2,4C:B1:CD:36:B8:50,2493312,-61,35,g/n,219,nan,nan,nan,4,6/25/2024 7:35
+aid-jp6-bf5f718b,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.60.32/::,0A:04:67:43:5C:76,svnet,WAP_240C-2,4C:B1:CD:36:B1:50,2219873,-36,60,g/n,224,nan,nan,nan,8,6/25/2024 22:44
+aid-jp6-bf97b947,Smartphone,Android,Android,172.18.48.37/::,0A:04:67:A2:C8:4B,svnet,WAP_240A-3,4C:B1:CD:36:AB:60,1746157,-65,31,g/n,218,nan,nan,nan,0,6/25/2024 1:09
+aid-jp6-bff829c9,Smartphone,Android,Android,172.18.48.13/::,0A:06:59:B3:A8:3E,svnet,RuckusAP,20:58:69:01:B8:80,144127,-37,59,g/n,218,nan,nan,nan,0,6/19/2024 9:37
+aid-jp6-c000b128,Unknown,Unknown,Android,172.18.42.23/::,0A:05:61:F3:6C:18,svnet,WAP_240C-3,4C:B1:CD:36:B1:50,611142,-69,27,g/n,215,nan,nan,nan,2,6/25/2024 7:13
+aid-jp6-c00dde75,Smartphone,Android,Android,172.18.42.13/::,0A:05:62:02:00:BB,svnet,WAP21_120B-1,4C:B1:CD:36:AB:90,734265,-38,58,g/n,215,nan,nan,nan,0,6/26/2024 6:42
+aid-jp6-c08e63d6,Smartphone,Android,Android,172.18.32.40/::,0A:05:62:11:94:11,svnet,WAP_240C-3,4C:B1:CD:36:9A:30,1619759,-67,29,g/n,210,nan,nan,nan,13,6/25/2024 22:10
+aid-jp6-c0aeed4b,Unknown,Unknown,Android,172.18.38.7/::,0A:04:67:84:64:92,svnet,WAP_240B-1,4C:B1:CD:36:BE:C0,1938199,-54,42,g/n,213,nan,nan,nan,0,6/25/2024 22:25
+aid-jp6-c0c96fc4,Smartphone,Android,Android,172.18.48.60/::,0A:04:65:A3:08:44,svnet,WAP37_Infirmary,1C:3A:60:03:7E:A0,20931,-62,34,g/n,218,nan,nan,nan,0,6/24/2024 17:02
+aid-jp6-c144cafb,Smartphone,Android,Android,172.18.32.11/::,0A:05:62:53:C0:72,svnet,RuckusAP,94:BF:C4:31:2B:B0,2234155,-68,28,g/n,210,nan,nan,nan,0,6/25/2024 7:36
+aid-jp6-c15ab4fa,Smartphone,Android,Android,172.18.34.11/::,0A:06:D6:F3:60:1E,svnet,WAP_240B-3,4C:B1:CD:36:EE:20,2105535,-72,24,g/n,211,nan,nan,nan,31,6/12/2024 20:57
+aid-jp6-c18866a7,Smartphone,Android,Android,172.18.40.60/::,0A:05:61:E2:00:67,svnet,WAP37_Infirmary,1C:3A:60:03:7E:A0,2254557,-68,28,g/n,214,nan,nan,nan,2,6/22/2024 15:15
+aid-jp6-c1ab8b5d,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.38.12/::,0A:04:67:12:C4:79,svnet,RuckusAP,20:58:69:01:B8:60,7877031,-49,47,g/n,213,nan,nan,nan,0,6/21/2024 12:42
+aid-jp6-c1fd475d,Smartphone,Android,Android,172.18.38.68/::,0A:06:5A:80:48:8B,svnet,WAP_240C-3,4C:B1:CD:36:B1:50,1130771,-53,43,g/n,213,nan,nan,nan,11,6/25/2024 21:16
+aid-jp6-c295113b,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.38.31/::,0A:06:98:51:E0:7E,svnet,WAP14_240D-2,4C:B1:CD:36:AA:D0,21877250,-61,35,g/n,213,nan,nan,nan,130,6/23/2024 12:44
+aid-jp6-c2af9d29,Smartphone,Android,Android,172.18.48.70/::,0A:05:62:32:A4:4E,svnet,WAP27_60 Bed-3,4C:B1:CD:36:B8:50,28257068,-47,49,g/n,218,nan,nan,nan,0,6/25/2024 22:32
+aid-jp6-c2c1161d,Smartphone,Android,Android,172.18.60.20/::,0A:06:5B:63:04:48,svnet,WAP28_60 Bed-4,94:BF:C4:31:32:30,649639,-67,29,g/n,224,nan,nan,nan,27,6/25/2024 13:52
+aid-jp6-c33d00a4,Smartphone,Android,Android,172.18.32.9/::,0A:05:9F:F2:A0:18,svnet,WAP14_240D-2,4C:B1:CD:36:AA:D0,152892,-57,39,g/n,210,nan,nan,nan,0,6/25/2024 7:50
+aid-jp6-c37d68da,Unknown,Unknown,Unknown,172.18.34.30/::,0A:06:98:50:58:AB,svnet,WAP22_120B-2,4C:B1:CD:36:AB:90,2767491,-62,34,g/n,211,nan,nan,nan,123,6/25/2024 20:46
+aid-jp6-c3a4ce7d,Smartphone,Android,Android,172.18.60.69/::,0A:05:62:73:58:BF,svnet,WAP_240C-2,4C:B1:CD:36:9A:30,2191340,-57,39,g/n,224,nan,nan,nan,0,6/26/2024 6:38
+aid-jp6-c3b2fb44,Smartphone,Android,Android,172.18.52.6/::,0A:05:9F:F3:4C:29,svnet,RuckusAP,94:BF:C4:31:2B:B0,449200,-46,50,g/n,220,nan,nan,nan,0,6/25/2024 20:26
+aid-jp6-c3d7b4e1,Smartphone,Android,Android,172.18.48.10/::,0A:04:67:B2:75:00,svnet,WAP27_60 Bed-3,4C:B1:CD:36:B8:50,1372236,-55,41,g/n,218,nan,nan,nan,0,6/26/2024 4:30
+aid-jp6-c3fe0aa1,Smartphone,Android,Android,172.18.54.42/::,0A:04:67:B0:8C:8D,svnet,WAP22_120B-2,4C:B1:CD:36:ED:70,2264634,-58,38,g/n,221,nan,nan,nan,4,6/25/2024 22:24
+aid-jp6-c400d618,Unknown,Unknown,Unknown,172.18.44.21/::,0A:06:98:51:24:91,svnet,WAP_240A-3,1C:3A:60:03:7E:A0,80798,-64,32,g/n,216,nan,nan,nan,0,6/25/2024 21:20
+aid-jp6-c47883aa,Smartphone,Android,Android,172.18.34.52/::,0A:04:67:A2:40:90,svnet,WAP_240C-2,94:BF:C4:31:32:30,184790,-69,27,g/n,211,nan,nan,nan,1,6/25/2024 7:14
+aid-jp6-c4a75959,Smartphone,Android,Android,172.18.62.9/::,0A:05:9F:F2:D4:4B,svnet,RuckusAP,94:BF:C4:31:2B:B0,44064,-54,42,g/n,225,nan,nan,nan,0,6/25/2024 21:19
+aid-jp6-c4d3e8ee,Unknown,Unknown,Generic_Android wv/Android 8.1.0,172.18.58.42/::,0A:04:67:A1:C4:5D,svnet,WAP31_80 Lower 1,1C:3A:60:03:4E:90,2593692,-48,48,g/n,223,nan,nan,nan,0,6/24/2024 17:53
+aid-jp6-c50faabf,Unknown,Unknown,Android,172.18.46.47/::,0A:06:5A:03:0C:B6,svnet,Roll Call,1C:3A:60:03:7E:A0,4886310,-67,29,g/n,217,nan,nan,nan,12,6/21/2024 12:48
+aid-jp6-c53b2320,Smartphone,Android,Android,172.18.56.57/::,0A:07:16:82:59:09,svnet,WAP_240C-3,4C:B1:CD:36:9A:30,171314,-59,37,g/n,222,nan,nan,nan,0,6/24/2024 17:28
+aid-jp6-c559a772,Smartphone,Android,Android,172.18.50.10/::,0A:06:5A:02:30:B1,svnet,WAP14_240D-2,4C:B1:CD:36:B1:F0,112485,-72,24,a/n,219,nan,nan,nan,1,6/24/2024 7:52
+aid-jp6-c563ac91,Smartphone,Android,Android,172.18.40.43/::,0A:06:D6:91:68:7A,svnet,WAP_240B-1,4C:B1:CD:36:EE:20,325611614,-54,42,g/n,214,nan,nan,nan,37,6/25/2024 7:49
+aid-jp6-c56832f9,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.42.9/::,0A:04:67:53:55:00,svnet,WAP_240B-2,4C:B1:CD:36:EE:20,213344919,-69,27,g/n,215,nan,nan,nan,365,6/25/2024 22:01
+aid-jp6-c590f9ff,Unknown,Unknown,Unknown,172.18.36.15/::,0A:04:67:12:38:47,svnet,WAP_240C-3,4C:B1:CD:36:B1:50,355582,-58,38,a/n,212,nan,nan,nan,0,6/24/2024 21:08
+aid-jp6-c5b37e1a,Smartphone,Android,Android,172.18.44.26/::,0A:04:67:A3:5C:DB,svnet,WAP27_60 Bed-3,4C:B1:CD:36:B8:50,2145479,-55,41,g/n,216,nan,nan,nan,0,6/25/2024 23:20
+aid-jp6-c5ce1d48,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.62.10/::,0A:05:62:42:A0:6B,svnet,WAP_240A-1,4C:B1:CD:36:AB:60,4684453,-62,34,g/n,225,nan,nan,nan,8,6/25/2024 23:56
+aid-jp6-c6058fc1,Smartphone,Android,Android,172.18.36.45/::,0A:06:5A:02:74:C1,svnet,80Upper UAP2,84:23:88:23:FD:80,109984684,-43,53,a/n,212,nan,nan,nan,0,6/25/2024 21:42
+aid-jp6-c62e2697,Smartphone,Android,Android,172.18.38.83/::,0A:06:98:54:28:67,svnet,WAP31_80 Lower 1,1C:3A:60:03:4E:90,501669224,-60,36,a/n,213,nan,nan,nan,5,6/19/2024 22:30
+aid-jp6-c64a890c,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.54.56/::,0A:04:67:51:B8:ED,svnet,WAP28_60 Bed-4,4C:B1:CD:36:DC:70,229909009,-71,25,g/n,221,nan,nan,nan,64,6/24/2024 21:23
+aid-jp6-c65b7aed,Smartphone,Android,Android,172.18.58.8/::,0A:05:9F:F3:14:59,svnet,WAP_240C-1,94:BF:C4:31:32:30,nan,nan,nan,nan,223,nan,nan,nan,nan,6/25/2024 7:15
+aid-jp6-c664f18f,Smartphone,Android,Android,172.18.54.39/::,0A:04:67:B4:3C:8C,svnet,WAP_240C-3,1C:3A:60:03:7E:A0,14744,-54,42,g/n,221,nan,nan,nan,0,6/24/2024 23:30
+aid-jp6-c684e744,Unknown,Unknown,Android,172.18.62.12/::,0A:04:67:B2:A4:CE,svnet,80 Upper U-AP1,84:23:88:23:FD:80,2746838,-54,42,a/n,225,nan,nan,nan,0,6/25/2024 19:52
+aid-jp6-c6b3ae52,Smartphone,Android,Android,172.18.46.7/::,0A:06:5A:00:C4:BD,svnet,RuckusAP,94:BF:C4:31:2B:B0,2215248,-53,43,g/n,217,nan,nan,nan,0,6/22/2024 16:46
+aid-jp6-c6dbf5cc,Smartphone,Android,Android,172.18.42.46/::,0A:06:5A:01:B8:A6,svnet,WAP27_60 Bed-3,4C:B1:CD:36:B8:50,48740238,-52,44,g/n,215,nan,nan,nan,12,6/25/2024 19:05
+aid-jp6-c6e3efdb,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.58.6/::,0A:06:98:51:64:3A,svnet,RuckusAP,94:BF:C4:31:2B:B0,2254833,-66,30,g/n,223,nan,nan,nan,0,6/25/2024 16:56
+aid-jp6-c70c4270,Smartphone,Android,Android,172.18.44.73/::,0A:04:67:52:35:05,svnet,WAP_240A-3,4C:B1:CD:36:B1:50,46619,-64,32,g/n,216,nan,nan,nan,0,6/24/2024 21:11
+aid-jp6-c7470b0d,Smartphone,Android,Android,172.18.48.75/::,0A:06:59:14:9C:75,svnet,80Upper UAP2,84:23:88:23:FD:80,5445665,-54,42,g/n,218,nan,nan,nan,0,6/25/2024 19:05
+aid-jp6-c785b0a1,Unknown,Unknown,Android,172.18.52.39/::,0A:06:98:53:98:4F,svnet,WAP_240A-1,4C:B1:CD:36:9A:30,34170740,-65,31,g/n,220,nan,nan,nan,0,6/24/2024 22:35
+aid-jp6-c7899592,Smartphone,Android,Android,172.18.32.13/::,0A:06:D6:81:5C:3D,svnet,WAP_240B-1,4C:B1:CD:36:BE:C0,3447865,-49,47,g/n,210,nan,nan,nan,4,6/25/2024 7:49
+aid-jp6-c84e3ad8,Smartphone,Android,Android,172.18.52.43/::,0A:06:D6:41:F5:1A,svnet,WAP_240C-3,4C:B1:CD:36:9A:30,3516615,-49,47,a/n,220,nan,nan,nan,0,6/24/2024 8:44
+aid-jp6-c88f07cc,Smartphone,Android,Android,172.18.58.40/::,0A:04:67:A1:80:17,svnet,WAP_240C-3,1C:3A:60:03:7E:A0,48771388,-64,32,g/n,223,nan,nan,nan,48,6/25/2024 22:32
+aid-jp6-c8a080b5,Unknown,Unknown,Unknown,172.18.40.31/::,0A:04:66:61:00:33,svnet,WAP_240B-3,4C:B1:CD:36:EE:20,84456791,-55,41,g/n,214,nan,nan,nan,6,6/25/2024 22:24
+aid-jp6-c91703ef,Smartphone,Android,Android,172.18.50.9/::,0A:05:62:42:2D:02,svnet,RuckusAP,94:BF:C4:31:2B:B0,606198,-63,33,g/n,219,nan,nan,nan,0,6/24/2024 20:44
+aid-jp6-c995e53e,Smartphone,Android,Android,172.18.34.16/::,0A:05:61:B2:34:79,svnet,WAP_240A-1,4C:B1:CD:36:C1:50,20683,-54,42,g/n,211,nan,nan,nan,0,6/16/2024 21:19
+aid-jp6-c999dacb,Smartphone,Android,Android,172.18.62.39/::,0A:06:98:52:C0:4B,svnet,WAP21_120B-1,4C:B1:CD:36:AB:90,6323201,-57,39,g/n,225,nan,nan,nan,101,6/25/2024 21:08
+aid-jp6-c9c7e5c8,Smartphone,Android,Android,172.18.46.55/::,0A:06:98:54:18:49,svnet,WAP21_120B-1,1C:3A:60:03:7E:A0,74654,-66,30,g/n,217,nan,nan,nan,0,6/25/2024 21:36
+aid-jp6-c9d053c2,Smartphone,Android,Android,172.18.58.9/::,0A:04:2A:64:98:6F,svnet,RuckusAP,94:BF:C4:31:2B:B0,2895091,-54,42,g/n,223,nan,nan,nan,0,6/25/2024 7:48
+aid-jp6-ca4ebcd3,Unknown,Unknown,Android,172.18.32.46/::,0A:05:62:12:80:EB,svnet,WAP31_80 Lower 2,1C:3A:60:06:D3:C0,0,0,0,a/n,210,nan,nan,nan,0,6/24/2024 22:15
+aid-jp6-cabb2bd3,Unknown,Unknown,Android,172.18.48.61/::,0A:04:67:A0:48:B5,svnet,WAP22_120B-2,94:BF:C4:31:32:30,444621,-67,29,g/n,218,nan,nan,nan,2,6/25/2024 21:00
+aid-jp6-caca61c8,Unknown,Unknown,Android,172.18.38.61/::,0A:05:62:71:00:33,svnet,WAP31_80 Lower 1,94:BF:C4:31:32:30,83260,-78,18,g/n,213,nan,nan,nan,0,6/26/2024 6:41
+aid-jp6-cad3b5ef,Smartphone,Android,Android,172.18.44.55/::,0A:05:9F:F2:CC:3B,svnet,WAP22_120B-2,4C:B1:CD:36:ED:70,363967,-70,26,a/n,216,nan,nan,nan,0,6/25/2024 22:24
+aid-jp6-cae90155,Smartphone,Android,Android,172.18.60.31/::,0A:06:D6:82:D0:5E,svnet,WAP_240C-2,4C:B1:CD:36:B1:50,690468,-61,35,g/n,224,nan,nan,nan,0,6/20/2024 9:06
+aid-jp6-cb03db13,Smartphone,Android,Android,172.18.42.6/::,0A:06:98:52:C0:53,svnet,RuckusAP,20:58:69:01:A0:70,14620,-70,26,g/n,215,nan,nan,nan,0,6/25/2024 18:43
+aid-jp6-cb0d8fb5,Smartphone,Android,Android,172.18.46.81/::,0A:06:D6:A2:78:C9,svnet,WAP15_240D-3,4C:B1:CD:36:AA:D0,1216045,-74,22,a/n,217,nan,nan,nan,0,6/23/2024 14:04
+aid-jp6-cb2dab7e,Smartphone,Android,Android,172.18.62.52/::,0A:04:67:54:5C:80,svnet,WAP27_60 Bed-3,4C:B1:CD:36:B8:50,2109557,-50,46,g/n,225,nan,nan,nan,10,6/25/2024 19:54
+aid-jp6-cb672783,Smartphone,Android,Android,172.18.46.69/::,0A:04:27:F1:B0:57,svnet,WAP28_60 Bed-4,4C:B1:CD:36:DC:70,6358661,-58,38,g/n,217,nan,nan,nan,10,6/25/2024 22:42
+aid-jp6-cba65de7,Smartphone,Android,Android,172.18.46.14/::,0A:05:62:12:88:6D,svnet,WAP14_240D-2,4C:B1:CD:36:AA:D0,158927,-51,45,g/n,217,nan,nan,nan,0,6/24/2024 22:50
+aid-jp6-cc5676c3,Smartphone,Android,Android,172.18.46.27/::,0A:05:9F:F3:80:48,svnet,WAP_240B-2,4C:B1:CD:36:9A:40,0,0,0,a/n,217,nan,nan,nan,0,6/25/2024 22:25
+aid-jp6-cd4c93e1,Smartphone,Android,Android,172.18.62.55/::,0A:04:67:11:3C:31,svnet,WAP22_120B-2,4C:B1:CD:36:ED:70,522800,-61,35,g/n,225,nan,nan,nan,0,6/26/2024 1:40
+aid-jp6-cd7340ff,Smartphone,Android,Android,172.18.52.57/::,0A:06:5B:84:6C:66,svnet,80 Upper U-AP1,84:23:88:23:FD:80,132191,-46,50,g/n,220,nan,nan,nan,0,6/24/2024 10:47
+aid-jp6-cdacdfda,Smartphone,Android,Android,172.18.48.16/::,0A:05:62:10:54:AC,svnet,WAP28_60 Bed-4,4C:B1:CD:36:DC:70,87858162,-66,30,g/n,218,nan,nan,nan,4,6/23/2024 13:43
+aid-jp6-cdc1b56d,Unknown,Unknown,Unknown,172.18.58.28/::,0A:06:D6:F0:F4:7A,svnet,WAP36_FHU,4C:B1:CD:36:DC:70,2842728,-52,44,g/n,223,nan,nan,nan,9,6/21/2024 11:29
+aid-jp6-cddb6b3a,Smartphone,Android,Android,172.18.50.61/::,0A:05:62:33:C0:CB,svnet,80Upper UAP2,84:23:88:23:FD:80,2354643,-64,32,a/n,219,nan,nan,nan,0,6/25/2024 18:44
+aid-jp6-ce09f2a8,Smartphone,Android,Android,172.18.40.59/::,0A:04:67:11:58:67,svnet,WAP14_240D-2,1C:3A:60:03:7E:A0,8530,-75,21,g/n,214,nan,nan,nan,0,6/25/2024 7:33
+aid-jp6-ce4b61f0,Smartphone,Android,Android,172.18.60.40/::,0A:04:67:A0:FC:45,svnet,WAP22_120B-2,4C:B1:CD:36:AB:90,1701999,-72,24,g/n,224,nan,nan,nan,1,6/25/2024 7:41
+aid-jp6-cf31cc58,Smartphone,Android,Android,172.18.36.9/::,0A:04:67:B3:34:AA,svnet,RuckusAP,20:58:69:01:B8:70,157333,-43,53,g/n,212,nan,nan,nan,0,6/25/2024 20:50
+aid-jp6-cf9435e8,Smartphone,Android,Android,172.18.38.13/::,0A:06:D6:F3:F4:9E,svnet,WAP_240C-2,4C:B1:CD:36:B1:50,822931,-64,32,g/n,213,nan,nan,nan,0,6/24/2024 21:22
+aid-jp6-cfa10110,Smartphone,Android,Android,172.18.60.8/::,0A:06:D6:91:64:3E,svnet,RuckusAP,94:BF:C4:31:2B:B0,3807253,-63,33,g/n,224,nan,nan,nan,0,6/25/2024 9:34
+aid-jp6-cfc6e5b6,Smartphone,Android,Android,172.18.54.30/::,0A:05:62:52:54:82,svnet,WAP31_80 Lower 1,1C:3A:60:03:7E:A0,48712721,-64,32,g/n,221,nan,nan,nan,0,6/26/2024 6:37
+aid-jp6-d0235f8a,Smartphone,Android,Android,172.18.38.61/::,0A:05:60:F2:60:6C,svnet,WAP_240A-1,4C:B1:CD:36:AB:60,0,0,0,a/n,213,nan,nan,nan,0,6/25/2024 21:12
+aid-jp6-d0abbddc,Smartphone,Android,Android,172.18.36.34/::,0A:05:9F:F3:00:0B,svnet,WAP_240C-3,4C:B1:CD:36:B1:50,402562,-64,32,g/n,212,nan,nan,nan,15,6/25/2024 22:04
+aid-jp6-d123296d,Smartphone,Android,Android,172.18.56.15/::,0A:05:61:B3:A0:6D,svnet,WAP_240A-3,4C:B1:CD:36:C1:50,50454,-60,36,g/n,222,nan,nan,nan,0,6/25/2024 23:15
+aid-jp6-d123b1b8,Unknown,Unknown,Unknown,172.18.46.57/::,0A:05:61:B2:10:3E,svnet,WAP_240A-3,4C:B1:CD:36:AB:60,25169,-60,36,a/n,217,nan,nan,nan,0,6/25/2024 22:21
+aid-jp6-d12fdc14,Smartphone,Android,Android,172.18.60.27/::,0A:06:5A:82:C0:73,svnet,WAP_240A-2,4C:B1:CD:36:C1:50,2260375,-65,31,g/n,224,nan,nan,nan,17,6/25/2024 19:16
+aid-jp6-d171e64b,Smartphone,Android,Android,172.18.38.40/::,0A:04:67:A0:B8:7F,svnet,Roll Call,1C:3A:60:03:7E:A0,10650425,-66,30,g/n,213,nan,nan,nan,10,6/24/2024 7:39
+aid-jp6-d299850f,Smartphone,Android,Android,172.18.38.9/::,0A:05:9F:F2:90:17,svnet,RuckusAP,94:BF:C4:31:2B:B0,2319796,-47,49,g/n,213,nan,nan,nan,2,6/25/2024 19:48
+aid-jp6-d2a05f7c,Smartphone,Android,Android,172.18.54.35/::,0A:05:9F:F1:8C:3C,svnet,WAP31_80 Lower 2,1C:3A:60:03:4E:90,34069257,-49,47,a/n,221,nan,nan,nan,0,6/26/2024 6:41
+aid-jp6-d32a7bfd,Smartphone,Android,Android,172.18.34.38/::,0A:06:D6:F3:1D:20,svnet,WAP14_240D-2,4C:B1:CD:36:AA:D0,193429,-68,28,a/n,211,nan,nan,nan,0,6/21/2024 11:23
+aid-jp6-d3954dad,Smartphone,Android,Android,172.18.62.19/::,0A:05:62:14:0C:39,svnet,WAP27_60 Bed-3,4C:B1:CD:36:B8:50,3087471,-40,56,g/n,225,nan,nan,nan,0,6/25/2024 23:25
+aid-jp6-d44a492b,Unknown,Unknown,Unknown,172.18.46.53/::,0A:04:67:40:84:5B,svnet,WAP28_60 Bed-4,4C:B1:CD:36:DC:70,494661,-55,41,g/n,217,nan,nan,nan,0,6/26/2024 6:06
+aid-jp6-d45683e3,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.52.29/::,0A:04:67:A3:40:BC,svnet,WAP27_60 Bed-3,4C:B1:CD:36:B8:50,9333,-68,28,a/n,220,nan,nan,nan,0,6/25/2024 20:35
+aid-jp6-d4c6dd0b,Smartphone,Android,Android,172.18.46.70/::,0A:04:67:52:2D:23,svnet,Roll Call,1C:3A:60:03:7E:A0,23864,-72,24,g/n,217,nan,nan,nan,0,6/17/2024 7:28
+aid-jp6-d4e2afa7,Smartphone,Android,Android,172.18.52.53/::,0A:05:9F:F3:4C:28,svnet,Roll Call,C8:08:73:32:90:B0,8976008,-52,44,a/n,220,nan,nan,nan,0,6/21/2024 5:49
+aid-jp6-d50e5793,Smartphone,Android,Android,172.18.32.20/::,0A:04:67:B1:3C:D3,svnet,WAP14_240D-2,4C:B1:CD:36:B1:F0,91874,-43,53,g/n,210,nan,nan,nan,0,6/24/2024 8:32
+aid-jp6-d53060cc,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.52.11/::,0A:06:5B:82:8C:45,svnet,WAP_240A-2,4C:B1:CD:36:C1:50,49697413,-67,29,a/n,220,nan,nan,nan,0,6/25/2024 22:30
+aid-jp6-d5401b58,Smartphone,Android,Android,172.18.52.8/::,0A:07:16:82:71:07,svnet,RuckusAP,94:BF:C4:31:2B:B0,2476933,-59,37,g/n,220,nan,nan,nan,0,6/25/2024 17:12
+aid-jp6-d55f2c0d,Smartphone,Android,Android,172.18.48.9/::,0A:05:61:D3:E0:51,svnet,WAP_240B-3,4C:B1:CD:36:9A:40,5651813,-52,44,g/n,218,nan,nan,nan,318,6/24/2024 21:32
+aid-jp6-d57da909,Smartphone,Android,Android,172.18.38.65/::,0A:05:62:13:44:3B,svnet,WAP22_120B-2,1C:3A:60:03:7E:A0,18653,-73,23,g/n,213,nan,nan,nan,0,6/25/2024 21:36
+aid-jp6-d5a97f76,Unknown,Unknown,Unknown,172.18.42.40/::,0A:06:5A:04:38:D0,svnet,WAP15_240D-3,4C:B1:CD:36:B2:40,4493431,-57,39,g/n,215,nan,nan,nan,0,6/24/2024 9:25
+aid-jp6-d5cabb0f,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.54.7/::,0A:06:5A:03:24:9E,svnet,RuckusAP,94:BF:C4:31:2B:B0,2819119,-49,47,g/n,221,nan,nan,nan,1,6/25/2024 21:13
+aid-jp6-d63ded09,Smartphone,Android,Android,172.18.42.10/::,0A:04:67:B2:94:F7,svnet,WAP27_60 Bed-3,4C:B1:CD:36:DC:70,4746853,-67,29,g/n,215,nan,nan,nan,31,6/25/2024 23:12
+aid-jp6-d6dd84c0,Smartphone,Android,Android,172.18.48.21/::,0A:04:67:B0:B4:F2,svnet,WAP_240B-1,4C:B1:CD:36:EE:20,202173,-67,29,g/n,218,nan,nan,nan,0,6/25/2024 21:50
+aid-jp6-d70b60db,Unknown,Unknown,Android,172.18.44.11/::,0A:05:61:C2:84:C1,svnet,WAP_240B-3,4C:B1:CD:36:BE:C0,2447766,-47,49,g/n,216,nan,nan,nan,0,6/16/2024 21:33
+aid-jp6-d76d6b90,Smartphone,Android,Android,172.18.42.29/::,0A:05:62:42:A4:6D,svnet,WAP_240A-1,4C:B1:CD:36:C1:50,2180706,-75,21,g/n,215,nan,nan,nan,23,6/13/2024 19:27
+aid-jp6-d7873051,Smartphone,Android,Android,172.18.34.19/::,0A:06:5A:01:71:0C,svnet,WAP22_120B-2,4C:B1:CD:36:ED:70,6974534,-60,36,a/n,211,nan,nan,nan,0,6/26/2024 0:37
+aid-jp6-d7ad1e7e,Smartphone,Android,Android,172.18.58.36/::,0A:04:66:60:B8:B0,svnet,WAP_240C-3,4C:B1:CD:36:B1:50,136137,-55,41,g/n,223,nan,nan,nan,0,6/24/2024 20:13
+aid-jp6-d7cd7c8d,Smartphone,Android,Android,172.18.40.9/::,0A:06:5C:12:71:0D,svnet,WAP22_120B-2,4C:B1:CD:36:ED:70,26654556,-51,45,g/n,214,nan,nan,nan,31,6/25/2024 22:39
+aid-jp6-d7e3caaa,Unknown,Unknown,Unknown,172.18.62.26/::,0A:05:9F:F4:5C:5C,svnet,WAP27_60 Bed-3,4C:B1:CD:36:B8:50,822305,-65,31,a/n,225,nan,nan,nan,0,6/20/2024 20:31
+aid-jp6-d8037d99,Smartphone,Android,Android,172.18.52.37/::,0A:04:65:A4:20:C7,svnet,WAP13_240D-1,4C:B1:CD:36:B2:40,971192,-58,38,g/n,220,nan,nan,nan,15,6/24/2024 9:35
+aid-jp6-d8718b71,Smartphone,Android,Android,172.18.36.23/::,0A:04:67:51:89:1B,svnet,80Upper UAP2,84:23:88:23:FD:80,3343263,-45,51,g/n,212,nan,nan,nan,0,6/26/2024 1:05
+aid-jp6-d8e616cf,Unknown,Unknown,Unknown,172.18.54.16/::,0A:04:67:A4:78:93,svnet,WAP14_240D-2,4C:B1:CD:36:AA:D0,30237294,-63,33,g/n,221,nan,nan,nan,338,6/24/2024 22:23
+aid-jp6-d910c771,Smartphone,Android,Android,172.18.42.15/::,0A:04:67:53:94:FA,svnet,80 Upper U-AP1,84:23:88:23:FD:80,13287881,-51,45,g/n,215,nan,nan,nan,0,6/25/2024 21:12
+aid-jp6-d94fd28f,Smartphone,Android,Android,172.18.60.12/::,0A:04:67:A3:48:AE,svnet,WAP_240B-1,4C:B1:CD:36:9A:40,2553499,-68,28,g/n,224,nan,nan,nan,8,6/25/2024 22:24
+aid-jp6-d9c9bc9a,Smartphone,Android,Android,172.18.56.34/::,0A:05:62:44:8C:6B,svnet,WAP14_240D-2,4C:B1:CD:36:B1:F0,774097,-67,29,g/n,222,nan,nan,nan,21,6/21/2024 11:15
+aid-jp6-da2b4508,Smartphone,Android,Android,172.18.44.8/::,0A:04:67:B0:4C:95,svnet,RuckusAP,94:BF:C4:31:2B:B0,2331547,-53,43,g/n,216,nan,nan,nan,0,6/23/2024 13:56
+aid-jp6-da45375b,Unknown,Unknown,Unknown,172.18.56.53/::,0A:05:62:73:D4:31,svnet,WAP13_240D-1,94:BF:C4:31:32:30,64139,-70,26,g/n,222,nan,nan,nan,2,6/24/2024 23:38
+aid-jp6-da7fd56d,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.42.65/::,0A:04:67:50:C0:6F,svnet,WAP31_80 Lower 1,1C:3A:60:06:D3:C0,59991432,-37,59,g/n,215,nan,nan,nan,0,6/21/2024 10:50
+aid-jp6-da9114c1,Unknown,Unknown,Android,172.18.34.28/::,0A:05:61:B0:A8:6E,svnet,WAP31_80 Lower 2,1C:3A:60:06:D3:C0,9542,-60,36,a/n,211,nan,nan,nan,0,6/24/2024 17:31
+aid-jp6-dae148d4,Smartphone,Android,Android,172.18.54.11/::,0A:04:26:B3:58:D7,svnet,RuckusAP,20:58:69:01:A0:70,15371991,-39,57,g/n,221,nan,nan,nan,0,6/20/2024 11:18
+aid-jp6-daf4a912,Smartphone,Android,Android,172.18.32.25/::,0A:06:D6:91:54:D7,svnet,WAP13_240D-1,4C:B1:CD:36:AA:D0,8374,-65,31,g/n,210,nan,nan,nan,0,6/24/2024 9:02
+aid-jp6-db6536e6,Unknown,Unknown,Android,172.18.44.50/::,0A:05:61:E2:3C:11,svnet,WAP_240B-1,4C:B1:CD:36:BE:C0,3783426,-56,40,g/n,216,nan,nan,nan,11,6/25/2024 21:19
+aid-jp6-db71d775,Smartphone,Android,Android,172.18.62.18/::,0A:06:D6:F2:44:F5,svnet,WAP15_240D-3,4C:B1:CD:36:B2:40,2484523,-63,33,g/n,225,nan,nan,nan,0,6/24/2024 8:16
+aid-jp6-db822313,Smartphone,Android,Android,172.18.38.60/::,0A:04:67:A3:44:8B,svnet,WAP21_120B-1,1C:3A:60:03:7E:A0,93528,-65,31,g/n,213,nan,nan,nan,16,6/25/2024 7:47
+aid-jp6-db8f3762,Smartphone,Android,Android,172.18.48.71/::,0A:05:62:73:F8:62,svnet,WAP_240C-3,94:BF:C4:31:32:30,489793,-72,24,g/n,218,nan,nan,nan,0,6/25/2024 23:15
+aid-jp6-dbedb78e,Smartphone,Android,Android,172.18.60.64/::,0A:05:62:11:98:8A,svnet,WAP31_80 Lower 1,1C:3A:60:03:4E:90,3959931,-24,72,g/n,224,nan,nan,nan,0,6/25/2024 21:22
+aid-jp6-dc86931a,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.48.15/::,0A:04:2A:63:A8:70,svnet,WAP14_240D-2,4C:B1:CD:36:B2:40,22817,-71,25,g/n,218,nan,nan,nan,2,6/24/2024 9:06
+aid-jp6-dcab9dcb,Smartphone,Android,Android,172.18.56.61/::,0A:05:9F:F1:D8:18,svnet,RuckusAP,C8:08:73:32:90:B0,397820931,-43,53,a/n,222,nan,nan,nan,0,6/25/2024 20:52
+aid-jp6-dd748afc,Smartphone,Android,Android,172.18.56.22/::,0A:06:98:53:FC:BF,svnet,WAP_240B-2,4C:B1:CD:36:EE:20,57533,-48,48,g/n,222,nan,nan,nan,0,6/24/2024 8:09
+aid-jp6-ddbeeae2,Smartphone,Android,Android,172.18.48.47/::,0A:04:67:B1:4D:06,svnet,WAP22_120B-2,4C:B1:CD:36:ED:70,514702,-63,33,g/n,218,nan,nan,nan,1,6/25/2024 22:17
+aid-jp6-ddf9d2bb,Smartphone,Android,Android,172.18.42.18/::,0A:06:D6:83:D8:76,svnet,WAP22_120B-2,4C:B1:CD:36:AB:90,207352,-72,24,a/n,215,nan,nan,nan,0,6/25/2024 1:17
+aid-jp6-de2cf597,Smartphone,Android,Android,172.18.38.44/::,0A:05:9E:01:48:60,svnet,Roll Call,1C:3A:60:03:7E:A0,5249672,-66,30,g/n,213,nan,nan,nan,47,6/12/2024 13:07
+aid-jp6-deb399bd,Smartphone,Android,Android,172.18.56.24/::,0A:04:67:50:A0:E9,svnet,WAP_240B-2,4C:B1:CD:36:9A:40,3045677,-62,34,g/n,222,nan,nan,nan,16,6/25/2024 23:05
+aid-jp6-df20c0cc,Smartphone,Android,Android,172.18.32.29/::,0A:06:5A:83:BC:89,svnet,WAP22_120B-2,4C:B1:CD:36:ED:70,98696,-67,29,g/n,210,nan,nan,nan,0,6/25/2024 21:02
+aid-jp6-df30fe48,Smartphone,Android,Android,172.18.40.41/::,0A:05:62:44:3C:65,svnet,WAP31_80 Lower 1,94:BF:C4:31:2D:30,1889506,-65,31,a/n,214,nan,nan,nan,0,6/25/2024 22:37
+aid-jp6-dfb707e0,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.32.44/::,0A:07:16:82:A8:FF,svnet,WAP_240C-3,4C:B1:CD:36:9A:30,7454294,-53,43,g/n,210,nan,nan,nan,2,6/25/2024 7:33
+aid-jp6-dfd83e3b,Smartphone,Android,Android,172.18.38.6/::,0A:05:61:B2:34:2E,svnet,WAP2_Central Control Rm,20:58:69:0A:7A:D0,21695609,-50,46,g/n,213,nan,nan,nan,0,6/22/2024 18:40
+aid-jp6-dffdf101,Smartphone,Android,Android,172.18.58.11/::,0A:05:62:11:58:EC,svnet,RuckusAP,20:58:69:01:B8:60,120466,-36,60,g/n,223,nan,nan,nan,0,6/21/2024 10:09
+aid-jp6-e04356bc,Smartphone,Android,Android,172.18.62.36/::,0A:06:D6:91:99:0B,svnet,Roll Call,4C:B1:CD:36:ED:70,307276,-77,19,a/n,225,nan,nan,nan,0,6/20/2024 11:28
+aid-jp6-e090bc4c,Smartphone,Android,Android,172.18.56.9/::,0A:07:16:81:99:04,svnet,WAP31_80 Lower 1,1C:3A:60:03:4E:90,8547518,-44,52,g/n,222,nan,nan,nan,0,6/24/2024 10:03
+aid-jp6-e092432b,Smartphone,Android,Android,172.18.56.62/::,0A:05:62:72:F0:2A,svnet,WAP_240C-3,1C:3A:60:03:7E:A0,8784,-74,22,g/n,222,nan,nan,nan,0,6/25/2024 23:18
+aid-jp6-e099a05a,Smartphone,Android,Android,172.18.40.20/::,0A:04:27:F1:C0:55,svnet,WAP14_240D-2,4C:B1:CD:36:BE:C0,2190722,-63,33,g/n,214,nan,nan,nan,3,6/24/2024 8:15
+aid-jp6-e0ff26a0,Smartphone,Android,Android,172.18.60.28/::,0A:04:67:B2:D0:5B,svnet,WAP13_240D-1,4C:B1:CD:36:AA:D0,126387,-80,16,a/n,224,nan,nan,nan,0,6/24/2024 9:37
+aid-jp6-e13c05ab,Unknown,Unknown,Unknown,172.18.40.11/::,0A:06:D6:92:89:24,svnet,WAP_240C-3,4C:B1:CD:36:B1:50,0,0,0,a/n,214,nan,nan,nan,0,6/24/2024 23:01
+aid-jp6-e149c144,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.44.52/::,0A:04:65:A0:64:CC,svnet,WAP_240A-3,4C:B1:CD:36:C1:50,1881848,-80,16,a/n,216,nan,nan,nan,6,6/25/2024 22:21
+aid-jp6-e1ff02f9,Smartphone,Android,Android,172.18.46.79/::,0A:06:5C:13:F8:FE,svnet,WAP22_120B-2,1C:3A:60:03:7E:A0,20228,-71,25,g/n,217,nan,nan,nan,0,6/25/2024 20:22
+aid-jp6-e230754d,Unknown,Unknown,Unknown,172.18.54.30/::,0A:05:61:E2:E4:8A,svnet,WAP_240B-2,4C:B1:CD:36:9A:40,154371072,-57,39,g/n,221,nan,nan,nan,17,6/23/2024 13:03
+aid-jp6-e2344663,Unknown,Unknown,Android,172.18.32.28/::,0A:06:5B:72:A8:17,svnet,WAP14_240D-2,4C:B1:CD:36:9A:40,2041850,-62,34,a/n,210,nan,nan,nan,0,6/24/2024 8:38
+aid-jp6-e25e5e16,Unknown,Unknown,Android,172.18.36.27/::,0A:05:62:03:20:92,svnet,WAP_240C-3,4C:B1:CD:36:B1:50,355866,-50,46,g/n,212,nan,nan,nan,0,6/24/2024 23:16
+aid-jp6-e27db225,Smartphone,Android,Android,172.18.32.8/::,0A:04:67:81:94:92,svnet,RuckusAP,94:BF:C4:31:2B:B0,2435142,-57,39,g/n,210,nan,nan,nan,0,6/25/2024 20:05
+aid-jp6-e385d43a,Smartphone,Android,Android,172.18.58.38/::,0A:05:9F:F3:64:17,svnet,WAP_240C-1,4C:B1:CD:36:9A:30,377473,-54,42,a/n,223,nan,nan,nan,0,6/25/2024 7:38
+aid-jp6-e3c0a108,Smartphone,Android,Android,172.18.42.21/::,0A:06:D6:F1:18:77,svnet,WAP28_60 Bed-4,4C:B1:CD:36:DC:70,2759512,-51,45,g/n,215,nan,nan,nan,3,6/26/2024 5:47
+aid-jp6-e3c352b7,Unknown,Unknown,Unknown,172.18.60.63/::,0A:05:61:E2:30:10,svnet,WAP27_60 Bed-3,4C:B1:CD:36:B8:50,65395405,-54,42,g/n,224,nan,nan,nan,0,6/25/2024 19:13
+aid-jp6-e3e2a3e5,Smartphone,Android,Android,172.18.38.12/::,0A:05:9E:B4:14:4B,svnet,80 Upper U-AP1,84:23:88:23:FD:80,75346,-57,39,a/n,213,nan,nan,nan,0,6/25/2024 14:06
+aid-jp6-e4039448,Smartphone,Android,Android,172.18.56.25/::,0A:05:62:03:F8:92,svnet,WAP_240A-3,4C:B1:CD:36:AB:60,184832,-62,34,g/n,222,nan,nan,nan,0,6/25/2024 22:26
+aid-jp6-e41d1dcb,Smartphone,Android,Android,172.18.62.63/::,0A:05:61:D3:8C:D9,svnet,WAP_240A-3,4C:B1:CD:36:C1:50,1570313,-73,23,g/n,225,nan,nan,nan,3,6/25/2024 21:14
+aid-jp6-e472cccf,Smartphone,Android,Android,172.18.38.15/::,0A:04:67:13:BC:91,svnet,WAP21_120B-1,94:BF:C4:31:32:30,0,0,0,a/n,213,nan,nan,nan,0,6/24/2024 9:10
+aid-jp6-e473578c,Smartphone,Android,Android,172.18.48.35/::,0A:04:67:B1:E4:73,svnet,Roll Call,1C:3A:60:03:7E:A0,5521607,-69,27,g/n,218,nan,nan,nan,19,6/20/2024 10:02
+aid-jp6-e47f895e,Smartphone,Android,Android,172.18.40.38/::,0A:05:9E:B4:8C:B2,svnet,WAP_240A-2,4C:B1:CD:36:63:E0,587011,-55,41,a/n,214,nan,nan,nan,0,6/24/2024 7:44
+aid-jp6-e4a104d3,Smartphone,Android,Android,172.18.42.37/::,0A:04:67:B2:60:0F,svnet,Roll Call,1C:3A:60:03:7E:A0,58286,-74,22,a/n,215,nan,nan,nan,0,6/21/2024 12:43
+aid-jp6-e4a9b679,Unknown,Unknown,Android,172.18.44.13/::,0A:04:67:B2:AC:92,svnet,WAP_240B-3,4C:B1:CD:36:BE:C0,94937,-68,28,g/n,216,nan,nan,nan,9,6/16/2024 21:44
+aid-jp6-e4cc5ff6,Unknown,Unknown,Unknown,172.18.54.29/::,0A:04:67:11:A0:10,svnet,WAP22_120B-2,4C:B1:CD:36:ED:70,1637937,-72,24,g/n,221,nan,nan,nan,57,6/25/2024 21:53
+aid-jp6-e4d5aa47,Smartphone,Android,Android,172.18.50.32/::,0A:05:61:D1:8C:91,svnet,WAP15_240D-3,4C:B1:CD:36:B1:F0,130252,-40,56,g/n,219,nan,nan,nan,0,6/24/2024 8:39
+aid-jp6-e5081af0,Unknown,Unknown,Unknown,172.18.60.24/::,0A:06:5B:72:5C:6F,svnet,WAP27_60 Bed-3,4C:B1:CD:36:B8:50,161761,-40,56,g/n,224,nan,nan,nan,0,6/25/2024 19:39
+aid-jp6-e526aa8c,Unknown,Unknown,Unknown,172.18.34.45/::,0A:04:67:B1:D8:D2,svnet,WAP27_60 Bed-3,4C:B1:CD:36:B8:50,16494003,-50,46,g/n,211,nan,nan,nan,0,6/25/2024 17:25
+aid-jp6-e57401b8,Smartphone,Android,Android,172.18.50.54/::,0A:05:62:72:BC:32,svnet,WAP31_80 Lower 2,1C:3A:60:03:7E:A0,3227539,-64,32,g/n,219,nan,nan,nan,4,6/24/2024 22:31
+aid-jp6-e57a2e38,Smartphone,Android,Android,172.18.44.10/::,0A:05:62:33:A8:AA,svnet,WAP15_240D-3,4C:B1:CD:36:B1:F0,82892,-56,40,g/n,216,nan,nan,nan,0,6/25/2024 22:25
+aid-jp6-e5bcf47d,Unknown,Unknown,Unknown,172.18.36.22/::,0A:05:9F:F3:58:26,svnet,80Upper UAP2,C8:08:73:32:90:B0,7797618,-56,40,a/n,212,nan,nan,nan,0,6/25/2024 20:31
+aid-jp6-e5c3022d,Smartphone,Android,Android,172.18.62.71/::,0A:05:62:41:E8:49,svnet,Roll Call,1C:3A:60:03:7E:A0,29334,-73,23,a/n,225,nan,nan,nan,0,6/21/2024 12:44
+aid-jp6-e5ef27ac,Unknown,Unknown,Unknown,172.18.42.62/::,0A:04:67:B4:78:59,svnet,WAP_240B-2,1C:3A:60:03:7E:A0,207583,-68,28,g/n,215,nan,nan,nan,0,6/25/2024 22:25
+aid-jp6-e680b09c,Unknown,Unknown,Android,172.18.42.17/::,0A:06:D6:A0:E0:C0,svnet,WAP_240A-3,94:BF:C4:31:32:30,28463,-79,17,a/n,215,nan,nan,nan,0,6/25/2024 22:24
+aid-jp6-e6fb8e4e,Unknown,Unknown,Unknown,172.18.38.29/::,0A:06:D6:F1:20:9D,svnet,WAP28_60 Bed-4,4C:B1:CD:36:DC:70,26357008,-54,42,g/n,213,nan,nan,nan,0,6/25/2024 13:48
+aid-jp6-e6ffa6cf,Unknown,Unknown,Unknown,172.18.58.41/::,0A:05:62:42:28:48,svnet,WAP_240C-3,4C:B1:CD:36:63:E0,213213,-54,42,a/n,223,nan,nan,nan,0,6/25/2024 23:24
+aid-jp6-e7153707,Smartphone,Android,Android,172.18.56.71/::,0A:06:5B:71:28:6E,svnet,WAP28_60 Bed-4,4C:B1:CD:36:B8:50,53673080,-67,29,g/n,222,nan,nan,nan,0,6/25/2024 20:57
+aid-jp6-e753aec0,Smartphone,Android,Android,172.18.60.9/::,0A:04:26:B3:A0:DB,svnet,WAP_240B-1,4C:B1:CD:36:BE:C0,3602574,-61,35,g/n,224,nan,nan,nan,0,6/14/2024 8:54
+aid-jp6-e7565d09,Smartphone,Android,Android,172.18.62.7/::,0A:05:9F:F2:CC:18,svnet,WAP_240B-3,4C:B1:CD:36:AA:D0,0,0,0,g/n,225,nan,nan,nan,0,6/26/2024 1:53
+aid-jp6-e7a17c1e,Unknown,Unknown,Unknown,172.18.46.75/::,0A:06:D6:A1:98:BE,svnet,WAP21_120B-1,4C:B1:CD:36:AB:90,873049,-45,51,g/n,217,nan,nan,nan,0,6/24/2024 7:27
+aid-jp6-e7d63f21,Smartphone,Android,Android,172.18.46.28/::,0A:06:D6:A1:30:61,svnet,WAP15_240D-3,4C:B1:CD:36:B1:F0,2532383,-54,42,g/n,217,nan,nan,nan,29,6/24/2024 22:23
+aid-jp6-e8138482,Smartphone,Android,Android,172.18.54.49/::,0A:05:9F:F1:A0:0E,svnet,80Upper UAP2,C8:08:73:32:90:B0,11628212,-51,45,a/n,221,nan,nan,nan,0,6/14/2024 8:58
+aid-jp6-e82a3ae3,Smartphone,Android,Android,172.18.58.19/::,0A:05:9E:02:E0:D3,svnet,WAP27_60 Bed-3,4C:B1:CD:36:DC:70,2339611,-61,35,g/n,223,nan,nan,nan,0,6/25/2024 22:30
+aid-jp6-e85ab578,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.32.27/::,0A:05:61:B2:78:73,svnet,WAP_240A-2,4C:B1:CD:36:B1:50,292197,-67,29,g/n,210,nan,nan,nan,6,6/14/2024 9:00
+aid-jp6-e890b4b8,Smartphone,Android,Android,172.18.54.12/::,0A:05:61:D3:80:65,svnet,WAP_240A-3,4C:B1:CD:36:C1:50,1425025,-50,46,g/n,221,nan,nan,nan,0,6/26/2024 1:45
+aid-jp6-e8e4d960,Smartphone,Android,Android,172.18.38.69/::,0A:06:5C:13:DC:2D,svnet,WAP28_60 Bed-4,4C:B1:CD:36:B8:50,250617,-54,42,g/n,213,nan,nan,nan,0,6/26/2024 4:15
+aid-jp6-e910154e,Smartphone,Android,Android,172.18.48.55/::,0A:05:61:B2:1C:2C,svnet,80 Upper U-AP1,84:23:88:23:FD:80,2016791,-61,35,a/n,218,nan,nan,nan,0,6/25/2024 18:30
+aid-jp6-e931a728,Smartphone,Android,Android,172.18.38.7/::,0A:06:D6:42:AC:DF,svnet,WAP2_Central Control Rm,20:58:69:0A:7A:D0,3284972,-41,55,g/n,213,nan,nan,nan,0,6/25/2024 20:40
+aid-jp6-e9332ba9,Smartphone,Android,Android,172.18.38.22/::,0A:06:5B:84:28:47,svnet,WAP14_240D-2,4C:B1:CD:36:AA:D0,501485,-56,40,g/n,213,nan,nan,nan,0,6/24/2024 22:14
+aid-jp6-e95bb337,Smartphone,Android,Android,172.18.60.58/::,0A:05:61:D3:15:1E,svnet,WAP28_60 Bed-4,4C:B1:CD:36:DC:70,42770668,-54,42,g/n,224,nan,nan,nan,2,6/25/2024 20:29
+aid-jp6-e95c95e0,Unknown,Unknown,Unknown,172.18.42.30/::,0A:04:67:52:58:D6,svnet,WAP_240B-2,1C:3A:60:03:7E:A0,309876,-62,34,g/n,215,nan,nan,nan,0,6/25/2024 21:15
+aid-jp6-ea3bddee,Smartphone,Android,Android,172.18.46.15/::,0A:04:67:A1:F9:06,svnet,WAP27_60 Bed-3,4C:B1:CD:36:B8:50,2405924,-62,34,g/n,217,nan,nan,nan,0,6/24/2024 8:10
+aid-jp6-ea811912,Smartphone,Android,Android,172.18.62.13/::,0A:05:61:C2:78:60,svnet,WAP21_120B-1,4C:B1:CD:36:ED:70,385391631,-80,16,a/n,225,nan,nan,nan,82,6/26/2024 4:19
+aid-jp6-eab39776,Unknown,Unknown,Unknown,172.18.46.80/::,0A:04:67:43:7C:99,svnet,WAP_240A-3,4C:B1:CD:36:9A:30,74544,-70,26,g/n,217,nan,nan,nan,0,6/25/2024 22:23
+aid-jp6-ead0b315,Smartphone,Android,Android,172.18.40.40/::,0A:05:62:71:70:80,svnet,WAP15_240D-3,4C:B1:CD:36:B2:40,384093,-59,37,g/n,214,nan,nan,nan,0,6/21/2024 10:54
+aid-jp6-eafb6122,Smartphone,Android,Android,172.18.42.55/::,0A:06:D6:82:4C:72,svnet,WAP22_120B-2,4C:B1:CD:36:ED:70,2052719,-61,35,g/n,215,nan,nan,nan,46,6/26/2024 0:23
+aid-jp6-eb3275dd,Unknown,Unknown,Android,172.18.34.31/::,0A:06:5A:84:64:75,svnet,WAP21_120B-1,4C:B1:CD:36:ED:70,5862122,-70,26,g/n,211,nan,nan,nan,7,6/25/2024 20:26
+aid-jp6-eb383f46,Smartphone,Android,Android,172.18.50.28/::,0A:06:5A:00:78:CF,svnet,WAP_240A-2,4C:B1:CD:36:DC:00,172549,-69,27,g/n,219,nan,nan,nan,0,6/25/2024 22:00
+aid-jp6-eb54e829,Unknown,Unknown,Unknown,172.18.32.17/::,0A:06:5A:03:0D:0E,svnet,80Upper UAP2,C8:08:73:32:90:B0,2381003,-60,36,a/n,210,nan,nan,nan,0,6/25/2024 18:11
+aid-jp6-eb8a7084,Smartphone,Android,Android,172.18.46.17/::,0A:05:62:42:40:E0,svnet,WAP21_120B-1,4C:B1:CD:36:ED:70,1839612,-49,47,g/n,217,nan,nan,nan,1,6/25/2024 7:27
+aid-jp6-eb9e7570,Smartphone,Android,Android,172.18.44.35/::,0A:05:62:42:C8:94,svnet,WAP13_240D-1,4C:B1:CD:36:B2:40,2174340,-69,27,g/n,216,nan,nan,nan,37,6/13/2024 7:28
+aid-jp6-eba4feed,Smartphone,Android,Android,172.18.40.27/::,0A:05:61:B1:FC:68,svnet,WAP22_120B-2,4C:B1:CD:36:ED:70,1468995,-60,36,g/n,214,nan,nan,nan,67,6/25/2024 21:51
+aid-jp6-ebc9cacc,Smartphone,Android,Android,172.18.62.37/::,0A:05:62:63:F0:8F,svnet,WAP21_120B-1,4C:B1:CD:36:ED:70,1513036,-51,45,g/n,225,nan,nan,nan,0,6/25/2024 22:27
+aid-jp6-ec724dfc,Unknown,Unknown,Android,172.18.44.51/::,0A:06:D6:43:E4:9E,svnet,80 Upper U-AP1,84:23:88:23:FD:80,8258812,-50,46,a/n,216,nan,nan,nan,0,6/23/2024 11:02
+aid-jp6-ec8e9638,Smartphone,Android,Android,172.18.50.16/::,0A:04:67:41:F8:EB,svnet,WAP15_240D-3,4C:B1:CD:36:AA:D0,159553,-66,30,a/n,219,nan,nan,nan,0,6/23/2024 14:07
+aid-jp6-ecedea24,Smartphone,Android,Android,172.18.48.57/::,0A:04:67:A3:A0:29,svnet,WAP21_120B-1,4C:B1:CD:36:AB:90,3679094,-63,33,g/n,218,nan,nan,nan,16,6/25/2024 22:11
+aid-jp6-ed178f7a,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.42.24/::,0A:07:16:80:A8:BB,svnet,WAP31_80 Lower 1,1C:3A:60:06:D3:C0,2276505,-37,59,g/n,215,nan,nan,nan,4,6/26/2024 6:29
+aid-jp6-ed5d860b,Unknown,Unknown,Unknown,172.18.56.30/::,0A:06:D6:80:84:8F,svnet,WAP_240B-1,4C:B1:CD:36:EE:20,1943907,-61,35,g/n,222,nan,nan,nan,0,6/24/2024 7:43
+aid-jp6-ed9f5291,Smartphone,Android,Android,172.18.62.50/::,0A:06:5B:73:04:7A,svnet,WAP21_120B-1,4C:B1:CD:36:ED:70,385688,-62,34,g/n,225,nan,nan,nan,0,6/25/2024 22:22
+aid-jp6-edb7e1a6,Smartphone,Android,Android,172.18.44.70/::,0A:05:62:61:F8:84,svnet,Roll Call,1C:3A:60:03:7E:A0,300601,-64,32,g/n,216,nan,nan,nan,0,6/21/2024 8:14
+aid-jp6-edcc1c62,Smartphone,Android,Android,172.18.40.18/::,0A:05:9F:F2:D0:3B,svnet,WAP28_60 Bed-4,4C:B1:CD:36:DC:00,1045881,-56,40,g/n,214,nan,nan,nan,4,6/25/2024 19:20
+aid-jp6-ee52bc15,Smartphone,Android,Android,172.18.56.36/::,0A:05:9F:F0:90:DB,svnet,WAP_240C-3,4C:B1:CD:36:9A:30,2831337,-63,33,a/n,222,nan,nan,nan,0,6/24/2024 23:03
+aid-jp6-f17d496e,Smartphone,Android,Android,172.18.58.12/::,0A:04:66:60:EC:6E,svnet,Roll Call,1C:3A:60:03:7E:A0,825627,-68,28,g/n,223,nan,nan,nan,11,6/20/2024 8:57
+aid-jp6-f19ca8bf,Smartphone,Android,Android,172.18.52.72/::,0A:04:67:B4:4C:55,svnet,80Upper UAP2,84:23:88:23:FD:80,229954,-58,38,a/n,220,nan,nan,nan,0,6/21/2024 12:24
+aid-jp6-f219f848,Unknown,Unknown,Android,172.18.58.56/::,0A:05:62:02:0C:9B,svnet,WAP31_80 Lower 2,1C:3A:60:03:4E:90,169374,-52,44,g/n,223,nan,nan,nan,0,6/24/2024 18:57
+aid-jp6-f25256c2,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.36.28/::,0A:05:9F:F3:30:11,svnet,WAP15_240D-3,4C:B1:CD:36:AA:D0,88535122,-50,46,g/n,212,nan,nan,nan,16,6/19/2024 10:03
+aid-jp6-f29e9d2b,Smartphone,Android,Android,172.18.46.26/::,0A:04:67:B1:1C:B3,svnet,WAP_240C-3,4C:B1:CD:36:B1:50,6966407,-76,20,g/n,217,nan,nan,nan,85,6/25/2024 7:44
+aid-jp6-f3665e5d,Smartphone,Android,Android,172.18.60.23/::,0A:06:5B:82:B4:62,svnet,WAP_240C-2,4C:B1:CD:36:63:E0,124799999,-45,51,g/n,224,nan,nan,nan,186,6/24/2024 23:05
+aid-jp6-f36eec11,Smartphone,Android,Android,172.18.44.12/::,0A:06:D6:82:48:5F,svnet,WAP15_240D-3,4C:B1:CD:36:B2:40,872565,-69,27,g/n,216,nan,nan,nan,44,6/23/2024 9:49
+aid-jp6-f377e52f,Unknown,Unknown,Unknown,172.18.34.60/::,0A:04:67:83:BC:9E,svnet,WAP27_60 Bed-3,4C:B1:CD:36:B8:50,2669105,-56,40,g/n,211,nan,nan,nan,0,6/13/2024 22:01
+aid-jp6-f3a37b37,Unknown,Unknown,Android,172.18.36.41/::,0A:05:61:D2:DC:18,svnet,80Upper UAP2,94:BF:C4:31:32:30,46360,-73,23,g/n,212,nan,nan,nan,0,6/25/2024 18:14
+aid-jp6-f3bbac9b,Unknown,Unknown,Unknown,172.18.56.45/::,0A:04:67:13:88:93,svnet,WAP27_60 Bed-3,4C:B1:CD:36:DC:70,2361853,-58,38,g/n,222,nan,nan,nan,2,6/25/2024 21:06
+aid-jp6-f407111e,Smartphone,Android,Android,172.18.32.12/::,0A:06:5B:74:94:82,svnet,WAP14_240D-2,4C:B1:CD:36:BE:C0,25885035,-69,27,g/n,210,nan,nan,nan,55,6/24/2024 7:59
+aid-jp6-f40aad12,Smartphone,Android,Android,172.18.52.10/::,0A:04:66:63:E0:41,svnet,WAP_240B-1,4C:B1:CD:36:EE:20,65004,-58,38,g/n,220,nan,nan,nan,0,6/24/2024 19:49
+aid-jp6-f441eaa3,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.52.10/::,0A:06:98:53:8C:59,svnet,RuckusAP,94:BF:C4:31:2B:B0,2458219,-65,31,g/n,220,nan,nan,nan,0,6/25/2024 18:03
+aid-jp6-f47a0281,Smartphone,Android,Android,172.18.62.23/::,0A:05:61:F2:9C:08,svnet,WAP_240B-2,4C:B1:CD:36:EE:20,1349446,-66,30,g/n,225,nan,nan,nan,2,6/25/2024 21:54
+aid-jp6-f4b75182,Smartphone,Android,Android,172.18.58.25/::,0A:05:62:62:38:5A,svnet,WAP28_60 Bed-4,4C:B1:CD:36:B8:50,16769102,-44,52,g/n,223,nan,nan,nan,0,6/25/2024 20:48
+aid-jp6-f514726d,Unknown,Unknown,Unknown,172.18.58.31/::,0A:04:66:61:A0:A1,svnet,WAP14_240D-2,94:BF:C4:31:32:30,622581,-65,31,g/n,223,nan,nan,nan,16,6/25/2024 22:05
+aid-jp6-f581c25b,Smartphone,Android,Android,172.18.42.8/::,0A:04:67:43:F9:00,svnet,WAP27_60 Bed-3,4C:B1:CD:36:B8:50,333498327,-63,33,g/n,215,nan,nan,nan,26,6/24/2024 21:18
+aid-jp6-f58ae758,Smartphone,Android,Android,172.18.34.66/::,0A:05:61:D1:20:4F,svnet,WAP22_120B-2,4C:B1:CD:36:AB:90,1902335,-50,46,g/n,211,nan,nan,nan,1,6/25/2024 22:22
+aid-jp6-f5a9b5a5,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.44.7/::,0A:06:D6:93:44:59,svnet,RuckusAP,20:58:69:01:A5:C0,636273,-44,52,g/n,216,nan,nan,nan,0,6/24/2024 21:12
+aid-jp6-f5afc561,Unknown,Unknown,Unknown,172.18.42.22/::,0A:06:5A:04:24:B8,svnet,WAP15_240D-3,4C:B1:CD:36:AA:D0,4439664,-61,35,g/n,215,nan,nan,nan,43,6/26/2024 0:12
+aid-jp6-f614d24d,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.32.41/::,0A:04:67:C1:CC:FB,svnet,WAP28_60 Bed-4,4C:B1:CD:36:DC:70,91295488,-60,36,g/n,210,nan,nan,nan,0,6/25/2024 19:00
+aid-jp6-f66d3d60,Unknown,Unknown,Android,172.18.40.54/::,0A:04:67:B1:D4:72,svnet,WAP36_FHU,94:BF:C4:31:32:30,122825,-71,25,g/n,214,nan,nan,nan,4,6/20/2024 11:21
+aid-jp6-f6c5119a,Smartphone,Android,Android,172.18.34.14/::,0A:06:5A:02:54:E0,svnet,WAP31_80 Lower 1,1C:3A:60:06:D3:C0,477381,-42,54,g/n,211,nan,nan,nan,0,6/14/2024 6:52
+aid-jp6-f6df2db0,Smartphone,Android,Android,172.18.46.33/::,0A:04:67:50:84:D5,svnet,WAP_240B-2,4C:B1:CD:36:AA:D0,3680673,-63,33,g/n,217,nan,nan,nan,99,6/24/2024 9:25
+aid-jp6-f731322c,Smartphone,Android,Android,172.18.50.62/::,0A:06:D6:A2:F8:5A,svnet,WAP28_60 Bed-4,4C:B1:CD:36:DC:70,7762374,-63,33,g/n,219,nan,nan,nan,0,6/25/2024 19:58
+aid-jp6-f7a51c73,Smartphone,Android,Android,172.18.58.48/::,0A:04:2A:61:B8:35,svnet,WAP27_60 Bed-3,4C:B1:CD:36:DC:70,3936582,-56,40,g/n,223,nan,nan,nan,1,6/25/2024 7:32
+aid-jp6-f7e6a40a,Smartphone,Android,Android,172.18.48.62/::,0A:04:27:F2:A8:55,svnet,WAP21_120B-1,4C:B1:CD:36:ED:70,2168351,-75,21,g/n,218,nan,nan,nan,6,6/25/2024 19:01
+aid-jp6-f80f677b,Smartphone,Android,Android,172.18.32.12/::,0A:05:61:B1:B0:27,svnet,RuckusAP,94:BF:C4:31:2B:B0,393963,-58,38,g/n,210,nan,nan,nan,0,6/25/2024 13:34
+aid-jp6-f84c8b1c,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.44.47/::,0A:06:D6:A2:00:3C,svnet,WAP21_120B-1,4C:B1:CD:36:AB:90,7448537,-64,32,g/n,216,nan,nan,nan,4,6/25/2024 21:09
+aid-jp6-f86e7157,Unknown,Unknown,Android,172.18.46.46/::,0A:06:5C:11:2C:C0,svnet,WAP22_120B-2,4C:B1:CD:36:ED:70,213191,-52,44,g/n,217,nan,nan,nan,0,6/13/2024 8:20
+aid-jp6-f885e4b8,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.54.37/::,0A:04:67:A2:B0:58,svnet,Roll Call,1C:3A:60:03:4E:90,822033872,-56,40,a/n,221,nan,nan,nan,9,6/25/2024 13:39
+aid-jp6-f9b3cd85,Smartphone,Android,Android,172.18.56.10/::,0A:06:98:50:EC:A5,svnet,WAP2_Central Control Rm,20:58:69:0A:7A:D0,3144215,-46,50,g/n,222,nan,nan,nan,0,6/24/2024 13:59
+aid-jp6-f9d6ccf5,Smartphone,Android,Android,172.18.62.10/::,0A:06:5C:11:8C:C1,svnet,RuckusAP,94:BF:C4:31:2B:B0,2303045,-54,42,g/n,225,nan,nan,nan,1,6/25/2024 20:48
+aid-jp6-f9f77401,Unknown,Unknown,Unknown,172.18.62.43/::,0A:05:60:F1:68:A3,svnet,WAP21_120B-1,4C:B1:CD:36:ED:70,1950017,-43,53,g/n,225,nan,nan,nan,35,6/25/2024 20:40
+aid-jp6-fa282e28,Unknown,Unknown,Android,172.18.46.32/::,0A:05:61:E0:84:83,svnet,80 Upper U-AP1,1C:3A:60:03:7E:A0,98458,-78,18,a/n,217,nan,nan,nan,0,6/24/2024 16:29
+aid-jp6-fa4997fe,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.48.11/::,0A:05:9F:F2:48:57,svnet,WAP_240B-3,4C:B1:CD:36:BE:C0,115421138,-56,40,g/n,218,nan,nan,nan,1,6/23/2024 12:59
+aid-jp6-fa6e9738,Smartphone,Android,Android,172.18.46.54/::,0A:04:67:A3:C1:03,svnet,WAP22_120B-2,4C:B1:CD:36:AB:90,11623671,-55,41,g/n,217,nan,nan,nan,225,6/25/2024 14:02
+aid-jp6-fa90d9e7,Smartphone,Android,Android,172.18.40.21/::,0A:04:67:42:80:FE,svnet,WAP_240B-2,4C:B1:CD:36:BE:C0,12310979,-51,45,g/n,214,nan,nan,nan,0,6/25/2024 22:24
+aid-jp6-fb0ddb45,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.38.28/::,0A:05:62:61:2C:5B,svnet,WAP22_120B-2,4C:B1:CD:36:ED:70,786806,-78,18,a/n,213,nan,nan,nan,14,6/24/2024 21:24
+aid-jp6-fb24edc3,Smartphone,Android,Android,172.18.34.18/::,0A:04:67:A1:D4:E1,svnet,WAP_240A-2,4C:B1:CD:36:AB:60,56585,-71,25,a/n,211,nan,nan,nan,0,6/19/2024 9:14
+aid-jp6-fb299b43,Smartphone,Android,Android,172.18.52.22/::,0A:04:67:B4:B4:A3,svnet,WAP_240B-3,4C:B1:CD:36:BE:C0,392505,-71,25,g/n,220,nan,nan,nan,5,6/25/2024 21:14
+aid-jp6-fb66e074,Unknown,Unknown,Unknown,172.18.54.8/::,0A:04:67:53:1D:24,svnet,RuckusAP,20:58:69:01:B8:80,7544,-85,11,g/n,221,nan,nan,nan,0,6/25/2024 7:36
+aid-jp6-fbb45eff,Smartphone,Android,Android,172.18.42.45/::,0A:06:5A:02:8C:D3,svnet,WAP22_120B-2,4C:B1:CD:36:AB:90,526857,-62,34,g/n,215,nan,nan,nan,0,6/23/2024 14:01
+aid-jp6-fbdcada2,Smartphone,Android,Android,172.18.62.48/::,0A:05:61:D0:A4:89,svnet,WAP27_60 Bed-3,4C:B1:CD:36:B8:50,2446171,-61,35,g/n,225,nan,nan,nan,0,6/25/2024 23:49
+aid-jp6-fbf06ae1,Smartphone,Android,Android,172.18.62.51/::,0A:05:62:43:30:E4,svnet,WAP27_60 Bed-3,4C:B1:CD:36:B8:50,1205978,-44,52,g/n,225,nan,nan,nan,0,6/25/2024 0:58
+aid-jp6-fc15ebf3,Unknown,Unknown,Android,172.18.58.57/::,0A:06:D6:F1:08:E8,svnet,WAP_240C-3,4C:B1:CD:36:B1:50,52305,-60,36,g/n,223,nan,nan,nan,0,6/24/2024 23:02
+aid-jp6-fc2462bf,Smartphone,Android,Android,172.18.40.10/::,0A:04:66:62:08:97,svnet,WAP15_240D-3,4C:B1:CD:36:B2:40,400025,-59,37,g/n,214,nan,nan,nan,2,6/20/2024 10:36
+aid-jp6-fc430d23,Smartphone,Android,Android,172.18.40.12/::,0A:04:67:A3:30:4C,svnet,RuckusAP,20:58:69:01:B8:80,295418,-40,56,g/n,214,nan,nan,nan,0,6/25/2024 11:09
+aid-jp6-fc60aa91,Unknown,Unknown,Android,172.18.38.38/::,0A:04:67:81:28:49,svnet,WAP22_120B-2,4C:B1:CD:36:ED:70,143748,-65,31,g/n,213,nan,nan,nan,0,6/13/2024 8:27
+aid-jp6-fca12142,Smartphone,Android,Android,172.18.50.17/::,0A:04:67:52:19:19,svnet,WAP27_60 Bed-3,4C:B1:CD:36:DC:70,370119,-77,19,a/n,219,nan,nan,nan,0,6/25/2024 19:13
+aid-jp6-fccb42e2,Unknown,Unknown,Android,172.18.34.24/::,0A:04:67:43:EC:5E,svnet,WAP_240A-3,1C:3A:60:03:7E:A0,514681,-66,30,g/n,211,nan,nan,nan,0,6/25/2024 22:36
+aid-jp6-fce8799b,Smartphone,Android,Android,172.18.62.53/::,0A:06:98:51:BD:20,svnet,WAP31_80 Lower 2,1C:3A:60:03:7E:A0,7338,-63,33,g/n,225,nan,nan,nan,0,6/25/2024 18:11
+aid-jp6-fd0874fa,Smartphone,Android,Android,172.18.54.6/::,0A:06:D6:80:D4:72,svnet,RuckusAP,20:58:69:01:B8:80,71155,-48,48,g/n,221,nan,nan,nan,0,6/25/2024 21:10
+aid-jp6-fd2c9d4f,Tablet,Android,Generic_Android wv/Android 8.1.0,172.18.46.67/::,0A:05:9F:F2:24:13,svnet,WAP31_80 Lower 1,1C:3A:60:03:4E:90,132445607,-53,43,a/n,217,nan,nan,nan,0,6/25/2024 21:04
+aid-jp6-fd72da8b,Smartphone,Android,Android,172.18.46.13/::,0A:05:62:42:D0:1D,svnet,80 Upper U-AP1,C8:08:73:32:90:B0,234267,-56,40,a/n,217,nan,nan,nan,0,6/25/2024 21:57
+aid-jp6-fda1360f,Smartphone,Android,Android,172.18.60.7/::,0A:05:9F:F3:5C:48,svnet,RuckusAP,94:BF:C4:31:2B:B0,2554676,-60,36,g/n,224,nan,nan,nan,0,6/12/2024 20:15
+aid-jp6-fe0e2135,Smartphone,Android,Android,172.18.46.48/::,0A:05:9F:F2:84:0C,svnet,WAP_240C-3,4C:B1:CD:36:9A:30,515493,-65,31,a/n,217,nan,nan,nan,0,6/19/2024 22:13
+aid-jp6-fe10978a,Smartphone,Android,Android,172.18.52.52/::,0A:06:D6:91:24:B7,svnet,80Upper UAP2,C8:08:73:32:90:B0,80958359,-35,61,g/n,220,nan,nan,nan,0,6/16/2024 18:15
+aid-jp6-fe84cfc1,Smartphone,Android,Android,172.18.32.60/::,0A:06:D6:92:40:0F,svnet,80 Upper U-AP1,94:BF:C4:31:32:30,917437,-71,25,g/n,210,nan,nan,nan,4,6/24/2024 19:30
+aid-jp6-ff8d1adf,Smartphone,Android,Android,172.18.56.38/::,0A:06:D6:F2:DC:A8,svnet,WAP31_80 Lower 2,1C:3A:60:03:4E:90,2351811,-70,26,a/n,222,nan,nan,nan,0,6/20/2024 15:56
+CXMHM53,Laptop,Windows,Microsoft Windows/Windows 10.0.0,192.168.110.1/::,8C:C6:81:1F:5D:42,$uruc3$_F$T,Roll Call,94:BF:C4:31:32:30,37396193,-74,22,a/n/ac,110,nan,nan,nan,0,6/26/2024 6:38

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="408px" height="392px" viewBox="0 0 408 392" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Artboard</title>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#303030" x="206" y="121" width="15" height="175" rx="7.5"></rect>
+        <rect id="Rectangle" fill="#303030" x="206" y="271" width="15" height="33"></rect>
+        <path d="M152.643163,216.179267 L243.19698,228.344515 L257.963798,245.000389 L242.194964,261.868358 L151.155436,268.549171 L152.643163,216.179267 Z" id="Polygon" stroke="#979797" fill="#FF0000" transform="translate(204.6399, 242.349) rotate(178) translate(-204.6399, -242.349)"></path>
+        <path d="M156.75,138.554849 L264.608747,149.801891 L284.516437,167.19645 L264.594582,186.938463 L156.75,196.453941 L156.75,138.554849 Z" id="Polygon" stroke="#979797" fill="#37CD00" transform="translate(220.75, 167.5) rotate(-6) translate(-220.75, -167.5)"></path>
+    </g>
+</svg>
